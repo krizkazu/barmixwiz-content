@@ -1,0 +1,12 @@
+{
+  "library": {
+    "version": 1,
+    "updated_at": "2026-01-18",
+    "path": "library/index.json"
+  },
+  "cocktails": {
+    "version": 1,
+    "updated_at": "2026-01-18",
+    "path": "cocktails/default/index.json"
+  }
+}
