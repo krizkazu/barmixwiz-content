@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "updated_at": "2026-01-18",
+  "title": "Library",
+  "description": "Professional knowledge base for bartenders and bar managers.",
+  "items": [
+    {
+      "id": "cocktail_terminology",
+      "title": "Cocktail Terminology",
+      "description": "Essential terms and definitions used in cocktails and bartending.",
+      "path": "cocktail_terminology.json"
+    },
+    {
+      "id": "cocktail_history",
+      "title": "Cocktail History",
+      "description": "Origins, evolution, and historical milestones of classic cocktails.",
+      "path": "cocktail_history.json"
+    },
+    {
+      "id": "cocktail_equipment",
+      "title": "Cocktail Equipment",
+      "description": "Bar tools, glassware, and equipment used by professional bartenders.",
+      "path": "cocktail_equipment.json"
+    },
+    {
+      "id": "cocktail_recipes",
+      "title": "Cocktail Recipes",
+      "description": "Understanding recipes, structures, and classic cocktail builds.",
+      "path": "cocktail_recipes.json"
+    },
+    {
+      "id": "bartending_techniques",
+      "title": "Bartending Techniques",
+      "description": "Methods and techniques used in professional bartending.",
+      "path": "bartending_techniques.json"
+    },
+    {
+      "id": "bar_management",
+      "title": "Bar Management",
+      "description": "Knowledge for managing a bar, staff, workflow, and operations.",
+      "path": "bar_management.json"
+    },
+    {
+      "id": "cocktail_trends",
+      "title": "Cocktail Trends",
+      "description": "Modern trends, styles, and movements in the cocktail world.",
+      "path": "cocktail_trends.json"
+    },
+    {
+      "id": "cocktail_culture",
+      "title": "Cocktail Culture",
+      "description": "Social, cultural, and lifestyle aspects of cocktails and bars.",
+      "path": "cocktail_culture.json"
+    },
+    {
+      "id": "health_and_safety",
+      "title": "Health and Safety",
+      "description": "Hygiene, safety standards, and responsible service practices.",
+      "path": "health_and_safety.json"
+    },
+    {
+      "id": "sustainability_innovation",
+      "title": "Sustainability and Innovation",
+      "description": "Sustainable practices and innovation in modern bar operations.",
+      "path": "sustainability_innovation.json"
+    }
+  ]
+}
