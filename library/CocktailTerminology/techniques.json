@@ -1,0 +1,132 @@
+{
+  "title": "Techniques",
+  "sections": [
+    {
+      "letter": "A",
+      "items": [
+        {
+          "term": "Aging (Barrel Aging)",
+          "description": "Storing cocktails or spirits in barrels to develop deeper flavors and complexity."
+        }
+      ]
+    },
+    {
+      "letter": "B",
+      "items": [
+        {
+          "term": "Build",
+          "description": "Making a drink directly in the serving glass by adding ingredients one by one."
+        },
+        {
+          "term": "Burn (Flame)",
+          "description": "Igniting citrus oils or alcohol briefly for aroma or presentation."
+        }
+      ]
+    },
+    {
+      "letter": "D",
+      "items": [
+        {
+          "term": "Dry Shake",
+          "description": "Shaking ingredients without ice, usually to emulsify egg white or aquafaba."
+        },
+        {
+          "term": "Double Strain",
+          "description": "Straining a cocktail through two strainers to remove small ice shards or pulp."
+        }
+      ]
+    },
+    {
+      "letter": "F",
+      "items": [
+        {
+          "term": "Flaming",
+          "description": "Briefly igniting alcohol or citrus oils for aroma and visual effect."
+        },
+        {
+          "term": "Float",
+          "description": "Gently pouring an ingredient on top of a drink to create a separate layer."
+        }
+      ]
+    },
+    {
+      "letter": "I",
+      "items": [
+        {
+          "term": "Infusion",
+          "description": "Flavoring a spirit by steeping herbs, spices, fruits, or other ingredients."
+        }
+      ]
+    },
+    {
+      "letter": "L",
+      "items": [
+        {
+          "term": "Layering",
+          "description": "Pouring liquids of different densities carefully to form visible layers."
+        }
+      ]
+    },
+    {
+      "letter": "M",
+      "items": [
+        {
+          "term": "Muddle",
+          "description": "Gently pressing ingredients to release essential oils or juice without pulverizing."
+        }
+      ]
+    },
+    {
+      "letter": "R",
+      "items": [
+        {
+          "term": "Rolling",
+          "description": "Pouring a drink back and forth between two vessels to mix gently and aerate lightly."
+        },
+        {
+          "term": "Rim (Rimming)",
+          "description": "Coating the rim of a glass with salt, sugar, or spice."
+        }
+      ]
+    },
+    {
+      "letter": "S",
+      "items": [
+        {
+          "term": "Shake",
+          "description": "Mixing ingredients vigorously with ice to chill, dilute, and aerate."
+        },
+        {
+          "term": "Stir",
+          "description": "Gently mixing ingredients with ice to chill while maintaining clarity."
+        },
+        {
+          "term": "Strain",
+          "description": "Separating liquid from ice or solids when pouring into a glass."
+        }
+      ]
+    },
+    {
+      "letter": "T",
+      "items": [
+        {
+          "term": "Throwing",
+          "description": "Pouring a drink between containers from height to aerate and chill."
+        },
+        {
+          "term": "Top Up",
+          "description": "Finishing a drink by adding a sparkling or light ingredient."
+        }
+      ]
+    },
+    {
+      "letter": "W",
+      "items": [
+        {
+          "term": "Whip Shake",
+          "description": "Shaking briefly with a small amount of ice to create rapid dilution and foam."
+        }
+      ]
+    }
+  ]
+}
