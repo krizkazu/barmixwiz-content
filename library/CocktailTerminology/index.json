@@ -8,7 +8,7 @@
       "id": "basic_terms",
       "title": "Basic Terms",
       "description": "Definitions of common cocktail-related terms",
-      "path": "basic_terms.json"
+      "path": "basic-terms.json"
     },
     {
       "id": "glassware",

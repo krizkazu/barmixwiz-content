@@ -1,0 +1,211 @@
+{
+  "title": "Basic Terms",
+  "sections": [
+    {
+      "letter": "A",
+      "items": [
+        {
+          "term": "ABV (Alcohol by Volume)",
+          "description": "The percentage of alcohol in a beverage."
+        },
+        {
+          "term": "Aperitif",
+          "description": "A drink served before a meal to stimulate appetite."
+        }
+      ]
+    },
+    {
+      "letter": "B",
+      "items": [
+        {
+          "term": "Bitters",
+          "description": "Highly concentrated alcoholic infusions flavored with herbs, spices, or roots."
+        },
+        {
+          "term": "Build",
+          "description": "To make a drink directly in the serving glass without shaking or stirring separately."
+        }
+      ]
+    },
+    {
+      "letter": "C",
+      "items": [
+        {
+          "term": "Chill",
+          "description": "To cool a glass or liquid, usually with ice."
+        },
+        {
+          "term": "Cocktail",
+          "description": "A mixed alcoholic drink made with spirits and other ingredients."
+        }
+      ]
+    },
+    {
+      "letter": "D",
+      "items": [
+        {
+          "term": "Dash",
+          "description": "A very small amount of liquid, usually bitters (approx. a few drops)."
+        },
+        {
+          "term": "Dilution",
+          "description": "Water added to a drink through melting ice during shaking or stirring."
+        }
+      ]
+    },
+    {
+      "letter": "F",
+      "items": [
+        {
+          "term": "Float",
+          "description": "To gently pour an ingredient on top of a drink so it remains layered."
+        },
+        {
+          "term": "Fresh",
+          "description": "Indicates freshly squeezed juice rather than bottled."
+        }
+      ]
+    },
+    {
+      "letter": "G",
+      "items": [
+        {
+          "term": "Garnish",
+          "description": "A decorative or aromatic element added to a drink (e.g., citrus peel, olive)."
+        }
+      ]
+    },
+    {
+      "letter": "H",
+      "items": [
+        {
+          "term": "Highball",
+          "description": "A tall drink made with a spirit and a larger proportion of mixer."
+        }
+      ]
+    },
+    {
+      "letter": "I",
+      "items": [
+        {
+          "term": "Infusion",
+          "description": "A spirit flavored by soaking ingredients such as fruits, herbs, or spices."
+        }
+      ]
+    },
+    {
+      "letter": "J",
+      "items": [
+        {
+          "term": "Jigger",
+          "description": "A measuring tool used to pour precise amounts of liquid."
+        }
+      ]
+    },
+    {
+      "letter": "L",
+      "items": [
+        {
+          "term": "Layering",
+          "description": "Pouring liquids of different densities to create visible layers."
+        }
+      ]
+    },
+    {
+      "letter": "M",
+      "items": [
+        {
+          "term": "Muddle",
+          "description": "To gently crush ingredients to release flavors (usually herbs or fruit)."
+        },
+        {
+          "term": "Mixer",
+          "description": "A non-alcoholic ingredient added to a spirit (e.g., soda, tonic, juice)."
+        }
+      ]
+    },
+    {
+      "letter": "N",
+      "items": [
+        {
+          "term": "Neat",
+          "description": "A spirit served alone, without ice or mixers."
+        }
+      ]
+    },
+    {
+      "letter": "O",
+      "items": [
+        {
+          "term": "On the Rocks",
+          "description": "A drink served over ice."
+        }
+      ]
+    },
+    {
+      "letter": "P",
+      "items": [
+        {
+          "term": "Proof",
+          "description": "A measure of alcohol strength (mostly used in the U.S.)."
+        },
+        {
+          "term": "Punch",
+          "description": "A shared mixed drink, traditionally served in a large bowl."
+        }
+      ]
+    },
+    {
+      "letter": "S",
+      "items": [
+        {
+          "term": "Shake",
+          "description": "To mix ingredients vigorously with ice using a shaker."
+        },
+        {
+          "term": "Short Drink",
+          "description": "A small-volume cocktail, usually spirit-forward."
+        },
+        {
+          "term": "Sour",
+          "description": "A cocktail style with spirit, citrus juice, and sweetener."
+        },
+        {
+          "term": "Stir",
+          "description": "To gently mix ingredients with ice, usually for clear drinks."
+        },
+        {
+          "term": "Strain",
+          "description": "To separate liquid from ice or solids when pouring."
+        }
+      ]
+    },
+    {
+      "letter": "T",
+      "items": [
+        {
+          "term": "Top Up",
+          "description": "To finish a drink by adding a mixer or sparkling ingredient."
+        }
+      ]
+    },
+    {
+      "letter": "U",
+      "items": [
+        {
+          "term": "Up",
+          "description": "A drink served chilled but without ice in the glass."
+        }
+      ]
+    },
+    {
+      "letter": "W",
+      "items": [
+        {
+          "term": "Well Drink",
+          "description": "A cocktail made with the house (non-premium) spirits."
+        }
+      ]
+    }
+  ]
+}
