@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "updated_at": "2026-01-18",
+  "title": "Cocktail Terminology",
+  "description": "Essential terms and definitions used in cocktails and bartending.",
+  "items": [
+    {
+      "id": "basic_terms",
+      "title": "Basic Terms",
+      "description": "Definitions of common cocktail-related terms",
+      "path": "basic_terms.json"
+    },
+    {
+      "id": "glassware",
+      "title": "Glassware",
+      "description": "Types of glasses and their uses",
+      "path": "glassware.json"
+    },
+    {
+      "id": "techniques",
+      "title": "Techniques",
+      "description": "Methods used in making cocktails",
+      "path": "techniques.json"
+    },
+    {
+      "id": "measurements_units",
+      "title": "Measurements & Units",
+      "description": "Standard measurements and units used in bartending",
+      "path": "measurements_units.json"
+    },
+    {
+      "id": "ingredients",
+      "title": "Ingredients",
+      "description": "Common cocktail ingredients and their definitions",
+      "path": "ingredients.json"
+    }
+  ]
+}
