@@ -1,0 +1,121 @@
+{
+  "title": "Measurements & Units",
+  "sections": [
+    {
+      "letter": "Volume Measurements",
+      "items": [
+        {
+          "term": "Milliliter (ml)",
+          "description": "The most widely used measurement system internationally."
+        },
+        {
+          "term": "Ounce (oz)",
+          "description": "A volume unit mainly used in the United States and the United Kingdom."
+        },
+        {
+          "term": "Centiliter (cl)",
+          "description": "A metric unit commonly used in European bars and menus."
+        }
+      ]
+    },
+    {
+      "letter": "Bar Measures",
+      "items": [
+        {
+          "term": "Jigger",
+          "description": "A double-sided measuring tool used for accurate pours."
+        },
+        {
+          "term": "Half Jigger",
+          "description": "A smaller measure used for modifiers or secondary ingredients."
+        },
+        {
+          "term": "Free Pour",
+          "description": "Pouring without a measuring tool, relying on timing and experience."
+        }
+      ]
+    },
+    {
+      "letter": "Small Quantities",
+      "items": [
+        {
+          "term": "Dash",
+          "description": "A very small amount of liquid, most commonly used for bitters."
+        },
+        {
+          "term": "Drop",
+          "description": "A single drop of liquid, smaller than a dash."
+        },
+        {
+          "term": "Splash",
+          "description": "A loose, non-precise small amount, usually of a mixer."
+        }
+      ]
+    },
+    {
+      "letter": "Spoon-Based Measures",
+      "items": [
+        {
+          "term": "Bar Spoon",
+          "description": "A unit used for small liquid quantities, syrups, or liqueurs."
+        },
+        {
+          "term": "Teaspoon (tsp)",
+          "description": "A household measurement sometimes found in older recipes."
+        }
+      ]
+    },
+    {
+      "letter": "Ratios",
+      "items": [
+        {
+          "term": "Ratio",
+          "description": "The proportional relationship between ingredients, independent of volume units."
+        },
+        {
+          "term": "Equal Parts",
+          "description": "An equal amount of each ingredient in a recipe."
+        },
+        {
+          "term": "Classic Sour Ratio",
+          "description": "A traditional balance between spirit, sour, and sweet components."
+        }
+      ]
+    },
+    {
+      "letter": "Ice & Dilution",
+      "items": [
+        {
+          "term": "Dilution",
+          "description": "Water added to a drink through melting ice during preparation."
+        },
+        {
+          "term": "Pre-Dilution",
+          "description": "Adding a controlled amount of water before serving."
+        }
+      ]
+    },
+    {
+      "letter": "Strength Indicators",
+      "items": [
+        {
+          "term": "ABV (Alcohol by Volume)",
+          "description": "The percentage of alcohol in a liquid."
+        },
+        {
+          "term": "Proof",
+          "description": "An alternative system for expressing alcohol strength."
+        }
+      ]
+    },
+    {
+      "letter": "Why Measurements Matter",
+      "items": [
+        {
+          "term": "Why Measurements Matter",
+          "description": "Ensure consistency. Allow accurate recipe replication. Maintain flavor balance. Make recipes universally understandable."
+        }
+      ]
+    }
+  ]
+}

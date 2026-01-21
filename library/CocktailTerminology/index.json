@@ -26,7 +26,7 @@
       "id": "measurements_units",
       "title": "Measurements & Units",
       "description": "Standard measurements and units used in bartending",
-      "path": "measurements_units.json"
+      "path": "measurements-units.json"
     },
     {
       "id": "ingredients",
