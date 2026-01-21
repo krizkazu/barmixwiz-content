@@ -1,0 +1,133 @@
+{
+  "title": "Glassware",
+  "sections": [
+    {
+      "letter": "A",
+      "items": [
+        {
+          "term": "Absinthe Glass",
+          "description": "A short glass traditionally used for serving absinthe, often with markings for water dilution."
+        }
+      ]
+    },
+    {
+      "letter": "C",
+      "items": [
+        {
+          "term": "Champagne Flute",
+          "description": "A tall, narrow glass designed to preserve carbonation in sparkling drinks."
+        },
+        {
+          "term": "Cocktail Glass (Martini Glass)",
+          "description": "A stemmed glass with a wide bowl, used for cocktails served “up.”"
+        },
+        {
+          "term": "Collins Glass",
+          "description": "A tall, narrow glass used for long drinks with ice and mixers."
+        },
+        {
+          "term": "Coupe Glass",
+          "description": "A shallow, stemmed glass used for classic and modern cocktails served without ice."
+        }
+      ]
+    },
+    {
+      "letter": "F",
+      "items": [
+        {
+          "term": "Flute",
+          "description": "See Champagne Flute; commonly used for sparkling cocktails."
+        }
+      ]
+    },
+    {
+      "letter": "H",
+      "items": [
+        {
+          "term": "Highball Glass",
+          "description": "A tall glass used for spirit-and-mixer drinks with ice."
+        },
+        {
+          "term": "Hurricane Glass",
+          "description": "A large, curved glass associated with tropical and frozen cocktails."
+        }
+      ]
+    },
+    {
+      "letter": "L",
+      "items": [
+        {
+          "term": "Lowball Glass",
+          "description": "See Old Fashioned Glass."
+        }
+      ]
+    },
+    {
+      "letter": "M",
+      "items": [
+        {
+          "term": "Margarita Glass",
+          "description": "A wide-rimmed, stemmed glass traditionally used for Margaritas."
+        }
+      ]
+    },
+    {
+      "letter": "N",
+      "items": [
+        {
+          "term": "Nick & Nora Glass",
+          "description": "A small, elegant stemmed glass used for spirit-forward cocktails."
+        }
+      ]
+    },
+    {
+      "letter": "O",
+      "items": [
+        {
+          "term": "Old Fashioned Glass (Rocks Glass)",
+          "description": "A short, wide glass used for drinks served over ice."
+        }
+      ]
+    },
+    {
+      "letter": "P",
+      "items": [
+        {
+          "term": "Pilsner Glass",
+          "description": "A tall glass used for beer and beer-based cocktails."
+        }
+      ]
+    },
+    {
+      "letter": "S",
+      "items": [
+        {
+          "term": "Shot Glass",
+          "description": "A small glass designed for straight spirits or shooters."
+        },
+        {
+          "term": "Snifter",
+          "description": "A short-stemmed glass with a wide bowl, used for aromatic spirits."
+        }
+      ]
+    },
+    {
+      "letter": "T",
+      "items": [
+        {
+          "term": "Tiki Mug",
+          "description": "A decorative ceramic vessel used for tiki and tropical cocktails."
+        }
+      ]
+    },
+    {
+      "letter": "W",
+      "items": [
+        {
+          "term": "Wine Glass",
+          "description": "Used for wine-based cocktails or spritz-style drinks."
+        }
+      ]
+    }
+  ]
+}
