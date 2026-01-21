@@ -1,0 +1,171 @@
+{
+  "title": "Ingredients",
+  "sections": [
+    {
+      "letter": "A",
+      "items": [
+        {
+          "term": "Amaro",
+          "description": "A bittersweet herbal liqueur traditionally consumed as a digestif."
+        },
+        {
+          "term": "Aromatic Bitters",
+          "description": "Concentrated bitters used mainly for aroma and balance."
+        }
+      ]
+    },
+    {
+      "letter": "B",
+      "items": [
+        {
+          "term": "Base Spirit",
+          "description": "The primary alcoholic component of a cocktail (e.g., gin, rum, vodka)."
+        },
+        {
+          "term": "Bitters",
+          "description": "Alcoholic infusions made from herbs, roots, spices, or bark, used in small amounts."
+        }
+      ]
+    },
+    {
+      "letter": "C",
+      "items": [
+        {
+          "term": "Citrus Juice",
+          "description": "Freshly squeezed juice (lemon, lime, orange, grapefruit) used for acidity."
+        },
+        {
+          "term": "Cordials",
+          "description": "Sweetened, flavored spirits or liqueurs."
+        },
+        {
+          "term": "Cream",
+          "description": "Dairy ingredient used to add richness and texture."
+        }
+      ]
+    },
+    {
+      "letter": "D",
+      "items": [
+        {
+          "term": "Digestif",
+          "description": "A spirit or liqueur traditionally consumed after a meal."
+        }
+      ]
+    },
+    {
+      "letter": "F",
+      "items": [
+        {
+          "term": "Fresh Juice",
+          "description": "Juice squeezed shortly before use, preferred over bottled."
+        },
+        {
+          "term": "Fortified Wine",
+          "description": "Wine strengthened with added spirits (e.g., vermouth, sherry)."
+        }
+      ]
+    },
+    {
+      "letter": "G",
+      "items": [
+        {
+          "term": "Garnish",
+          "description": "An edible or aromatic item added for presentation or aroma."
+        },
+        {
+          "term": "Grenadine",
+          "description": "A sweet syrup traditionally made from pomegranate."
+        }
+      ]
+    },
+    {
+      "letter": "H",
+      "items": [
+        {
+          "term": "Herbs",
+          "description": "Fresh aromatic plants used in cocktails (e.g., mint, basil, rosemary)."
+        }
+      ]
+    },
+    {
+      "letter": "I",
+      "items": [
+        {
+          "term": "Ice",
+          "description": "Frozen water used for chilling, dilution, and texture."
+        },
+        {
+          "term": "Infused Spirit",
+          "description": "A spirit flavored by steeping ingredients over time."
+        }
+      ]
+    },
+    {
+      "letter": "J",
+      "items": [
+        {
+          "term": "Juice",
+          "description": "Extracted liquid from fruits or vegetables used in cocktails."
+        }
+      ]
+    },
+    {
+      "letter": "L",
+      "items": [
+        {
+          "term": "Liqueur",
+          "description": "A sweetened spirit flavored with fruits, herbs, spices, or nuts."
+        }
+      ]
+    },
+    {
+      "letter": "M",
+      "items": [
+        {
+          "term": "Mixer",
+          "description": "A non-alcoholic liquid added to a spirit (e.g., soda, tonic, ginger beer)."
+        },
+        {
+          "term": "Modifier",
+          "description": "An ingredient that alters flavor, sweetness, or strength without being dominant."
+        }
+      ]
+    },
+    {
+      "letter": "S",
+      "items": [
+        {
+          "term": "Simple Syrup",
+          "description": "A mixture of sugar and water used as a sweetener."
+        },
+        {
+          "term": "Sour Component",
+          "description": "The acidic element of a cocktail, usually citrus juice."
+        },
+        {
+          "term": "Spirit",
+          "description": "Distilled alcoholic beverage with high alcohol content."
+        }
+      ]
+    },
+    {
+      "letter": "T",
+      "items": [
+        {
+          "term": "Tonic Water",
+          "description": "Carbonated mixer flavored with quinine."
+        }
+      ]
+    },
+    {
+      "letter": "V",
+      "items": [
+        {
+          "term": "Vermouth",
+          "description": "Aromatized fortified wine used in many classic cocktails."
+        }
+      ]
+    }
+  ]
+}
