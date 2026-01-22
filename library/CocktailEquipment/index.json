@@ -1,0 +1,26 @@
+{
+  "title": "Cocktail Equipment",
+  "type": "list",
+  "items": [
+    {
+      "title": "Essential Bar Tools",
+      "description": "Tools every bartender should have (e.g., shaker, strainer, muddler).",
+      "path": "essential-bar-tools.json"
+    },
+    {
+      "title": "Glassware Types",
+      "description": "Different glassware used for various drinks.",
+      "path": "glasswar-types.json"
+    },
+    {
+      "title": "Measuring Tools",
+      "description": "Jiggers, bar spoons, and other measuring instruments.",
+      "path": "measuring-tools.json"
+    },
+    {
+      "title": "Storage & Organization",
+      "description": "How to store and organize bar equipment.",
+      "path": "storage-organization.json"
+    }
+  ]
+}
