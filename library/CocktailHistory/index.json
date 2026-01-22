@@ -1,0 +1,30 @@
+{
+  "title": "Cocktail History",
+  "description": "Explore the origins, evolution, and cultural impact of cocktails through time.",
+  "items": [
+    {
+      "id": "origin_of_cocktails",
+      "title": "Origin of Cocktails",
+      "description": "The history and evolution of cocktails.",
+      "path": "origin-of-cocktails.json"
+    },
+    {
+      "id": "famous_cocktails",
+      "title": "Famous Cocktails",
+      "description": "The stories behind well-known cocktails (e.g., Margarita, Old Fashioned).",
+      "path": "famous-cocktails.json"
+    },
+    {
+      "id": "prohibition_era",
+      "title": "Prohibition Era",
+      "description": "How cocktails and bars were affected during the Prohibition.",
+      "path": "prohibition-era.json"
+    },
+    {
+      "id": "regional_variations",
+      "title": "Regional Variations",
+      "description": "How cocktails differ by region or country.",
+      "path": "regional-variations.json"
+    }
+  ]
+}
