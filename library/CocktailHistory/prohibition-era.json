@@ -2,192 +2,118 @@
   "title": "The Prohibition Era (1920–1933)",
   "sections": [
     {
-      "id": "overview",
-      "heading": "The Prohibition Era (1920–1933)",
-      "content": [
+      "letter": "The Prohibition Era (1920–1933)",
+      "items": [
         {
-          "type": "paragraph",
-          "text": "Prohibition was a period in the United States during which the production, sale, and transportation of alcoholic beverages were illegal."
+          "term": "Overview",
+          "description": "Prohibition was a period in the United States during which the production, sale, and transportation of alcoholic beverages were illegal."
         },
         {
-          "type": "paragraph",
-          "text": "Rather than eliminating drinking, it reshaped cocktail culture in dramatic ways."
-        },
-        {
-          "type": "paragraph",
-          "text": "Bars did not disappear — they went underground."
+          "term": "Underground Culture",
+          "description": "Rather than eliminating drinking, Prohibition reshaped cocktail culture, pushing bars underground instead of shutting them down."
         }
       ]
     },
     {
-      "id": "speakeasies",
-      "heading": "Speakeasies: The Hidden Bars",
-      "content": [
+      "letter": "Speakeasies: The Hidden Bars",
+      "items": [
         {
-          "type": "paragraph",
-          "text": "Illegal bars, known as speakeasies, flourished in cities."
+          "term": "What Were Speakeasies",
+          "description": "Illegal bars known as speakeasies flourished in cities, operating discreetly to avoid law enforcement."
         },
         {
-          "type": "paragraph",
-          "text": "Characteristics:"
+          "term": "Characteristics",
+          "description": "Hidden entrances and secret passwords, poor lighting and compact spaces, music and dancing, and alcohol served discreetly and quickly."
         },
         {
-          "type": "list",
-          "items": [
-            "Hidden entrances and secret passwords",
-            "Poor lighting and compact spaces",
-            "Music, dancing, and social mixing",
-            "Alcohol served discreetly and quickly"
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Cocktails became a way to mask low-quality alcohol rather than showcase fine spirits."
+          "term": "Cocktail Purpose",
+          "description": "Cocktails became a way to mask low-quality alcohol rather than showcase fine spirits."
         }
       ]
     },
     {
-      "id": "poor-quality-spirits",
-      "heading": "The Rise of Poor-Quality Spirits",
-      "content": [
+      "letter": "The Rise of Poor-Quality Spirits",
+      "items": [
         {
-          "type": "paragraph",
-          "text": "With legal distillation banned, alcohol was often:"
+          "term": "Alcohol Sources",
+          "description": "With legal distillation banned, alcohol was often smuggled (bootlegged), illegally distilled as bathtub gin, and inconsistent in quality and strength."
         },
         {
-          "type": "list",
-          "items": [
-            "Smuggled (bootlegged)",
-            "Illegally distilled (bathtub gin)",
-            "Inconsistent in quality and strength"
-          ]
+          "term": "Bartender Adaptation",
+          "description": "To make these spirits drinkable, bartenders relied on citrus juice, sugar or honey, and strong flavors or spices."
         },
         {
-          "type": "paragraph",
-          "text": "To make these spirits drinkable, bartenders relied on:"
-        },
-        {
-          "type": "list",
-          "items": [
-            "Citrus juice",
-            "Sugar and honey",
-            "Strong flavors and spices"
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "This led directly to the popularity of sweet and sour cocktails."
+          "term": "Resulting Style",
+          "description": "This directly led to the popularity of sweet and sour cocktails."
         }
       ]
     },
     {
-      "id": "cocktail-changes",
-      "heading": "How Cocktails Changed",
-      "content": [
+      "letter": "How Cocktails Changed",
+      "items": [
         {
-          "type": "paragraph",
-          "text": "During Prohibition:"
+          "term": "Flavor Profile",
+          "description": "Cocktails became stronger in flavor, heavily sweetened, and highly dependent on fresh citrus."
         },
         {
-          "type": "list",
-          "items": [
-            "Cocktails became stronger in flavor",
-            "Sweeteners were heavily used",
-            "Fresh citrus became essential",
-            "Presentation mattered less than drinkability"
-          ]
+          "term": "Priorities",
+          "description": "Presentation mattered less than drinkability and speed of service."
         },
         {
-          "type": "paragraph",
-          "text": "Many cocktails from this era are bold, acidic, and sweet by design."
+          "term": "Design Outcome",
+          "description": "Many cocktails from this era are bold, acidic, and sweet by design."
         }
       ]
     },
     {
-      "id": "famous-cocktails",
-      "heading": "Famous Prohibition-Era Cocktails",
-      "content": [
+      "letter": "Famous Prohibition-Era Cocktails",
+      "items": [
         {
-          "type": "paragraph",
-          "text": "Several iconic cocktails gained popularity during this period:"
+          "term": "Common Styles",
+          "description": "Gin-based sours, rum cocktails influenced by Caribbean imports, Champagne cocktails used for disguise and luxury, and simple highballs designed for fast service."
         },
         {
-          "type": "list",
-          "items": [
-            "Gin-based sours",
-            "Rum cocktails influenced by Caribbean imports",
-            "Champagne cocktails for disguise and luxury",
-            "Simple highballs for fast service"
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "These drinks prioritized speed, concealment, and flavor masking."
+          "term": "Core Goal",
+          "description": "These drinks prioritized speed, concealment, and masking harsh flavors."
         }
       ]
     },
     {
-      "id": "bartending-impact",
-      "heading": "Impact on Bartending Culture",
-      "content": [
+      "letter": "Impact on Bartending Culture",
+      "items": [
         {
-          "type": "paragraph",
-          "text": "Prohibition had long-term effects:"
+          "term": "Professional Consequences",
+          "description": "Many skilled bartenders emigrated to Europe and Cuba, spreading cocktail knowledge internationally."
         },
         {
-          "type": "list",
-          "items": [
-            "Many skilled bartenders emigrated to Europe and Cuba",
-            "Cocktail knowledge spread internationally",
-            "American bartending standards declined temporarily",
-            "Recipes became inconsistent and undocumented"
-          ]
+          "term": "Knowledge Loss",
+          "description": "American bartending standards declined temporarily, recipes became inconsistent, and much knowledge went undocumented."
         },
         {
-          "type": "paragraph",
-          "text": "After Prohibition ended, much traditional knowledge had to be rediscovered."
+          "term": "Aftermath",
+          "description": "When Prohibition ended, traditional bartending knowledge had to be rediscovered."
         }
       ]
     },
     {
-      "id": "legacy",
-      "heading": "The Legacy of Prohibition",
-      "content": [
+      "letter": "The Legacy of Prohibition",
+      "items": [
         {
-          "type": "paragraph",
-          "text": "Prohibition permanently shaped modern cocktails by:"
+          "term": "Lasting Influence",
+          "description": "Prohibition shaped modern cocktails by establishing citrus-driven structures, encouraging innovation under restriction, creating mystique around bar culture, and influencing bar aesthetics still used today."
         },
         {
-          "type": "list",
-          "items": [
-            "Establishing citrus-driven cocktail structures",
-            "Encouraging innovation under restriction",
-            "Creating mystique around bar culture",
-            "Influencing bar aesthetics still used today"
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Modern speakeasy-style bars are directly inspired by this era."
+          "term": "Modern Inspiration",
+          "description": "Modern speakeasy-style bars are directly inspired by this era."
         }
       ]
     },
     {
-      "id": "why-it-matters",
-      "heading": "Why This Matters Today",
-      "content": [
+      "letter": "Why This Matters Today",
+      "items": [
         {
-          "type": "paragraph",
-          "text": "Understanding Prohibition helps bartenders:"
-        },
-        {
-          "type": "list",
-          "items": [
-            "Understand why some cocktails are sweet or citrus-heavy",
-            "Respect historical context behind recipes",
-            "Explain cocktail stories to guests",
-            "Avoid repeating past mistakes in balance and quality"
-          ]
+          "term": "For Bartenders",
+          "description": "Understanding Prohibition helps bartenders understand why some cocktails are sweet or citrus-heavy, respect historical context, explain cocktail stories to guests, and avoid repeating past mistakes in balance and quality."
         }
       ]
     }

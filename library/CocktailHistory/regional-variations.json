@@ -2,257 +2,130 @@
   "title": "Regional Variations",
   "sections": [
     {
-      "id": "united-states",
-      "heading": "United States",
-      "content": [
+      "letter": "United States",
+      "items": [
         {
-          "type": "paragraph",
-          "text": "The United States is the birthplace of modern cocktail culture."
+          "term": "Overview",
+          "description": "The United States is the birthplace of modern cocktail culture."
         },
         {
-          "type": "paragraph",
-          "text": "Key characteristics:"
+          "term": "Key Characteristics",
+          "description": "Spirit-forward classics, clear cocktail structures such as sours, spirit-forward drinks, and highballs, with strong emphasis on technique and balance."
         },
         {
-          "type": "list",
-          "items": [
-            "Spirit-forward classics",
-            "Clear cocktail structures (sours, spirit-forward, highballs)",
-            "Emphasis on technique and balance"
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Historical influence:"
-        },
-        {
-          "type": "list",
-          "items": [
-            "Early cocktail definitions (1800s)",
-            "Prohibition shaped sweet and citrus-heavy drinks",
-            "Modern craft revival refined classic standards"
-          ]
+          "term": "Historical Influence",
+          "description": "Early cocktail definitions from the 1800s, Prohibition shaping sweet and citrus-heavy drinks, and the modern craft revival refining classic standards."
         }
       ]
     },
     {
-      "id": "europe",
-      "heading": "Europe",
-      "content": [
+      "letter": "Europe",
+      "items": [
         {
-          "type": "paragraph",
-          "text": "European cocktail culture developed differently, often centered around wine and aperitifs."
+          "term": "Overview",
+          "description": "European cocktail culture developed differently, often centered around wine and aperitifs."
         },
         {
-          "type": "paragraph",
-          "text": "Key characteristics:"
+          "term": "Key Characteristics",
+          "description": "Lower alcohol content, use of bitters and fortified wines, and strong aperitif and digestif traditions."
         },
         {
-          "type": "list",
-          "items": [
-            "Lower alcohol content",
-            "Bitters and fortified wines",
-            "Aperitif and digestif traditions"
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Notable influences:"
-        },
-        {
-          "type": "list",
-          "items": [
-            "Italy: bitter-forward drinks and aperitivo culture",
-            "France: champagne-based cocktails",
-            "UK: gin-forward classics"
-          ]
+          "term": "Notable Influences",
+          "description": "Italy with bitter-forward drinks and aperitivo culture, France with champagne-based cocktails, and the United Kingdom with gin-forward classics."
         }
       ]
     },
     {
-      "id": "caribbean",
-      "heading": "Caribbean",
-      "content": [
+      "letter": "Caribbean",
+      "items": [
         {
-          "type": "paragraph",
-          "text": "Caribbean cocktails are closely tied to rum production and tropical ingredients."
+          "term": "Overview",
+          "description": "Caribbean cocktails are closely tied to rum production and tropical ingredients."
         },
         {
-          "type": "paragraph",
-          "text": "Key characteristics:"
+          "term": "Key Characteristics",
+          "description": "Rum as the dominant base spirit, fresh citrus and sugar, and refreshing, heat-friendly profiles."
         },
         {
-          "type": "list",
-          "items": [
-            "Rum as the dominant base spirit",
-            "Fresh citrus and sugar",
-            "Refreshing, heat-friendly profiles"
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Cultural impact:"
-        },
-        {
-          "type": "list",
-          "items": [
-            "Birthplace of many rum classics",
-            "Influenced tropical and tiki-style cocktails"
-          ]
+          "term": "Cultural Impact",
+          "description": "Birthplace of many rum classics and a major influence on tropical and tiki-style cocktails."
         }
       ]
     },
     {
-      "id": "latin-america",
-      "heading": "Latin America",
-      "content": [
+      "letter": "Latin America",
+      "items": [
         {
-          "type": "paragraph",
-          "text": "Latin American cocktails reflect local spirits and strong regional identity."
+          "term": "Overview",
+          "description": "Latin American cocktails reflect local spirits and strong regional identity."
         },
         {
-          "type": "paragraph",
-          "text": "Key characteristics:"
+          "term": "Key Characteristics",
+          "description": "Use of indigenous spirits, fresh fruit, bold flavors, and simple but expressive recipes."
         },
         {
-          "type": "list",
-          "items": [
-            "Use of indigenous spirits",
-            "Fresh fruit and bold flavors",
-            "Simple but expressive recipes"
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Common themes:"
-        },
-        {
-          "type": "list",
-          "items": [
-            "Tequila and agave spirits",
-            "Sugarcane-based alcohols",
-            "Citrus-driven balance"
-          ]
+          "term": "Common Themes",
+          "description": "Tequila and agave spirits, sugarcane-based alcohols, and citrus-driven balance."
         }
       ]
     },
     {
-      "id": "japan",
-      "heading": "Japan",
-      "content": [
+      "letter": "Japan",
+      "items": [
         {
-          "type": "paragraph",
-          "text": "Japanese cocktail culture is defined by precision and respect for technique."
+          "term": "Overview",
+          "description": "Japanese cocktail culture is defined by precision and respect for technique."
         },
         {
-          "type": "paragraph",
-          "text": "Key characteristics:"
+          "term": "Key Characteristics",
+          "description": "Extreme attention to detail, ice quality as a central element, and clean, minimal presentation."
         },
         {
-          "type": "list",
-          "items": [
-            "Extreme attention to detail",
-            "Ice quality as a central element",
-            "Clean, minimal presentation"
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Philosophy:"
-        },
-        {
-          "type": "list",
-          "items": [
-            "Perfection through repetition",
-            "Balance over intensity",
-            "Technique as a form of craftsmanship"
-          ]
+          "term": "Philosophy",
+          "description": "Perfection through repetition, balance over intensity, and technique as a form of craftsmanship."
         }
       ]
     },
     {
-      "id": "asia",
-      "heading": "Asia",
-      "content": [
+      "letter": "Asia",
+      "items": [
         {
-          "type": "paragraph",
-          "text": "Modern Asian cocktail culture blends tradition with innovation."
+          "term": "Overview",
+          "description": "Modern Asian cocktail culture blends tradition with innovation."
         },
         {
-          "type": "paragraph",
-          "text": "Key characteristics:"
+          "term": "Key Characteristics",
+          "description": "Use of local flavors such as tea, spices, and herbs, creative presentations, and fusion of classic structures with regional ingredients."
         },
         {
-          "type": "list",
-          "items": [
-            "Local flavors (tea, spices, herbs)",
-            "Creative presentations",
-            "Fusion of classic structures with regional ingredients"
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Trend influence:"
-        },
-        {
-          "type": "list",
-          "items": [
-            "Experimental menus",
-            "Cultural storytelling through drinks"
-          ]
+          "term": "Trend Influence",
+          "description": "Experimental menus and cultural storytelling through drinks."
         }
       ]
     },
     {
-      "id": "mediterranean",
-      "heading": "Mediterranean",
-      "content": [
+      "letter": "Mediterranean",
+      "items": [
         {
-          "type": "paragraph",
-          "text": "Mediterranean cocktails emphasize freshness and simplicity."
+          "term": "Overview",
+          "description": "Mediterranean cocktails emphasize freshness and simplicity."
         },
         {
-          "type": "paragraph",
-          "text": "Key characteristics:"
+          "term": "Key Characteristics",
+          "description": "Wine-based and aperitif drinks, herbs, citrus and olive elements, and lower-alcohol, food-friendly profiles."
         },
         {
-          "type": "list",
-          "items": [
-            "Wine-based and aperitif drinks",
-            "Herbs, citrus, and olive elements",
-            "Lower alcohol, food-friendly profiles"
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Cultural focus:"
-        },
-        {
-          "type": "list",
-          "items": [
-            "Social drinking",
-            "Long, relaxed consumption",
-            "Seasonal ingredients"
-          ]
+          "term": "Cultural Focus",
+          "description": "Social drinking, long and relaxed consumption, and seasonal ingredients."
         }
       ]
     },
     {
-      "id": "why-it-matters",
-      "heading": "Why Regional Variations Matter",
-      "content": [
+      "letter": "Why Regional Variations Matter",
+      "items": [
         {
-          "type": "paragraph",
-          "text": "Understanding regional styles helps bartenders:"
-        },
-        {
-          "type": "list",
-          "items": [
-            "Adapt menus to different audiences",
-            "Create culturally inspired cocktails",
-            "Respect tradition while innovating",
-            "Explain flavor choices with confidence"
-          ]
+          "term": "For Bartenders",
+          "description": "Understanding regional styles helps bartenders adapt menus to different audiences, create culturally inspired cocktails, respect tradition while innovating, and explain flavor choices with confidence."
         }
       ]
     }
