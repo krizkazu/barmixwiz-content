@@ -1,0 +1,78 @@
+{
+  "title": "Essential Bar Tools",
+  "sections": [
+    {
+      "letter": "Shaking & Mixing Tools",
+      "items": [
+        {
+          "term": "Cocktail Shaker",
+          "description": "A core bartending tool used to chill, dilute, and mix ingredients efficiently. Common types include the Boston shaker, Cobbler shaker, and French shaker."
+        },
+        {
+          "term": "Mixing Glass",
+          "description": "A thick glass vessel used for stirring cocktails that should remain clear and smooth, such as spirit-forward drinks."
+        },
+        {
+          "term": "Bar Spoon",
+          "description": "A long-handled spoon designed for stirring cocktails, layering ingredients, and precise small measurements."
+        }
+      ]
+    },
+    {
+      "letter": "Straining Tools",
+      "items": [
+        {
+          "term": "Hawthorne Strainer",
+          "description": "A strainer with a coiled spring used to hold back ice when pouring shaken cocktails."
+        },
+        {
+          "term": "Julep Strainer",
+          "description": "A perforated strainer traditionally used with mixing glasses for stirred cocktails."
+        },
+        {
+          "term": "Fine Strainer",
+          "description": "A small mesh strainer used to remove fine ice shards or pulp for a smoother final drink."
+        }
+      ]
+    },
+    {
+      "letter": "Preparation Tools",
+      "items": [
+        {
+          "term": "Muddler",
+          "description": "A tool used to gently press herbs, fruits, or sugar to release flavors without over-extracting bitterness."
+        },
+        {
+          "term": "Citrus Press",
+          "description": "A handheld tool for extracting fresh juice from lemons, limes, or oranges efficiently."
+        },
+        {
+          "term": "Peeler",
+          "description": "Used to create citrus peels for garnishes and aromatic expression over drinks."
+        }
+      ]
+    },
+    {
+      "letter": "Measuring Tools",
+      "items": [
+        {
+          "term": "Jigger",
+          "description": "A double-sided measuring tool used to ensure accurate and consistent pours."
+        },
+        {
+          "term": "Measuring Cup",
+          "description": "Occasionally used for batching cocktails or measuring larger liquid quantities."
+        }
+      ]
+    },
+    {
+      "letter": "Why These Tools Matter",
+      "items": [
+        {
+          "term": "Professional Consistency",
+          "description": "Proper tools ensure consistency, accuracy, efficiency, and quality control behind the bar."
+        }
+      ]
+    }
+  ]
+}

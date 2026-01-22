@@ -1,0 +1,213 @@
+{
+  "title": "Glassware Types",
+  "sections": [
+    {
+      "letter": "Cocktail Glass (Martini Glass)",
+      "items": [
+        {
+          "term": "Description",
+          "description": "A stemmed glass with a wide, conical bowl, designed for cocktails served up (chilled, no ice)."
+        },
+        {
+          "term": "Used for",
+          "description": "Spirit-forward and aromatic cocktails."
+        },
+        {
+          "term": "Why it matters",
+          "description": "The stem prevents warming the drink, while the wide rim enhances aroma."
+        }
+      ]
+    },
+    {
+      "letter": "Coupe Glass",
+      "items": [
+        {
+          "term": "Description",
+          "description": "A shallow, stemmed glass originally designed for champagne, now widely used for cocktails."
+        },
+        {
+          "term": "Used for",
+          "description": "Sours, classic shaken or stirred cocktails served without ice."
+        },
+        {
+          "term": "Why it matters",
+          "description": "More stable and practical than a Martini glass, ideal for service."
+        }
+      ]
+    },
+    {
+      "letter": "Nick & Nora Glass",
+      "items": [
+        {
+          "term": "Description",
+          "description": "A smaller, elegant stemmed glass with a narrower opening than a coupe."
+        },
+        {
+          "term": "Used for",
+          "description": "Short, spirit-forward cocktails."
+        },
+        {
+          "term": "Why it matters",
+          "description": "Preserves aroma and temperature while offering refined presentation."
+        }
+      ]
+    },
+    {
+      "letter": "Old Fashioned Glass (Rocks / Lowball)",
+      "items": [
+        {
+          "term": "Description",
+          "description": "A short, wide glass designed for drinks served over ice."
+        },
+        {
+          "term": "Used for",
+          "description": "Spirit-forward drinks, short cocktails, neat pours."
+        },
+        {
+          "term": "Why it matters",
+          "description": "Accommodates large ice cubes and allows controlled dilution."
+        }
+      ]
+    },
+    {
+      "letter": "Highball Glass",
+      "items": [
+        {
+          "term": "Description",
+          "description": "A tall, straight glass used for long drinks with ice and mixers."
+        },
+        {
+          "term": "Used for",
+          "description": "Spirit and mixer cocktails."
+        },
+        {
+          "term": "Why it matters",
+          "description": "Maintains carbonation and creates visual balance."
+        }
+      ]
+    },
+    {
+      "letter": "Collins Glass",
+      "items": [
+        {
+          "term": "Description",
+          "description": "Similar to a highball but taller and narrower."
+        },
+        {
+          "term": "Used for",
+          "description": "Citrus-forward long drinks."
+        },
+        {
+          "term": "Why it matters",
+          "description": "Provides extra volume and a cleaner presentation for layered drinks."
+        }
+      ]
+    },
+    {
+      "letter": "Hurricane Glass",
+      "items": [
+        {
+          "term": "Description",
+          "description": "A large, curved glass traditionally associated with tropical cocktails."
+        },
+        {
+          "term": "Used for",
+          "description": "Tropical and frozen drinks."
+        },
+        {
+          "term": "Why it matters",
+          "description": "Designed for volume, garnish, and visual impact."
+        }
+      ]
+    },
+    {
+      "letter": "Champagne Flute",
+      "items": [
+        {
+          "term": "Description",
+          "description": "A tall, narrow glass that preserves carbonation."
+        },
+        {
+          "term": "Used for",
+          "description": "Sparkling cocktails."
+        },
+        {
+          "term": "Why it matters",
+          "description": "Maintains bubbles and elegance."
+        }
+      ]
+    },
+    {
+      "letter": "Wine Glass",
+      "items": [
+        {
+          "term": "Description",
+          "description": "A stemmed glass with a rounded bowl."
+        },
+        {
+          "term": "Used for",
+          "description": "Wine-based cocktails and spritzes."
+        },
+        {
+          "term": "Why it matters",
+          "description": "Enhances aroma and allows gentle swirling."
+        }
+      ]
+    },
+    {
+      "letter": "Tiki Mug",
+      "items": [
+        {
+          "term": "Description",
+          "description": "A decorative ceramic vessel, often themed."
+        },
+        {
+          "term": "Used for",
+          "description": "Tiki and tropical cocktails."
+        },
+        {
+          "term": "Why it matters",
+          "description": "Strong visual identity and insulation, not precision."
+        }
+      ]
+    },
+    {
+      "letter": "Shot Glass",
+      "items": [
+        {
+          "term": "Description",
+          "description": "A small glass designed for quick consumption of spirits."
+        },
+        {
+          "term": "Used for",
+          "description": "Shots and measured pours."
+        },
+        {
+          "term": "Why it matters",
+          "description": "Provides volume reference and speed."
+        }
+      ]
+    },
+    {
+      "letter": "Professional Bar Notes",
+      "items": [
+        {
+          "term": "Glass Choice",
+          "description": "Glass choice affects temperature, aroma, dilution, and perception."
+        },
+        {
+          "term": "Consistency",
+          "description": "Consistency in glassware elevates presentation."
+        },
+        {
+          "term": "Simplicity",
+          "description": "Fewer, well-chosen glass types outperform oversized collections."
+        },
+        {
+          "term": "Experience",
+          "description": "Wrong glass equals wrong experience, even with a perfect recipe."
+        }
+      ]
+    }
+  ]
+}
