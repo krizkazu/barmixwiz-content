@@ -20,7 +20,7 @@
       "id": "cocktail_equipment",
       "title": "Cocktail Equipment",
       "description": "Bar tools, glassware, and equipment used by professional bartenders.",
-      "path": "cocktail_equipment.json"
+      "path": "Cocktailequipment/index.json"
     },
     {
       "id": "cocktail_recipes",
