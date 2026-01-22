@@ -1,0 +1,153 @@
+{
+  "title": "Origin of Cocktails",
+  "sections": [
+    {
+      "id": "early-origins",
+      "heading": "Early Origins (18th – Early 19th Century)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The word cocktail first appeared in print in 1806, described as a stimulating drink made from spirits, sugar, water, and bitters. At this stage, cocktails were simple, functional drinks, often consumed in the morning as tonics rather than for leisure."
+        },
+        {
+          "type": "paragraph",
+          "text": "Early cocktails were closely related to:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Punches",
+            "Slings",
+            "Toddy-style drinks"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "These drinks focused on balance and consistency rather than presentation."
+        }
+      ]
+    },
+    {
+      "id": "golden-age",
+      "heading": "The Golden Age of Cocktails (Mid–Late 19th Century)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This period marked the rise of professional bartending. Bars became social hubs, and bartenders were respected craftsmen."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key developments:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Introduction of ice as a standard ingredient",
+            "Use of fresh citrus and refined sugars",
+            "First written cocktail books",
+            "Standardization of classic recipes"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Many drinks created during this era remain foundations of modern cocktail culture."
+        }
+      ]
+    },
+    {
+      "id": "prohibition",
+      "heading": "The Prohibition Era (1920–1933)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Prohibition in the United States drastically changed cocktail culture."
+        },
+        {
+          "type": "paragraph",
+          "text": "Effects on cocktails:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Poor-quality spirits required strong flavors to mask defects",
+            "Increased use of citrus, sugar, and mixers",
+            "Rise of hidden bars (speakeasies)",
+            "Migration of bartenders to Europe and Cuba"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This era popularized many sweet, citrus-forward cocktails still served today."
+        }
+      ]
+    },
+    {
+      "id": "post-prohibition",
+      "heading": "Post-Prohibition & Decline (1930s–1970s)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "After Prohibition ended, cocktail quality briefly recovered but later declined due to:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Mass production of spirits",
+            "Bottled mixers and artificial ingredients",
+            "Focus on speed over craftsmanship"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Many classic techniques and recipes were simplified or forgotten during this time."
+        }
+      ]
+    },
+    {
+      "id": "modern-revival",
+      "heading": "The Modern Cocktail Revival (1980s–Present)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A renewed interest in authenticity and quality brought cocktails back to their roots."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key characteristics:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Rediscovery of classic recipes",
+            "Emphasis on fresh ingredients",
+            "Revival of forgotten techniques",
+            "Bartending recognized as a skilled profession"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Modern cocktail culture blends tradition with creativity, respecting history while encouraging innovation."
+        }
+      ]
+    },
+    {
+      "id": "why-it-matters",
+      "heading": "Why This Matters for Bartenders",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Understanding cocktail history helps bartenders:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Respect classic balance and structure",
+            "Explain drinks confidently to guests",
+            "Create new cocktails with purpose",
+            "Maintain consistency and professionalism"
+          ]
+        }
+      ]
+    }
+  ]
+}

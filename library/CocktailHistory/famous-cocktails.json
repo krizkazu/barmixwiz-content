@@ -1,0 +1,204 @@
+{
+  "title": "Famous Cocktails",
+  "sections": [
+    {
+      "id": "old-fashioned",
+      "heading": "Old Fashioned",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Often considered the original cocktail, the Old Fashioned follows the early definition of a cocktail: spirit, sugar, water, and bitters."
+        },
+        {
+          "type": "paragraph",
+          "text": "Its simplicity highlights balance and quality ingredients, making it a benchmark for bartending skill."
+        },
+        {
+          "type": "paragraph",
+          "text": "Why it matters:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "It represents the foundation of cocktail structure."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "martini",
+      "heading": "Martini",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "One of the most iconic cocktails ever created, the Martini evolved from sweeter styles to the dry, spirit-forward version known today."
+        },
+        {
+          "type": "paragraph",
+          "text": "Its minimalism demands precision and quality."
+        },
+        {
+          "type": "paragraph",
+          "text": "Why it matters:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "A test of technique, dilution, and balance."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "negroni",
+      "heading": "Negroni",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Created in Italy in the early 20th century, the Negroni introduced a bold, bitter-forward profile to classic cocktails."
+        },
+        {
+          "type": "paragraph",
+          "text": "Its equal-parts formula makes it easy to remember and reproduce."
+        },
+        {
+          "type": "paragraph",
+          "text": "Why it matters:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "It popularized bitterness as a desirable flavor."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "margarita",
+      "heading": "Margarita",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "One of the most widely consumed cocktails worldwide, the Margarita blends spirit, citrus, and sweetness in perfect harmony."
+        },
+        {
+          "type": "paragraph",
+          "text": "Its popularity led to countless variations and interpretations."
+        },
+        {
+          "type": "paragraph",
+          "text": "Why it matters:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "A modern example of the classic sour structure."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "daiquiri",
+      "heading": "Daiquiri",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Originally a simple mix of rum, lime juice, and sugar, the Daiquiri showcases how few ingredients can create complexity when balanced correctly."
+        },
+        {
+          "type": "paragraph",
+          "text": "Why it matters:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "A lesson in purity and balance."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "manhattan",
+      "heading": "Manhattan",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A cornerstone of spirit-forward cocktails, the Manhattan helped establish vermouth as a key modifier in cocktail culture."
+        },
+        {
+          "type": "paragraph",
+          "text": "Why it matters:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "It shaped the development of aromatic, stirred cocktails."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mojito",
+      "heading": "Mojito",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Combining rum, mint, lime, sugar, and soda, the Mojito represents freshness and refreshment."
+        },
+        {
+          "type": "paragraph",
+          "text": "Its technique-driven preparation highlights proper muddling and balance."
+        },
+        {
+          "type": "paragraph",
+          "text": "Why it matters:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Demonstrates the importance of aroma and freshness."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bloody-mary",
+      "heading": "Bloody Mary",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Known as both a cocktail and a brunch ritual, the Bloody Mary blends savory flavors with vodka and tomato juice."
+        },
+        {
+          "type": "paragraph",
+          "text": "Why it matters:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Expanded cocktails beyond sweet and spirit-forward profiles."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "why-famous-matter",
+      "heading": "Why Famous Cocktails Matter",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Famous cocktails:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Define core cocktail structures",
+            "Teach balance and technique",
+            "Provide reference points for innovation",
+            "Connect bartenders to tradition"
+          ]
+        }
+      ]
+    }
+  ]
+}
