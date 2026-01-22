@@ -14,7 +14,7 @@
       "id": "cocktail_history",
       "title": "Cocktail History",
       "description": "Origins, evolution, and historical milestones of classic cocktails.",
-      "path": "cocktail_history.json"
+      "path": "CocktailHistory/index.json"
     },
     {
       "id": "cocktail_equipment",
