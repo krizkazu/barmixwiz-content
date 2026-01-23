@@ -7,7 +7,7 @@
     {
       "from": 1,
       "to": 500,
-      "file": "chunks/recipes-1-500.json",
+      "file": "default/recipes-1-500.json",
       "count": 147
     }
   ]
