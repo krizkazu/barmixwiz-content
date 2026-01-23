@@ -1,0 +1,4444 @@
+[
+  {
+    "name": "20Th Century Cocktail",
+    "ingredients": [
+      {
+        "ingredient": "Gin",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Lillet Blanc",
+        "quantity": 20,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime Juice",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Cocoa Powder",
+        "quantity": 1,
+        "unit": "garnish"
+      },
+      {
+        "ingredient": "Nutmeg",
+        "quantity": 1,
+        "unit": "garnish"
+      }
+    ],
+    "category": "Strong",
+    "type": "Cocktail",
+    "served": "Chilled",
+    "standard_drinkware": "Coupe",
+    "method": "Shaken",
+    "instructions": "Fill a cocktail shaker with ice. Add 30ml of gin, 20ml of Lillet Blonde, 20ml of Creme de Cacao White and 15ml of lime juice. Shake well and strain into a chilled cocktail glass. Garnish with cocoa powder or grated nutmeg.",
+    "notes": "The 20th century is a cocktail created in 1937 by a British bartender named C.A. Tuck, and named in honor of the celebrated 20th Century Limited train which ran between New York City and Chicago from 1902 until 1967. The recipe was first published in 1937 in the Café Royal Cocktail Book by William J Tarling, President of the United Kingdom Bartenders' Guild and head bartender at the Café Royal. ✍️ wikipedia",
+    "tags": "Dry,Crisp,Lightly sweet",
+    "created": 1767343370024,
+    "modified": 1767390205962
+  },
+  {
+    "name": "7 & 7",
+    "ingredients": [
+      {
+        "ingredient": "Whiskey",
+        "quantity": 50,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "7-up",
+        "quantity": 150,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Lemon Wedge",
+        "quantity": 1,
+        "unit": "garnish"
+      }
+    ],
+    "category": "Soft",
+    "type": "Cocktail",
+    "standard_drinkware": "Higball",
+    "method": "Stirr",
+    "instructions": "1. Fill a highball glass with ice. Add 50ml of whiskey and 150ml of 7Up. Garnish with a lemon wedge.",
+    "notes": "A Seven and Seven or 7 and 7 is a highball cocktail, a mixed alcoholic drink containing Seagram's Seven Crown, which is a blended whiskey, and 7 Up, which is a lemon-lime soft drink. It is typically served with ice. It was one of the most popular drinks in the United States during the 1970s. ✍️wikipedia",
+    "tags": "Smooth,Light",
+    "created": 1767343370024,
+    "modified": 1767391345531
+  },
+  {
+    "name": "ABC",
+    "ingredients": [
+      {
+        "ingredient": "Amaretto",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Bailey's",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Cognac",
+        "quantity": 15,
+        "unit": "ml"
+      }
+    ],
+    "category": "Shots",
+    "standard_drinkware": "Shot",
+    "method": "Pour",
+    "instructions": "Pour 15ml of amaretto into a shooter glass. Carefully pour 15ml of Bailey's on top of the amaretto. Helping yourself with a teaspoon, pour 15ml of cognac on top of the Bailey's.",
+    "notes": "The ABC cocktail comes across as rich and comforting, with a soft, dessert-like character. Amaretto brings gentle almond sweetness with a touch of vanilla, while Baileys adds a creamy body layered with cocoa and subtle coffee notes. Cognac rounds everything out, introducing warmth and depth with light fruity and spicy accents. Together, the flavors blend smoothly into a well-balanced, indulgent drink with a silky texture and a warming finish.",
+    "created": 1767343370024,
+    "modified": 1767390968808
+  },
+  {
+    "name": "Acapulco",
+    "ingredients": [
+      {
+        "ingredient": "Tequila",
+        "quantity": 50,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Rum",
+        "quantity": 50,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Pineapple Juice",
+        "quantity": 75,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Grapefruit Juice",
+        "quantity": 50,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime Juice",
+        "quantity": 10,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Simple Syrup",
+        "quantity": 10,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Pineapple",
+        "quantity": 1,
+        "unit": "slice"
+      }
+    ],
+    "category": "Soft",
+    "standard_drinkware": "Huricane",
+    "instructions": "Put some ice cubes into a shaker. Add 50ml of tequila, 50ml of white rum, 75ml of pineapple juice and 50ml of grapefruit juice. Optionally, add a splash of lime juice and 10ml of sugar syrup. Shake well and strain into a hurricane glass.",
+    "notes": "The name of this cocktail refers to the famous coastal city of Acapulco on the Pacific Ocean in Mexico, a country known as the birthplace of tequila and a producer of rum, pineapple, and grapefruit. Acapulco is also where Margarita Sames, an American socialite, is said to have lived and to have created the Margarita cocktail in 1948, another iconic drink built around tequila.",
+    "tags": "Fresh,Fruity,Tropical",
+    "created": 1767343370024,
+    "modified": 1767391965878
+  },
+  {
+    "name": "Adonis",
+    "ingredients": [
+      {
+        "ingredient": "Fino Sherry",
+        "quantity": "45",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Sweet Vermouth",
+        "quantity": "45",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Orange",
+        "quantity": "1",
+        "unit": "peel"
+      }
+    ],
+    "category": "Fortified wine cocktails",
+    "instructions": "Stir with ice and strain into a chilled cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024,
+    "notes": "The Adonis is a sherry and vermouth-based cocktail, with equal parts of both. The cocktail was created in honor of the 1884 musical Adonis after the show reached the milestone of more than 500 shows on Broadway. The Adonis has been described as being a lower alcohol, easier drinking cocktail. ✍️wikipedia",
+    "tags": [
+      "Bittersweet",
+      "Aromatic"
+    ]
+  },
+  {
+    "name": "Adriatique",
+    "ingredients": [
+      {
+        "ingredient": "Amaro Nonino",
+        "quantity": "30",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Aperol",
+        "quantity": "15",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Orange Juice",
+        "quantity": "30",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Orange",
+        "quantity": "1",
+        "unit": "twist"
+      }
+    ],
+    "category": "Soft",
+    "instructions": "Fill a cocktail shaker with ice cubes. Add 30ml of amaro, 15ml of Aperol and 30ml of orange juice. Shake and strain into a chilled cocktail glass. Garnish with an orange twist.",
+    "created": 1767343370024,
+    "modified": 1767343370024,
+    "notes": "Created by Jackson Cannon, the Adriatique is a vibrant, eye-catching cocktail built around Amaro Montenegro. This amaro brings a rich mix of herbal depth and gentle sweetness, making it both expressive and versatile. Its layered, aromatic character makes it an ideal foundation for a cocktail that’s as flavorful as it is visually striking.",
+    "tags": [
+      "Light",
+      "Silcky"
+    ]
+  },
+  {
+    "name": "Agavoni",
+    "ingredients": [
+      {
+        "ingredient": "Tequila",
+        "quantity": "30",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Sweet Vermouth",
+        "quantity": "30",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Campari",
+        "quantity": "30",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Orange Slice",
+        "quantity": "1",
+        "unit": "garnish"
+      }
+    ],
+    "category": "Strong",
+    "instructions": "Fill a rocks glass with ice. Add 30ml of tequila, 30ml of red vermouth and 30ml of Campari and stir. Garnish with an orange slice",
+    "created": 1767343370024,
+    "modified": 1767343370024,
+    "notes": "The Agavoni, sometimes referred to as the Tegroni, is a modern variation of the classic Negroni, distinguished by replacing gin with tequila. It is widely attributed to German mixologist and writer Bastian Heuser.",
+    "tags": []
+  },
+  {
+    "name": "Alabama Slammer",
+    "ingredients": [
+      {
+        "ingredient": "Amaretto",
+        "quantity": "20",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Southern Comfort",
+        "quantity": "20",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Sloe Gin",
+        "quantity": "20",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Orange Juice",
+        "quantity": "50",
+        "unit": "ml"
+      }
+    ],
+    "category": "Strong",
+    "instructions": "Fill a collins glass with ice. Pour 20ml of amaretto, 20ml of Southern Comfort and 20ml of sloe gin. Top with orange juice.",
+    "created": 1767343370024,
+    "modified": 1767343370024,
+    "notes": "The Alabama Slammer is widely believed to have originated at the University of Alabama in the 1970s, achieving nationwide popularity during the 1980s. It became emblematic of an era often described as the “dark ages” of cocktails, marked by sweet, fruit-forward drinks, and is now regarded as a nostalgic classic.\nThe exact bar or bartender behind its creation remains uncertain, but the drink’s name and deep crimson hue are closely associated with the university’s Crimson Tide football culture, where it was a favorite at tailgates and campus gatherings. Early references to the recipe appear in the 1971 edition of Playboy Bartender’s Guide by Thomas Mario, indicating that the drink predates its widespread college fame.",
+    "tags": []
+  },
+  {
+    "name": "Alexander",
+    "ingredients": [
+      {
+        "ingredient": "Cognac",
+        "quantity": "30",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Crème De Cacao",
+        "quantity": "30",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Cream",
+        "quantity": "30",
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - The Unforgettables",
+    "instructions": "Pour all ingredients into cocktail shaker filled with ice cubes. Shake and strain into a chilled cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024,
+    "notes": "The Alexander is a cocktail consisting of cognac, crème de cacao, and cream. It dates from the early 20th century. It was originally made with gin, but the modern version is made with brandy and is called a Brandy Alexander. (✍️ wikipedia)\nThere are more variations out there like \"Alexander's Brother\", \"Alexander's Sister\", \"Alexander's Big Brother\", but we didn't include the recipes here.\nYou can replace the Creme de Cacao with Creme de Menthe to get one of the variations if you prefer.",
+    "tags": []
+  },
+  {
+    "name": "Alien Brain Hemorrhage",
+    "ingredients": [
+      {
+        "ingredient": "Peach Schnapps",
+        "quantity": "30",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Bailey's",
+        "quantity": "15",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Blue Curacao",
+        "quantity": "1",
+        "unit": "dash/es"
+      },
+      {
+        "ingredient": "Grenadine Syrup",
+        "quantity": "1",
+        "unit": "dash/es"
+      }
+    ],
+    "category": "Shots",
+    "standard_drinkware": "Shot",
+    "instructions": "Pour 30ml of peach schnapps into a shooter glass. Add 15ml of Baileys on top and a dash of blue curaçao. Add a few drops of grenadine and drink quickly!",
+    "created": 1767385054121,
+    "modified": 1767386301698,
+    "notes": "The Alien Brain Hemorrhage is a layered novelty shot that developed from the earlier Brain Hemorrhage shot, emerging in the early to mid-2000s. It became popular for its eerie, “alien” appearance, created by adding Blue Curaçao to the classic combination of peach schnapps, Baileys, and grenadine, resulting in a green-tinted, curdled brain effect. Rooted more in modern bar trends and viral cocktail culture than in a single place of origin, the drink plays on science-fiction imagery while remaining, at its core, a sweet, fruity, and creamy dessert-style shot.\nVariation named \"Atomic Bomb\":\nChristos Katsoudas’ Atomic Bomb dates back to the late 1980s in Loutraki, Greece, where it was prepared at the Hotel Kontis Studio 44 bar. While the exact origin of the idea is uncertain, one detail is firmly remembered: the drink was finished with a layer of Cointreau, chosen specifically so it could be ignited. The name Atomic Bomb reflected both its visual impact and its dramatic finish.\nFor preparation, peach liqueur was kept in the freezer to achieve greater thickness and density. This was followed by a thin layer of blue curaçao and then Baileys Irish Cream. Using a straw, a few drops of grenadine syrup were added from height, creating a distinct vertical red line through the peach layer. The shot was then topped with Cointreau and carefully set alight.\nThe drink was intended to be consumed quickly through a straw. Caution was essential, as the suction could draw the flame downward along with the liquid.✍️Chris Katsoudas (Lead Developer)",
+    "tags": []
+  },
+  {
+    "name": "Almond Old Fashioned",
+    "ingredients": [
+      {
+        "ingredient": "Bourbon Whiskey",
+        "quantity": "60",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Amaretto",
+        "quantity": "10",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Simple Syrup",
+        "quantity": "5",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Angostura Bitters",
+        "quantity": "1",
+        "unit": "dash/es"
+      },
+      {
+        "ingredient": "Orange Twist",
+        "quantity": "1",
+        "unit": "garnish"
+      }
+    ],
+    "category": "Strong",
+    "instructions": "Fill a cocktail shaker with ice. Add 60ml of bourbon, 10ml of Amaretto, 5ml of sugar syrup (ideally demerara or brown sugar syrup) and 1 dash Angostura bitters. Shake and strain into a rocks glass filled with ice. Garnish with an orange twist or toasted almonds.",
+    "created": 1767385313987,
+    "modified": 1767385378054,
+    "notes": "The Almond Old Fashioned is a contemporary variation on the classic Old Fashioned rather than a historic original. It replaces the traditional orange and cherry elements with almond liqueur—most commonly amaretto, often produced from apricot kernels—while root beer bitters accentuate the drink’s nutty character. The result is a sweeter, almond-forward interpretation that remains faithful to the foundational whiskey, sugar, and bitters structure.\n\nWhile the twist itself is modern, its lineage reaches back to the earliest definition of a “cocktail” in 1806, with the term Old Fashioned emerging in the 1880s to describe the straightforward whiskey cocktail from which this variation ultimately evolved.",
+    "tags": []
+  },
+  {
+    "name": "Americano",
+    "ingredients": [
+      {
+        "ingredient": "Bitter Campari",
+        "quantity": "30",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Sweet Vermouth",
+        "quantity": "30",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Soda Water",
+        "quantity": "1",
+        "unit": "splash"
+      }
+    ],
+    "category": "IBA - The Unforgettables",
+    "instructions": "Mix the ingredients directly in an old fashioned glass filled with ice cubes. Add a splash of Soda Water. Stir gently.",
+    "created": 1767343370024,
+    "modified": 1767343370024,
+    "notes": "The Americano originated in 1860s Milan at the bar of Gaspare Campari, where it was first served as the Milano-Torino, a simple mix of Campari and sweet vermouth. The later addition of soda water turned it into a lighter long drink that became popular with American visitors, leading to the name Americano. An alternative theory links the name to boxer Primo Carnera in the 1930s. The cocktail also holds literary fame as the first drink ordered by James Bond in Casino Royale.",
+    "tags": []
+  },
+  {
+    "name": "AMF - Adios, Motherfucker",
+    "ingredients": [
+      {
+        "ingredient": "Vodka",
+        "quantity": "15",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Rum",
+        "quantity": "15",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Tequila",
+        "quantity": "15",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Gin",
+        "quantity": "15",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Blue Curacao",
+        "quantity": "15",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lemon Juice",
+        "quantity": "30",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Simple Syrup",
+        "quantity": "30",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "7-up",
+        "quantity": "30",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Lemon Wedge",
+        "quantity": "1",
+        "unit": "garnish"
+      }
+    ],
+    "category": "Strong",
+    "standard_drinkware": "Higball",
+    "method": "Stir",
+    "instructions": "Put some ice cubes into a collins glass. Pour 15ml of vodka, 15ml of rum, 15ml of tequila, 15ml of gin and 15ml of blue curaçao. Add 30ml of lemon juice, 30ml of sugar syrup and top with 7Up. Stir gently.",
+    "notes": "The AMF closely resembles a Long Island Iced Tea, with the main difference being the use of blue curaçao and lemon-lime soda instead of triple sec and cola.\nThe Adios, Motherfucker (AMF) has no definitive creator, but it is generally believed to have originated in the United States during the late 1980s or early 1990s. Essentially a variation of the Long Island Iced Tea with a few ingredient substitutions, it gained popularity in nightclubs for its high alcohol content, electric-blue color from blue curaçao, and deliberately provocative name. The name reflects the era’s shock-value cocktail trends and humorously suggests that one strong drink might be enough to end the night early.",
+    "created": 1767343370024,
+    "modified": 1767391496186,
+    "tags": []
+  },
+  {
+    "name": "Angel Face",
+    "ingredients": [
+      {
+        "ingredient": "Gin",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Apricot Brandy",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Calvados",
+        "quantity": 30,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - The Unforgettables",
+    "instructions": "Pour all ingredients into cocktail shaker filled with ice cubes. Shake and strain into a chilled cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Aviation",
+    "ingredients": [
+      {
+        "ingredient": "Gin",
+        "quantity": 45,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Maraschino Luxardo",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lemon Juice",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Crème De Violette",
+        "quantity": 1,
+        "unit": "bar spoon"
+      }
+    ],
+    "category": "IBA - The Unforgettables",
+    "instructions": "Add all ingredients into a cocktail shaker. Shake with cracked ice and strain into a chilled cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Barracuda",
+    "ingredients": [
+      {
+        "ingredient": "Gold Rum",
+        "quantity": 45,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Galliano",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Pineapple Juice",
+        "quantity": 60,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime Juice",
+        "quantity": 1,
+        "unit": "dash"
+      },
+      {
+        "ingredient": "Prosecco",
+        "quantity": 1,
+        "unit": "top up"
+      }
+    ],
+    "category": "IBA - New Era Drinks",
+    "instructions": "Pour all ingredients into cocktail shaker except the Prosecco, shake well with ice, strain into chilled highball glass filled with ice and top up with Prosecco.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Batanga",
+    "ingredients": [
+      {
+        "ingredient": "Tequila",
+        "quantity": 50,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime Juice",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Coca Cola",
+        "quantity": 1,
+        "unit": "top up"
+      }
+    ],
+    "category": "Tequila cocktails",
+    "instructions": "Rim a highball glass with salt. Build over ice, add tequila and Fresh Lime Juice, top up with cola, and stir gently.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Bee's Knees",
+    "ingredients": [
+      {
+        "ingredient": "Dry Gin",
+        "quantity": 52.5,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Honey Syrup",
+        "quantity": 2,
+        "unit": "teaspoon"
+      },
+      {
+        "ingredient": "Fresh Lemon Juice",
+        "quantity": 22.5,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Orange Juice",
+        "quantity": 22.5,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - New Era Drinks",
+    "instructions": "Stir honey with lemon and Fresh Orange Juices until it dissolves, add gin and shake with ice. Strain into a chilled cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Bellini",
+    "ingredients": [
+      {
+        "ingredient": "Prosecco",
+        "quantity": 100,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "White Peach Puree",
+        "quantity": 50,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - Contemporary Classics",
+    "instructions": "Pour peach puree into the mixing glass with ice, add the Prosecco wine. Stir gently and pour in a chilled flute glass.  Note: PUCCINI - Fresh Mandarin Fresh Orange Juice; ROSSINI - Fresh Strawberry Puree; TINTORETTO - Fresh Pomegranate Juice.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Between The Sheets",
+    "ingredients": [
+      {
+        "ingredient": "White Rum",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Cognac",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Triple Sec",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lemon Juice",
+        "quantity": 20,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - The Unforgettables",
+    "instructions": "Add all ingredients into a cocktail shaker. Shake with ice and strain into a chilled cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Black Nail",
+    "ingredients": [
+      {
+        "ingredient": "Scotch Whisky",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Irish Whiskey",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Orange",
+        "quantity": 1,
+        "unit": "zest"
+      }
+    ],
+    "category": "Whisky cocktails",
+    "instructions": "Build over ice and stir gently.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Black Russian",
+    "ingredients": [
+      {
+        "ingredient": "Vodka",
+        "quantity": 50,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Coffee Liqueur",
+        "quantity": 20,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - Contemporary Classics",
+    "instructions": "Pour the ingredients into the old fashioned glass filled with ice cubes. Stir gently.  Note: WHITE RUSSIAN - Float Fresh Cream on the top and stir in slowly.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Black Velvet",
+    "ingredients": [
+      {
+        "ingredient": "Guinness",
+        "quantity": 75,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Champagne",
+        "quantity": 75,
+        "unit": "ml"
+      }
+    ],
+    "category": "Beer cocktails",
+    "instructions": "Pour the stout gently into a flute, then carefully top with Champagne to create a layered effect.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Bloody Mary",
+    "ingredients": [
+      {
+        "ingredient": "Vodka",
+        "quantity": 45,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Tomato Juice",
+        "quantity": 90,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lemon Juice",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Worcestershire Sauce",
+        "quantity": 2,
+        "unit": "dash"
+      },
+      {
+        "ingredient": "Tabasco",
+        "quantity": 1,
+        "unit": "dash"
+      },
+      {
+        "ingredient": "Celery Salt",
+        "quantity": 1,
+        "unit": "dash"
+      },
+      {
+        "ingredient": "Pepper",
+        "quantity": 1,
+        "unit": "dash"
+      }
+    ],
+    "category": "IBA - Contemporary Classics",
+    "instructions": "Stir gently all the ingredients in a mixing glass with ice, pour into rocks glass. Note: If requested served with ice, pour into highball glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Boulevardier",
+    "ingredients": [
+      {
+        "ingredient": "Bourbon or Rye Whiskey",
+        "quantity": 45,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Bitter Campari",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Sweet Vermouth",
+        "quantity": 30,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - The Unforgettables",
+    "instructions": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a chilled cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Bramble",
+    "ingredients": [
+      {
+        "ingredient": "Gin",
+        "quantity": 50,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lemon Juice",
+        "quantity": 25,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Simple Syrup",
+        "quantity": 12.5,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Crème De Mûre",
+        "quantity": 15,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - New Era Drinks",
+    "instructions": "Pour all ingredients into a cocktail shaker except the Crème de Mûre, shake well with ice, strain into chilled old fashioned glass filled with crushed ice, then pour the blackberry liqueur (Crème de Mûre) over the top of the drink, in a circular motion.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Brandy Alexander",
+    "ingredients": [
+      {
+        "ingredient": "Brandy",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Dark Crème De Cacao",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Cream",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Nutmeg",
+        "quantity": 1,
+        "unit": "powder"
+      }
+    ],
+    "category": "After-dinner cocktails",
+    "instructions": "Shake all ingredients with ice and strain into a chilled cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Brandy Crusta",
+    "ingredients": [
+      {
+        "ingredient": "Brandy",
+        "quantity": 52.5,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Maraschino Luxardo",
+        "quantity": 7.5,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Curacao",
+        "quantity": 1,
+        "unit": "bar spoon"
+      },
+      {
+        "ingredient": "Fresh Lemon Juice",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Simple Syrup",
+        "quantity": 1,
+        "unit": "bar spoon"
+      },
+      {
+        "ingredient": "Aromatic Bitters",
+        "quantity": 2,
+        "unit": "dash"
+      }
+    ],
+    "category": "IBA - The Unforgettables",
+    "instructions": "Mix together all ingredients with ice cubes in a mixing glass and strain into prepared slim cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Caipirinha",
+    "ingredients": [
+      {
+        "ingredient": "Cachaça",
+        "quantity": 60,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Lime",
+        "quantity": 1,
+        "unit": "piece"
+      },
+      {
+        "ingredient": "White Cane Sugar",
+        "quantity": 4,
+        "unit": "teaspoon"
+      }
+    ],
+    "category": "IBA - Contemporary Classics",
+    "instructions": "Place lime and sugar into a double old fashioned glass and muddle gently. Fill the glass with cracked ice and add Cachaça. Stir gently to involve ingredients. Note: CAIPIROSKA - Instead of Cachaça use Vodka;",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Caipiroska",
+    "ingredients": [
+      {
+        "ingredient": "Vodka",
+        "quantity": 60,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime",
+        "quantity": 1,
+        "unit": "piece"
+      },
+      {
+        "ingredient": "Sugar",
+        "quantity": 2,
+        "unit": "teaspoons"
+      },
+      {
+        "ingredient": "Lime",
+        "quantity": 1,
+        "unit": "wedge"
+      }
+    ],
+    "category": "Regional cocktails",
+    "instructions": "Muddle lime with sugar in an old fashioned glass, fill with ice, add vodka, and stir well.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Canchanchara",
+    "ingredients": [
+      {
+        "ingredient": "Cuban Aguardiente",
+        "quantity": 60,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime Juice",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Honey",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Water",
+        "quantity": 50,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - New Era Drinks",
+    "instructions": "Mix honey with Water and Fresh Lime Juice and spread the mixture on the bottom and sides of the glass. Add cracked ice, and then the rum. End by energetically stirring from bottom to top.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Casino",
+    "ingredients": [
+      {
+        "ingredient": "Old Tom Gin",
+        "quantity": 40,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Maraschino Luxardo",
+        "quantity": 10,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lemon Juice",
+        "quantity": 10,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Orange Bitters",
+        "quantity": 2,
+        "unit": "dash"
+      }
+    ],
+    "category": "IBA - The Unforgettables",
+    "instructions": "Pour all ingredients into cocktails shaker, shake well with ice, strain into chilled rocks glass with ice.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Champagne Cocktail",
+    "ingredients": [
+      {
+        "ingredient": "Chilled Champagne",
+        "quantity": 90,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Cognac",
+        "quantity": 10,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Angostura Bitters",
+        "quantity": 2,
+        "unit": "dash"
+      },
+      {
+        "ingredient": "Grand Marnier",
+        "unit": "drops"
+      },
+      {
+        "ingredient": "Sugar Cube",
+        "quantity": 1,
+        "unit": "piece"
+      }
+    ],
+    "category": "IBA - Contemporary Classics",
+    "instructions": "Place the sugar cube with 2 dashes of Bitters in a large Champagne glass, add the cognac. Pour gently chilled Champagne.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Chilcano",
+    "ingredients": [
+      {
+        "ingredient": "Pisco",
+        "quantity": 60,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime Juice",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Ginger Ale",
+        "quantity": 1,
+        "unit": "top up"
+      },
+      {
+        "ingredient": "Angostura Bitters",
+        "quantity": 2,
+        "unit": "dashes"
+      },
+      {
+        "ingredient": "Lime",
+        "quantity": 1,
+        "unit": "slice"
+      }
+    ],
+    "category": "Regional cocktails",
+    "instructions": "Build in a highball glass filled with ice, add pisco and Fresh Lime Juice, top up with Ginger Ale, and stir gently.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Clover Club",
+    "ingredients": [
+      {
+        "ingredient": "Gin",
+        "quantity": 45,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Raspberry Syrup",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lemon Juice",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Egg White",
+        "unit": "drops"
+      }
+    ],
+    "category": "IBA - The Unforgettables",
+    "instructions": "Pour all ingredients into cocktails shaker, shake well with ice, strain into chilled cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Corpse Reviver #2",
+    "ingredients": [
+      {
+        "ingredient": "Gin",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Cointreau",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Lillet Blanc",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lemon Juice",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Absinthe",
+        "quantity": 1,
+        "unit": "dash"
+      }
+    ],
+    "category": "IBA - Contemporary Classics",
+    "instructions": "Pour all ingredients into shaker with ice. Shake well and strain in chilled cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Cosmopolitan",
+    "ingredients": [
+      {
+        "ingredient": "Vodka Citron",
+        "quantity": 40,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Cointreau",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime Juice",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Cranberry Juice",
+        "quantity": 30,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - Contemporary Classics",
+    "instructions": "Add all ingredients into a cocktail shaker filled with ice. Shake well and strain into a large cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Cuba Libre",
+    "ingredients": [
+      {
+        "ingredient": "White Rum",
+        "quantity": 50,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Coca Cola",
+        "quantity": 120,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime Juice",
+        "quantity": 10,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - Contemporary Classics",
+    "instructions": "Build all ingredients in a highball glass filled with ice.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Daiquiri",
+    "ingredients": [
+      {
+        "ingredient": "White Cuban Ron",
+        "quantity": 60,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime Juice",
+        "quantity": 20,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Superfine Sugar",
+        "quantity": 2,
+        "unit": "bar spoon"
+      }
+    ],
+    "category": "IBA - The Unforgettables",
+    "instructions": "In a cocktail shaker add all ingredients. Stir well to dissolve the sugar. Add ice and shake. Strain into chilled cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Dark 'N' Stormy",
+    "ingredients": [
+      {
+        "ingredient": "Goslings Rum",
+        "quantity": 60,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Ginger Beer",
+        "quantity": 100,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - New Era Drinks",
+    "instructions": "In a highball glass filled with ice pour the Ginger Beer and top floating with the Rum.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Dry Martini",
+    "ingredients": [
+      {
+        "ingredient": "Gin",
+        "quantity": 60,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Dry Vermouth",
+        "quantity": 10,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - The Unforgettables",
+    "instructions": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Espresso Martini",
+    "ingredients": [
+      {
+        "ingredient": "Vodka",
+        "quantity": 50,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Kahlúa",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Simple Syrup",
+        "quantity": 10,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Espresso",
+        "quantity": 1,
+        "unit": "shot"
+      }
+    ],
+    "category": "IBA - New Era Drinks",
+    "instructions": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Fernandito",
+    "ingredients": [
+      {
+        "ingredient": "Fernet Branca",
+        "quantity": 50,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Coca Cola",
+        "quantity": 1,
+        "unit": "fill up"
+      }
+    ],
+    "category": "IBA - New Era Drinks",
+    "instructions": "Pour the Fernet Branca into a double old fashioned glass with ice, fill the glass up with Cola. Gently stir.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "French 75",
+    "ingredients": [
+      {
+        "ingredient": "Gin",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lemon Juice",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Simple Syrup",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Champagne",
+        "quantity": 60,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - Contemporary Classics",
+    "instructions": "Pour all the ingredients, except Champagne, into a shaker. Shake well and strain into a Champagne flute. Top up with Champagne. Stir gently.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "French Connection",
+    "ingredients": [
+      {
+        "ingredient": "Cognac",
+        "quantity": 35,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Amaretto",
+        "quantity": 35,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - Contemporary Classics",
+    "instructions": "Pour all ingredients directly into an old fashioned glass filled with ice cubes. Stir gently.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "French Martini",
+    "ingredients": [
+      {
+        "ingredient": "Vodka",
+        "quantity": 45,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Raspberry Liqueur",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Pineapple Juice",
+        "quantity": 15,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - New Era Drinks",
+    "instructions": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Gimlet",
+    "ingredients": [
+      {
+        "ingredient": "Gin",
+        "quantity": 60,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime Juice",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Lime",
+        "quantity": 1,
+        "unit": "slice"
+      }
+    ],
+    "category": "Gin cocktails",
+    "instructions": "Shake with ice and strain into a chilled cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Gin Fizz",
+    "ingredients": [
+      {
+        "ingredient": "Gin",
+        "quantity": 45,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lemon Juice",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Simple Syrup",
+        "quantity": 10,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Soda Water",
+        "quantity": 1,
+        "unit": "splash"
+      }
+    ],
+    "category": "IBA - The Unforgettables",
+    "instructions": "Shake all ingredients with ice except Soda Water. Pour into thin tall Tumbler glass , top with a splash Soda Water.  NOTE: Serve without ice.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Godfather",
+    "ingredients": [
+      {
+        "ingredient": "Scotch Whisky",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Amaretto",
+        "quantity": 30,
+        "unit": "ml"
+      }
+    ],
+    "category": "Whisky cocktails",
+    "instructions": "Build over ice and stir gently.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Golden Cadillac",
+    "ingredients": [
+      {
+        "ingredient": "Galliano",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "White Crème De Cacao",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Cream",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Chocolate",
+        "quantity": 1,
+        "unit": "shaving"
+      }
+    ],
+    "category": "After-dinner cocktails",
+    "instructions": "Shake all ingredients with ice and strain into a chilled cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Golden Dream",
+    "ingredients": [
+      {
+        "ingredient": "Galliano",
+        "quantity": 20,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Triple Sec",
+        "quantity": 20,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Orange Juice",
+        "quantity": 20,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Cream",
+        "quantity": 10,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - Contemporary Classics",
+    "instructions": "Pour all ingredients into shaker filled with ice. Shake briskly for few seconds. Strain into chilled cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Grasshopper",
+    "ingredients": [
+      {
+        "ingredient": "Crème De Cacao",
+        "quantity": 20,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Crème De Menthe",
+        "quantity": 20,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Cream",
+        "quantity": 20,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - Contemporary Classics",
+    "instructions": "Pour all ingredients into shaker filled with ice. Shake briskly for few seconds. Strain into chilled cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Hanky Panky",
+    "ingredients": [
+      {
+        "ingredient": "London Dry Gin",
+        "quantity": 45,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Sweet Vermouth",
+        "quantity": 45,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fernet Branca",
+        "quantity": 7.5,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - The Unforgettables",
+    "instructions": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Hemingway Special",
+    "ingredients": [
+      {
+        "ingredient": "Rum",
+        "quantity": 60,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Grapefruit Juice",
+        "quantity": 40,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Maraschino Luxardo",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime",
+        "quantity": 15,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - Contemporary Classics",
+    "instructions": "Pour all ingredients into a shaker with ice. Shake well and strain into a large cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Horse's Neck",
+    "ingredients": [
+      {
+        "ingredient": "Cognac",
+        "quantity": 40,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Ginger Ale",
+        "quantity": 120,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Angostura Bitters",
+        "quantity": 1,
+        "unit": "dash"
+      }
+    ],
+    "category": "IBA - Contemporary Classics",
+    "instructions": "Pour Cognac and Ginger Ale directly into a highball glass with ice cubes. Stir gently. If preferred, add dashes of Angostura Bitter.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Illegal",
+    "ingredients": [
+      {
+        "ingredient": "Espadin Mezcal",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Jamaica Overproof White Rum",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Falernum",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Maraschino Luxardo",
+        "quantity": 1,
+        "unit": "bar spoon"
+      },
+      {
+        "ingredient": "Fresh Lime Juice",
+        "quantity": 22.5,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Simple Syrup",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Egg White",
+        "unit": "drops"
+      }
+    ],
+    "category": "IBA - New Era Drinks",
+    "instructions": "Pour all ingredients into the shaker. Shake vigorously with ice. Strain into a chilled cocktail glass, or on the rocks in a traditional clay or terracotta mug.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Irish Coffee",
+    "ingredients": [
+      {
+        "ingredient": "Irish Whiskey",
+        "quantity": 50,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Hot Coffee",
+        "quantity": 120,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Cream",
+        "quantity": 50,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Sugar",
+        "quantity": 1,
+        "unit": "teaspoon"
+      }
+    ],
+    "category": "IBA - Contemporary Classics",
+    "instructions": "Warm black coffee is poured into a pre-heated Irish coffee glass. Whiskey and at least one teaspoon of sugar is added and stirred until dissolved. Fresh thick chilled cream is carefully poured over the back of a spoon held just above the surface of the coffee. The layer of cream will float on the coffee without mixing. Plain sugar can be replaced with sugar syrup",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "John Collins",
+    "ingredients": [
+      {
+        "ingredient": "Gin",
+        "quantity": 45,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lemon Juice",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Simple Syrup",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Soda Water",
+        "quantity": 60,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - The Unforgettables",
+    "instructions": "Pour all ingredients directly into a highball filled with ice. Stir gently. NOTE: Use 'Old Tom' Gin for Tom Collins.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Jungle Bird",
+    "ingredients": [
+      {
+        "ingredient": "Dark Rum",
+        "quantity": 45,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Campari",
+        "quantity": 22.5,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Pineapple Juice",
+        "quantity": 45,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime Juice",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Simple Syrup",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Pineapple",
+        "quantity": 1,
+        "unit": "slice"
+      }
+    ],
+    "category": "Tiki cocktails",
+    "instructions": "Shake all ingredients with ice and strain into a glass filled with fresh ice.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Kir",
+    "ingredients": [
+      {
+        "ingredient": "Dry White Wine",
+        "quantity": 90,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Crème De Cassis",
+        "quantity": 10,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - Contemporary Classics",
+    "instructions": "Pour Crème de Cassis into glass, top up with white wine. Note: KIR ROYAL - Use Champagne instead of white wine",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Last Word",
+    "ingredients": [
+      {
+        "ingredient": "Gin",
+        "quantity": 22.5,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Green Chartreuse",
+        "quantity": 22.5,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Maraschino Luxardo",
+        "quantity": 22.5,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime Juice",
+        "quantity": 22.5,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - The Unforgettables",
+    "instructions": "Add all ingredients into a cocktail shaker. Shake with ice and strain into a chilled cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Lemon Drop Martini",
+    "ingredients": [
+      {
+        "ingredient": "Vodka Citron",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Triple Sec",
+        "quantity": 20,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lemon Juice",
+        "quantity": 15,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - New Era Drinks",
+    "instructions": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Long Island Ice Tea",
+    "ingredients": [
+      {
+        "ingredient": "Vodka",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Tequila",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "White Rum",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Gin",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Cointreau",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lemon Juice",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Simple Syrup",
+        "quantity": 20,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Coca Cola",
+        "quantity": 1,
+        "unit": "top up"
+      }
+    ],
+    "category": "IBA - Contemporary Classics",
+    "instructions": "Add all ingredients into a highball glass filled with ice. Stir gently.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Mai-Tai",
+    "ingredients": [
+      {
+        "ingredient": "Amber Jamaican Rum",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Martinique Molasses Rhum",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Orange Curacao",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Orgeat Syrup",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime Juice",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Simple Syrup",
+        "quantity": 7.5,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - Contemporary Classics",
+    "instructions": "Add all ingredients into a shaker with ice. Shake and pour into a double rocks glass or a highball glass.  The Martinique molasses rum used by Trader Vic was not an Agricole rum but a type of rummy from molasses.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Manhattan",
+    "ingredients": [
+      {
+        "ingredient": "Rye Whiskey",
+        "quantity": 50,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Sweet Vermouth",
+        "quantity": 20,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Angostura Bitters",
+        "quantity": 1,
+        "unit": "dash"
+      }
+    ],
+    "category": "IBA - The Unforgettables",
+    "instructions": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a chilled cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Margarita",
+    "ingredients": [
+      {
+        "ingredient": "100% Agave Tequila",
+        "quantity": 50,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Triple Sec",
+        "quantity": 20,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime Juice",
+        "quantity": 15,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - Contemporary Classics",
+    "instructions": "Add all ingredients into a shaker with ice. Shake and strain into a chilled cocktail glass",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Martinez",
+    "ingredients": [
+      {
+        "ingredient": "London Dry Gin",
+        "quantity": 45,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Sweet Vermouth",
+        "quantity": 45,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Maraschino Liqueur",
+        "quantity": 1,
+        "unit": "bar spoon"
+      },
+      {
+        "ingredient": "Orange Bitters",
+        "quantity": 2,
+        "unit": "dash"
+      }
+    ],
+    "category": "IBA - The Unforgettables",
+    "instructions": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a chilled cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Mary Pickford",
+    "ingredients": [
+      {
+        "ingredient": "White Rum",
+        "quantity": 45,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Pineapple Juice",
+        "quantity": 45,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Maraschino Luxardo",
+        "quantity": 7.5,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Grenadine Syrup",
+        "quantity": 5,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - The Unforgettables",
+    "instructions": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Michelada",
+    "ingredients": [
+      {
+        "ingredient": "Beer (Light Lager)",
+        "quantity": 330,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime Juice",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Worcestershire Sauce",
+        "quantity": 2,
+        "unit": "dashes"
+      },
+      {
+        "ingredient": "Hot Sauce",
+        "quantity": 2,
+        "unit": "dashes"
+      },
+      {
+        "ingredient": "Salt",
+        "quantity": 1,
+        "unit": "pinch"
+      }
+    ],
+    "category": "Beer cocktails",
+    "instructions": "Rim a chilled glass with salt. Add Fresh Lime Juice, sauces, and salt, then top up gently with cold beer and stir lightly.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Mimosa",
+    "ingredients": [
+      {
+        "ingredient": "Fresh Orange Juice",
+        "quantity": 75,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Prosecco",
+        "quantity": 75,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - Contemporary Classics",
+    "instructions": "Pour Fresh Orange Juice into a flute glass and gently pour the Sparkling Wine. Stir gently. Note: Also known as Buck's Fizz.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Mint Julep",
+    "ingredients": [
+      {
+        "ingredient": "Bourbon Whiskey",
+        "quantity": 60,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Mint",
+        "quantity": 4,
+        "unit": "piece"
+      },
+      {
+        "ingredient": "Sugar Powder",
+        "quantity": 1,
+        "unit": "teaspoon"
+      },
+      {
+        "ingredient": "Water",
+        "quantity": 2,
+        "unit": "teaspoon"
+      }
+    ],
+    "category": "IBA - Contemporary Classics",
+    "instructions": "In Julep Stainless Steel Cup gently muddle the mint with sugar and Water. Fill the glass with cracked ice, add the Bourbon and stir well until the cup frosts.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Mojito",
+    "ingredients": [
+      {
+        "ingredient": "White Cuban Ron",
+        "quantity": 45,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime Juice",
+        "quantity": 20,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Mint",
+        "quantity": 6,
+        "unit": "piece"
+      },
+      {
+        "ingredient": "White Cane Sugar",
+        "quantity": 2,
+        "unit": "teaspoon"
+      },
+      {
+        "ingredient": "Soda Water",
+        "quantity": 1,
+        "unit": "top up"
+      }
+    ],
+    "category": "IBA - Contemporary Classics",
+    "instructions": "Mix mint sprigs with sugar and Fresh Lime Juice. Add splash of Soda Water and fill the glass with ice. Pour the rum and top with Soda Water. Light stir to involve all ingredients.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Monkey Gland",
+    "ingredients": [
+      {
+        "ingredient": "Dry Gin",
+        "quantity": 45,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Orange Juice",
+        "quantity": 45,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Absinthe",
+        "quantity": 1,
+        "unit": "tablespoon"
+      },
+      {
+        "ingredient": "Grenadine Syrup",
+        "quantity": 1,
+        "unit": "tablespoon"
+      }
+    ],
+    "category": "IBA - The Unforgettables",
+    "instructions": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Moscow Mule",
+    "ingredients": [
+      {
+        "ingredient": "Smirnoff Vodka",
+        "quantity": 45,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Ginger Beer",
+        "quantity": 120,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime Juice",
+        "quantity": 10,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - Contemporary Classics",
+    "instructions": "In a Mule Cup or rocks glass, combine the vodka and Ginger Beer. Add Fresh Lime Juice and gently stir to involve all ingredients.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Naked And Famous",
+    "ingredients": [
+      {
+        "ingredient": "Mezcal",
+        "quantity": 22.5,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Yellow Chartreuse",
+        "quantity": 22.5,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Aperol",
+        "quantity": 22.5,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime Juice",
+        "quantity": 22.5,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - New Era Drinks",
+    "instructions": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Navy Grog",
+    "ingredients": [
+      {
+        "ingredient": "Dark Rum",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Light Rum",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Demerara Rum",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime Juice",
+        "quantity": 22.5,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Grapefruit Juice",
+        "quantity": 22.5,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Honey Syrup",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Mint",
+        "quantity": 1,
+        "unit": "sprig"
+      }
+    ],
+    "category": "Tiki cocktails",
+    "instructions": "Shake all ingredients with ice and strain into a glass filled with fresh ice.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Negroni",
+    "ingredients": [
+      {
+        "ingredient": "Gin",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Bitter Campari",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Sweet Vermouth",
+        "quantity": 30,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - The Unforgettables",
+    "instructions": "Pour all ingredients directly into a chilled old fashioned glass filled with ice, Stir gently.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "New York Sour",
+    "ingredients": [
+      {
+        "ingredient": "Rye Whiskey",
+        "quantity": 60,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Simple Syrup",
+        "quantity": 22.5,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lemon Juice",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Egg White",
+        "unit": "drops"
+      },
+      {
+        "ingredient": "Red Wine",
+        "quantity": 15,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - New Era Drinks",
+    "instructions": "Pour all ingredients into the shaker. Shake vigorously with ice. Strain into a chilled rocks glass filled with ice. Float the wine on top.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Old Cuban",
+    "ingredients": [
+      {
+        "ingredient": "Mint",
+        "quantity": 6,
+        "unit": "piece"
+      },
+      {
+        "ingredient": "Aged Rum",
+        "quantity": 45,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime Juice",
+        "quantity": 22.5,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Simple Syrup",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Angostura Bitters",
+        "quantity": 2,
+        "unit": "dash"
+      },
+      {
+        "ingredient": "Brut Champagne or Prosecco",
+        "quantity": 60,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - New Era Drinks",
+    "instructions": "Pour all ingredients into cocktail shaker except the wine, shake well with ice, strain into chilled elegant cocktail glass. Top up with the Sparkling Wine.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Old Fashioned",
+    "ingredients": [
+      {
+        "ingredient": "Bourbon or Rye Whiskey",
+        "quantity": 45,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Sugar Cube",
+        "quantity": 1,
+        "unit": "piece"
+      },
+      {
+        "ingredient": "Angostura Bitters",
+        "unit": "dash"
+      },
+      {
+        "ingredient": "Water",
+        "unit": "dash"
+      }
+    ],
+    "category": "IBA - The Unforgettables",
+    "instructions": "Place sugar cube in old fashioned glass and saturate with bitter, add few dashes of Water. Muddle until dissolved. Fill the glass with ice cubes and add whiskey. Stir gently.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Painkiller",
+    "ingredients": [
+      {
+        "ingredient": "Dark Rum",
+        "quantity": 60,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Pineapple Juice",
+        "quantity": 90,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Orange Juice",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Coconut Cream",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Nutmeg",
+        "quantity": 1,
+        "unit": "powder"
+      }
+    ],
+    "category": "Tiki cocktails",
+    "instructions": "Shake all ingredients with ice and strain into a glass filled with fresh ice.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Paloma",
+    "ingredients": [
+      {
+        "ingredient": "100% Agave Tequila",
+        "quantity": 50,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime",
+        "quantity": 5,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Salt",
+        "quantity": 1,
+        "unit": "pinch"
+      },
+      {
+        "ingredient": "Pink Grapefruit Soda",
+        "quantity": 100,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - New Era Drinks",
+    "instructions": "Pour the tequila into a highball glass, squeeze the Fresh Lime Juice. Add ice and salt, fill up pink grapefruit soda. Stir gently.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Paper Plane",
+    "ingredients": [
+      {
+        "ingredient": "Bourbon Whiskey",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Amaro Nonino",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Aperol",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lemon Juice",
+        "quantity": 30,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - New Era Drinks",
+    "instructions": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Paradise",
+    "ingredients": [
+      {
+        "ingredient": "Gin",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Apricot Brandy",
+        "quantity": 20,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Orange Juice",
+        "quantity": 15,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - The Unforgettables",
+    "instructions": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Penicillin",
+    "ingredients": [
+      {
+        "ingredient": "Blended Scotch Whisky",
+        "quantity": 60,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Lagavulin 16 y Whisky",
+        "quantity": 7.5,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lemon Juice",
+        "quantity": 22.5,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Honey Syrup",
+        "quantity": 22.5,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Ginger",
+        "quantity": 2,
+        "unit": "piece"
+      }
+    ],
+    "category": "IBA - New Era Drinks",
+    "instructions": "Muddle fresh ginger in a shaker and add the remaining ingredients, except for the Islay single malt whiskey. Fill the shaker with ice and shake. Double-strain into a chilled old fashioned glass with ice. Float the single malt whisky on top.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Pina Colada",
+    "ingredients": [
+      {
+        "ingredient": "White Rum",
+        "quantity": 50,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Coconut Cream",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Pineapple Juice",
+        "quantity": 50,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - Contemporary Classics",
+    "instructions": "Blend all the ingredients with ice in an electric blender, pour into a large glass, and serve with straws.  Note: Historically a few drops of Fresh Lime Juice were added to taste. 4 slices of fresh pineapple can be used instead of juice",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Pisco Sour",
+    "ingredients": [
+      {
+        "ingredient": "Pisco",
+        "quantity": 60,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lemon Juice",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Simple Syrup",
+        "quantity": 20,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Egg White",
+        "quantity": 1,
+        "unit": "piece"
+      }
+    ],
+    "category": "IBA - Contemporary Classics",
+    "instructions": "Add all ingredients into a shaker with ice. Shake and strain into a chilled goblet glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Planter's Punch",
+    "ingredients": [
+      {
+        "ingredient": "Jamaican Rum",
+        "quantity": 45,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime Juice",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Sugarcane Juice",
+        "quantity": 30,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - The Unforgettables",
+    "instructions": "Pour all ingredients directly in a small tumbler or a typical terracotta glass. NOTE: Add dilution up to taste, it can be given by Water, ice or fresh juices.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Porto Flip",
+    "ingredients": [
+      {
+        "ingredient": "Brandy",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Red Tawny Port Wine",
+        "quantity": 45,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Egg Yolk",
+        "quantity": 10,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - The Unforgettables",
+    "instructions": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Ramos Fizz",
+    "ingredients": [
+      {
+        "ingredient": "Gin",
+        "quantity": 45,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime Juice",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lemon Juice",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Simple Syrup",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Cream",
+        "quantity": 60,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Egg White",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Orange Flower Water",
+        "quantity": 3,
+        "unit": "dash"
+      },
+      {
+        "ingredient": "Vanilla Extract",
+        "quantity": 2,
+        "unit": "drops"
+      },
+      {
+        "ingredient": "Soda Water",
+        "quantity": 1,
+        "unit": "top up"
+      }
+    ],
+    "category": "IBA - The Unforgettables",
+    "instructions": "Pour all ingredients except Soda Water in a cocktail shaker with ice, Shake for two minutes, double strain in a glass, pour the drink back in the shaker, and hard shake without ice for one minute. Strain into a highball glass, top up with soda. NOTE: The drink was invented by Henry Ramos in 1888, at his bar Meyer's Table d'Hôtel Internationale in New Orleans. The Ramos Fizz was originally shaken for 12 minutes by a crew of 30 bartenders who passed the shaker from one to another.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Russian Spring Punch",
+    "ingredients": [
+      {
+        "ingredient": "Vodka",
+        "quantity": 25,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lemon Juice",
+        "quantity": 25,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Crème De Cassis",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Simple Syrup",
+        "quantity": 10,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Sparkling Wine",
+        "quantity": 1,
+        "unit": "top up"
+      }
+    ],
+    "category": "IBA - New Era Drinks",
+    "instructions": "Pour all ingredients into a cocktail shaker except the Sparkling Wine, shake well with ice, strain into a chilled tall tumbler glass filled with ice, and top up with Sparkling Wine.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Rusty Nail",
+    "ingredients": [
+      {
+        "ingredient": "Scotch Whisky",
+        "quantity": 45,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Drambuie",
+        "quantity": 25,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - The Unforgettables",
+    "instructions": "Pour all ingredients directly into an old fashioned glass filled with ice. Stir gently.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Sazerac",
+    "ingredients": [
+      {
+        "ingredient": "Cognac",
+        "quantity": 50,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Absinthe",
+        "quantity": 10,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Sugar Cube",
+        "quantity": 1,
+        "unit": "piece"
+      },
+      {
+        "ingredient": "Peychaud's Bitters",
+        "quantity": 2,
+        "unit": "dash"
+      }
+    ],
+    "category": "IBA - The Unforgettables",
+    "instructions": "Rinse a chilled old-fashioned glass with the absinthe, add crushed ice and set it aside. Stir the remaining ingredients over ice in a mixing glass. Discard the ice and any excess absinthe from the prepared glass, strain the mixed drink into the glass.  NOTE: The original recipe changed after the American Civil War, Rye Whiskey substituted Cognac as it became hard to obtain.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Scorpion",
+    "ingredients": [
+      {
+        "ingredient": "Light Rum",
+        "quantity": 60,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Brandy",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lemon Juice",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Orange Juice",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Orgeat Syrup",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Seasonal Fruit",
+        "quantity": 1,
+        "unit": "piece"
+      }
+    ],
+    "category": "Tiki cocktails",
+    "instructions": "Shake all ingredients with ice and strain into a glass filled with fresh ice.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Sea Breeze",
+    "ingredients": [
+      {
+        "ingredient": "Vodka",
+        "quantity": 40,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Cranberry Juice",
+        "quantity": 120,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Grapefruit Juice",
+        "quantity": 30,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - Contemporary Classics",
+    "instructions": "Build all ingredients in a highball glass filled with ice.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Sex On The Beach",
+    "ingredients": [
+      {
+        "ingredient": "Vodka",
+        "quantity": 40,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Peach Schnapps",
+        "quantity": 20,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Orange Juice",
+        "quantity": 40,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Cranberry Juice",
+        "quantity": 40,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - Contemporary Classics",
+    "instructions": "Build all ingredients in a highball glass filled with ice.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Shandy",
+    "ingredients": [
+      {
+        "ingredient": "Beer (Lager)",
+        "quantity": 165,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Lemonade",
+        "quantity": 165,
+        "unit": "ml"
+      }
+    ],
+    "category": "Beer cocktails",
+    "instructions": "Gently combine equal parts beer and lemonade in a chilled glass. Stir lightly if needed.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Sherry Cobbler",
+    "ingredients": [
+      {
+        "ingredient": "Sherry",
+        "quantity": 90,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Simple Syrup",
+        "quantity": 10,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Seasonal Fruit",
+        "quantity": 1,
+        "unit": "piece"
+      }
+    ],
+    "category": "Fortified wine cocktails",
+    "instructions": "Build in a glass filled with crushed ice, stir gently, and garnish with seasonal fruit if desired.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Sidecar",
+    "ingredients": [
+      {
+        "ingredient": "Cognac",
+        "quantity": 50,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Triple Sec",
+        "quantity": 20,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lemon Juice",
+        "quantity": 20,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - The Unforgettables",
+    "instructions": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Singapore Sling",
+    "ingredients": [
+      {
+        "ingredient": "Gin",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Cherry Liqueur",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Cointreau",
+        "quantity": 7.5,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Benedictine",
+        "quantity": 7.5,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Pineapple Juice",
+        "quantity": 120,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime Juice",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Grenadine Syrup",
+        "quantity": 10,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Angostura Bitters",
+        "quantity": 1,
+        "unit": "dash"
+      }
+    ],
+    "category": "IBA - Contemporary Classics",
+    "instructions": "Pour all ingredients into a cocktail shaker filled with ice cubes. Shake well. Strain into Hurricane glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Southside",
+    "ingredients": [
+      {
+        "ingredient": "London Dry Gin",
+        "quantity": 60,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lemon Juice",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Simple Syrup",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Mint",
+        "quantity": 5,
+        "unit": "piece"
+      },
+      {
+        "ingredient": "Egg White",
+        "unit": "drops"
+      }
+    ],
+    "category": "IBA - New Era Drinks",
+    "instructions": "Pour all ingredients into a cocktail shaker, shake well with ice, double-strain into chilled cocktail glass. Note: If Egg White is used shake vigorously.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Spicy Fifty",
+    "ingredients": [
+      {
+        "ingredient": "Vodka Vanilla",
+        "quantity": 50,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Elderflower Cordial",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime Juice",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Monin Honey Syrup",
+        "quantity": 10,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Red Chili Pepper",
+        "quantity": 1,
+        "unit": "piece"
+      }
+    ],
+    "category": "IBA - New Era Drinks",
+    "instructions": "Pour all ingredients into a cocktail shaker, shake well with ice, double-strain into chilled cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Spritz",
+    "ingredients": [
+      {
+        "ingredient": "Prosecco",
+        "quantity": 90,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Aperol",
+        "quantity": 60,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Soda Water",
+        "quantity": 1,
+        "unit": "splash"
+      }
+    ],
+    "category": "IBA - New Era Drinks",
+    "instructions": "Build all ingredients into a wine glass filled with ice. Stir gently. NOTE: There are other versions of the Spritz that use Campari, Cynar or Select instead of Aperol.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Stinger",
+    "ingredients": [
+      {
+        "ingredient": "Cognac",
+        "quantity": 50,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "White Crème De Menthe",
+        "quantity": 20,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - The Unforgettables",
+    "instructions": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Suffering Bastard",
+    "ingredients": [
+      {
+        "ingredient": "Cognac",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Gin",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime Juice",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Angostura Bitters",
+        "quantity": 2,
+        "unit": "dash"
+      },
+      {
+        "ingredient": "Ginger Beer",
+        "quantity": 1,
+        "unit": "top up"
+      }
+    ],
+    "category": "IBA - New Era Drinks",
+    "instructions": "Pour all ingredients into a cocktail shaker except the Ginger Beer, shake well with ice, Pour unstrained into a Collins glass or in the original S. Bastard mug and top up with Ginger Beer.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Tequila Sunrise",
+    "ingredients": [
+      {
+        "ingredient": "Tequila",
+        "quantity": 45,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Orange Juice",
+        "quantity": 90,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Grenadine Syrup",
+        "quantity": 15,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - Contemporary Classics",
+    "instructions": "Pour tequila and Fresh Orange Juice directly into highball glass filled with ice cubes. Add the Grenadine Syrup to create chromatic effect (sunrise), do not stir.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Tipperary",
+    "ingredients": [
+      {
+        "ingredient": "Irish Whiskey",
+        "quantity": 50,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Sweet Vermouth",
+        "quantity": 25,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Green Chartreuse",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Angostura Bitters",
+        "quantity": 2,
+        "unit": "dash"
+      }
+    ],
+    "category": "IBA - New Era Drinks",
+    "instructions": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Tom Collins",
+    "ingredients": [
+      {
+        "ingredient": "Gin",
+        "quantity": 60,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lemon Juice",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Simple Syrup",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Soda Water",
+        "quantity": 1,
+        "unit": "top up"
+      },
+      {
+        "ingredient": "Lemon",
+        "quantity": 1,
+        "unit": "slice"
+      }
+    ],
+    "category": "Gin cocktails",
+    "instructions": "Shake gin, Fresh Lemon juice, and Simple Syrup with ice. Strain into an ice-filled Collins glass and top up with Soda Water.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Tommy's Margarita",
+    "ingredients": [
+      {
+        "ingredient": "100% Agave Tequila Reposado",
+        "quantity": 60,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime Juice",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Agave Syrup",
+        "quantity": 30,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - New Era Drinks",
+    "instructions": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled rocks glass filled with ice.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Trinidad Sour",
+    "ingredients": [
+      {
+        "ingredient": "Angostura Bitters",
+        "quantity": 45,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Orgeat Syrup",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lemon Juice",
+        "quantity": 22.5,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Rye Whiskey",
+        "quantity": 15,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - New Era Drinks",
+    "instructions": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Tuxedo",
+    "ingredients": [
+      {
+        "ingredient": "Old Tom Gin",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Dry Vermouth",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Maraschino Luxardo",
+        "quantity": 1,
+        "unit": "bar spoon"
+      },
+      {
+        "ingredient": "Absinthe",
+        "quantity": 1,
+        "unit": "bar spoon"
+      },
+      {
+        "ingredient": "Orange Bitters",
+        "quantity": 3,
+        "unit": "dash"
+      }
+    ],
+    "category": "IBA - The Unforgettables",
+    "instructions": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Ve.N.To",
+    "ingredients": [
+      {
+        "ingredient": "White Smooth Grappa",
+        "quantity": 45,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lemon Juice",
+        "quantity": 22.5,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Honey Mix",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Chamomile Cordial",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Egg White",
+        "quantity": 10,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - New Era Drinks",
+    "instructions": "Pour all ingredients into the shaker. Shake vigorously with ice. Strain into a chilled small tumbler glass filled with ice. Notes: If desired Water can be replaced by chamomile infusion in the Honey Mix.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Vesper",
+    "ingredients": [
+      {
+        "ingredient": "Gin",
+        "quantity": 45,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Vodka",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Lillet Blanc",
+        "quantity": 7.5,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - Contemporary Classics",
+    "instructions": "Pour all ingredients into a cocktail shaker filled with ice cubes. Shake and strain into a chilled cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Vieux Carrè",
+    "ingredients": [
+      {
+        "ingredient": "Rye Whiskey",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Cognac",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Sweet Vermouth",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Benedictine",
+        "quantity": 1,
+        "unit": "bar spoon"
+      },
+      {
+        "ingredient": "Peychaud's Bitters",
+        "quantity": 2,
+        "unit": "dash"
+      }
+    ],
+    "category": "IBA - The Unforgettables",
+    "instructions": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a chilled cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Whiskey Sour",
+    "ingredients": [
+      {
+        "ingredient": "Bourbon Whiskey",
+        "quantity": 45,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lemon Juice",
+        "quantity": 25,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Simple Syrup",
+        "quantity": 20,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Egg White",
+        "quantity": 20,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - The Unforgettables",
+    "instructions": "Pour all ingredients into a cocktail shaker filled with ice. Shake well. Strain into cobbler glass. If served on the rocks, strain ingredients into an old fashioned glass filled with ice.  NOTE: If Egg White is used shake little harder to release and incorporate the foam from the Egg White.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "White Lady",
+    "ingredients": [
+      {
+        "ingredient": "Gin",
+        "quantity": 40,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Triple Sec",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lemon Juice",
+        "quantity": 20,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - The Unforgettables",
+    "instructions": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "White Russian",
+    "ingredients": [
+      {
+        "ingredient": "Vodka",
+        "quantity": 50,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Coffee Liqueur",
+        "quantity": 20,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Cream",
+        "quantity": 30,
+        "unit": "ml"
+      }
+    ],
+    "category": "Vodka cocktails",
+    "instructions": "Build over ice in an old fashioned glass and stir gently. Float the Fresh Cream on top.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Yellow Bird",
+    "ingredients": [
+      {
+        "ingredient": "White Rum",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Galliano",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Triple Sec",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime Juice",
+        "quantity": 15,
+        "unit": "ml"
+      }
+    ],
+    "category": "IBA - New Era Drinks",
+    "instructions": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Zombie",
+    "ingredients": [
+      {
+        "ingredient": "Jamaican Dark Rum",
+        "quantity": 45,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Gold Puerto Rican Rum",
+        "quantity": 45,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Demerara Rum",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime Juice",
+        "quantity": 20,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Falernum",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Donn's Mix",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Grenadine Syrup",
+        "quantity": 1,
+        "unit": "teaspoon"
+      },
+      {
+        "ingredient": "Angostura Bitters",
+        "quantity": 1,
+        "unit": "dash"
+      },
+      {
+        "ingredient": "Pernod",
+        "quantity": 6,
+        "unit": "drops"
+      }
+    ],
+    "category": "IBA - Contemporary Classics",
+    "instructions": "Add all ingredients into an electric blender with 170 grams of cracked ice. With pulse bottom blend for a few seconds. Serve in a tall tumbler glass.  Note: Donn's Mix: 2 parts of fresh yellow grapefruit and 1 part of cinnamon syrup",
+    "created": 1767343370024,
+    "modified": 1767343370024
+  },
+  {
+    "name": "Amaretto Sour",
+    "category": "Moderately Strong",
+    "type": "",
+    "served": "",
+    "standard_drinkware": "",
+    "method": "",
+    "ingredients": [
+      {
+        "ingredient": "Amaretto",
+        "quantity": "60",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lemon Juice",
+        "quantity": "30",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Egg White",
+        "quantity": "1",
+        "unit": "piece"
+      }
+    ],
+    "instructions": "Fill a shaker with ice cubes. Add 60ml of amaretto and 30ml of lemon juice. Shake well and pour into a rocks glass. Garnish with a lemon slice. You can use aquafaba or albumin powder instead of egg white.",
+    "notes": "Dry shake before to create the foam. If you use aquafaba or albumin powder, you need to adjust the quantity.\n\nThe Amaretto Sour rose to prominence in the United States during the 1970s, largely popularized by the Italian liqueur brand Disaronno, which promoted a simple combination of amaretto and lemon juice or sour mix. The drink became an emblem of the disco era—approachable, sweet, and easy to drink—though it was often dismissed as lacking sophistication.\n\nWhile amaretto itself has Italian roots stretching back centuries, the cocktail’s modern identity was shaped by this American marketing push. In recent years, bartenders have revived the Amaretto Sour by incorporating fresh citrus, bourbon, and egg white, transforming it into a richer, more balanced, and complex interpretation of the original.",
+    "tags": []
+  },
+  {
+    "name": "Amaro Paloma",
+    "category": "Moderately Strong",
+    "type": "",
+    "served": "",
+    "standard_drinkware": "",
+    "method": "",
+    "ingredients": [
+      {
+        "ingredient": "Tequila",
+        "quantity": "30",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Amaro Nonino",
+        "quantity": "23",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Grapefruit Juice",
+        "quantity": "30",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime Juice",
+        "quantity": "10",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Simple Syrup",
+        "quantity": "5",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Angostura Bitters",
+        "quantity": "2",
+        "unit": "dashes"
+      },
+      {
+        "ingredient": "Soda Water",
+        "quantity": "10",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Grapefruit Slice",
+        "quantity": "1",
+        "unit": "garnish"
+      }
+    ],
+    "instructions": "Fill a cocktail shaker with ice and add 30ml of tequila, 23ml of Amaro and 2 dashes of Angostura Bitters. Add 30ml of grapefruit juice, 10ml of lime juice and 5ml of sugar syrup. Shake well and strain into a rocks glass with ice. Top with a splash of soda water. Garnish with a slice of grapefruit.",
+    "notes": "The Amaro Paloma is a contemporary variation rather than a traditional cocktail with a long-standing history. It reimagines the classic Mexican Paloma—typically made with tequila, grapefruit soda, lime, and a pinch of salt—by incorporating an Italian herbal liqueur such as Amaro Montenegro. The addition of amaro introduces a bittersweet, herbal complexity that deepens the drink while preserving the Paloma’s bright, refreshing character.",
+    "tags": []
+  },
+  {
+    "name": "Ambassador",
+    "category": "Tequila cocktails",
+    "type": "",
+    "served": "",
+    "standard_drinkware": "",
+    "method": "",
+    "ingredients": [
+      {
+        "ingredient": "Tequila",
+        "quantity": "30",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Orange Juice",
+        "quantity": "50",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Simple Syrup",
+        "quantity": "15",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Orange Slice",
+        "quantity": "1",
+        "unit": "garnish"
+      }
+    ],
+    "instructions": "Put some ice into a rocks glass. Add 30ml of tequila blanco, 50ml of orange juice and 15ml of sugar syrup. Stir well and garnish with an orange slice.\n",
+    "notes": "",
+    "tags": []
+  },
+  {
+    "name": "Anaconda",
+    "category": "Shots",
+    "type": "",
+    "served": "",
+    "standard_drinkware": "",
+    "method": "",
+    "ingredients": [
+      {
+        "ingredient": "Jack Daniel's",
+        "quantity": "25",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Sambuca",
+        "quantity": "25",
+        "unit": "ml"
+      }
+    ],
+    "instructions": "Fill a shaker with ice and pour the ingredients. Shake well and strain into a shot glass.",
+    "notes": "It is best to create more than 3 at a time.\nThe \"Anaconda\" cocktail does not have a single, widely recognized historical origin like classic drinks such as the Margarita or Old Fashioned. Instead, the name has been used by various people and establishments to describe different, unrelated cocktail recipes. ",
+    "tags": []
+  },
+  {
+    "name": "Angel's Kiss",
+    "category": "Shots",
+    "type": "",
+    "served": "",
+    "standard_drinkware": "",
+    "method": "",
+    "ingredients": [
+      {
+        "ingredient": "White Crème De Cacao",
+        "quantity": "15",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Sloe Gin",
+        "quantity": "10",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Brandy",
+        "quantity": "10",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Cream",
+        "quantity": "10",
+        "unit": "ml"
+      }
+    ],
+    "instructions": "Pour 15ml of crème de cacao white into a shooter glass. Carefully pour 10ml of sloe gin on top of the crème de cacao and 10ml of brandy on top of the gin. Carefully top with 10ml of cream or whipped cream.\n",
+    "notes": "",
+    "tags": []
+  },
+  {
+    "name": "Angel's Tit",
+    "category": "Moderately Strong",
+    "type": "",
+    "served": "",
+    "standard_drinkware": "",
+    "method": "",
+    "ingredients": [
+      {
+        "ingredient": "White Crème De Cacao",
+        "quantity": "15",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Maraschino Liqueur",
+        "quantity": "30",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Whipped Cream",
+        "quantity": "30",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Maraschino Cherry",
+        "quantity": "1",
+        "unit": "garnish"
+      }
+    ],
+    "instructions": "Pour 15ml of crème de cacao white into a chilled cocktail glass. Carefully add 30ml of maraschino liqueur on top. Top with 30ml of whipped cream. Garnish with a maraschino cherry.\n",
+    "notes": "",
+    "tags": []
+  },
+  {
+    "name": "Apple Cart",
+    "category": "Strong",
+    "type": "",
+    "served": "",
+    "standard_drinkware": "",
+    "method": "",
+    "ingredients": [
+      {
+        "ingredient": "Calvados",
+        "quantity": "45",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Cointreau",
+        "quantity": "30",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lemon Juice",
+        "quantity": "30",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Apple Wedge",
+        "quantity": "1",
+        "unit": "garnish"
+      }
+    ],
+    "instructions": "Combine 45ml of calvados, 30ml of triple sec and 30ml of lemon juice in a cocktail shaker with ice. Shake well and strain into a Martini glass. Garnish with an apple wedge.\n",
+    "notes": "",
+    "tags": []
+  },
+  {
+    "name": "Black & Tan",
+    "category": "Beer cocktails",
+    "type": "",
+    "served": "",
+    "standard_drinkware": "",
+    "method": "",
+    "ingredients": [
+      {
+        "ingredient": "Guinness Stout",
+        "quantity": "1",
+        "unit": "half pint"
+      },
+      {
+        "ingredient": "Bass Ale",
+        "quantity": "1",
+        "unit": "half pint"
+      }
+    ],
+    "instructions": "Layer stout over ale",
+    "notes": "",
+    "tags": []
+  },
+  {
+    "name": "Boilermaker",
+    "category": "Beer cocktails",
+    "type": "",
+    "served": "",
+    "standard_drinkware": "",
+    "method": "",
+    "ingredients": [
+      {
+        "ingredient": "American Pilsner",
+        "quantity": "1",
+        "unit": "pint"
+      },
+      {
+        "ingredient": "Bourbon Whiskey",
+        "quantity": "50",
+        "unit": "ml"
+      }
+    ],
+    "instructions": "Pour the whiskey in the beer",
+    "notes": "The Boilermaker is a simple combination of beer and a shot of whiskey, with roots in 19th-century American industrial culture. It is commonly linked to boilermakers and miners who sought a strong, no-nonsense drink after long hours of physical labor. The drink is often associated with the 1890s in Butte, Montana, where it was sometimes known as a “Sean O’Farrell.” Over time, it became a popular, affordable after-work choice, traditionally served either with the beer and whiskey side by side or with the shot dropped into the beer in a style known as a “depth charge.”",
+    "tags": []
+  },
+  {
+    "name": "Flaming Dr. Pepper",
+    "category": "Beer cocktails",
+    "type": "",
+    "served": "",
+    "standard_drinkware": "",
+    "method": "",
+    "ingredients": [
+      {
+        "ingredient": "Amaretto",
+        "quantity": "35",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Overproof Rum",
+        "quantity": "15",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Beer",
+        "quantity": "1",
+        "unit": "half pint"
+      }
+    ],
+    "instructions": "Pour the amaretto in a shot glass. Add slowly on top the overproof rum to create a layer. Light the rum and quickly drop it in the pint glass with the half pint beer. Make sure there are no flames. Drink it.",
+    "notes": "Use caution as the flames might not be visible.",
+    "tags": []
+  },
+  {
+    "name": "Flaming Engineer",
+    "category": "Beer cocktails",
+    "type": "",
+    "served": "",
+    "standard_drinkware": "",
+    "method": "",
+    "ingredients": [
+      {
+        "ingredient": "Molson Canadian beer",
+        "quantity": "3",
+        "unit": "quarters pint"
+      },
+      {
+        "ingredient": "Amaretto",
+        "quantity": "35",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Canadian Club Whiskey",
+        "quantity": "35",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Orange Juice",
+        "quantity": "1",
+        "unit": "top up"
+      }
+    ],
+    "instructions": "Pour the beer into the beer mug. Add the amaretto and the whiskey. Fill with orange juice.",
+    "notes": "Also known as a Billy and Dr. Boil My Gladiator",
+    "tags": []
+  },
+  {
+    "name": "Irish Car Bomb",
+    "category": "Beer cocktails",
+    "type": "",
+    "served": "",
+    "standard_drinkware": "",
+    "method": "",
+    "ingredients": [
+      {
+        "ingredient": "Guinness Stout",
+        "quantity": "1",
+        "unit": "half pint"
+      },
+      {
+        "ingredient": "Jameson Irish Whiskey",
+        "quantity": "25",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Bailey's",
+        "quantity": "25",
+        "unit": "ml"
+      }
+    ],
+    "instructions": "Pour Guinness into the pint glass. Pour Baileys and Jameson into the shot glass. Pour the shot into the beer. This recipe is here only as a reference. Read the notes.",
+    "notes": "When the Baileys mixes with the beer it will begin to curdle very quickly, requiring the drink to be consumed promptly. It is sometimes considered improper to order this drink in an Irish establishment. Some United States bars refuse to sell it, and it is not sold in Ireland, where it has been suggested that it is the equivalent of ordering a \"9/11 ice-cream sundae.\"",
+    "tags": []
+  },
+  {
+    "name": "American Revolution",
+    "category": "Bourbon",
+    "type": "",
+    "served": "",
+    "standard_drinkware": "Old Fashioned",
+    "method": "",
+    "ingredients": [
+      {
+        "ingredient": "Gin",
+        "quantity": "35",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Bourbon Whiskey",
+        "quantity": "35",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Angostura Bitters",
+        "quantity": "2",
+        "unit": "dashes"
+      },
+      {
+        "ingredient": "Orange",
+        "quantity": "1",
+        "unit": "peel"
+      },
+      {
+        "ingredient": "Sour Cherries",
+        "quantity": "1",
+        "unit": "garnish"
+      }
+    ],
+    "instructions": "Muddle orange peel in 25ml of the gin. Add the remainder of the gin, the bourbon, the bitters, and ice to the glass. Stir for 30 seconds. Strain into Old Fashioned glass and fill glass with ice. Garnish with sour cherries.",
+    "notes": "The American Revolution is a modern, spirit-forward cocktail built in the style of an Old Fashioned. It uniquely combines gin and bourbon, balancing botanical dryness with warm vanilla and oak notes. Angostura bitters add spice and structure, while the orange peel enhances citrus oils and aroma. Sour cherries provide a subtle sweetness and a classic finish. The drink is bold, aromatic, and refined, designed to be sipped slowly.\nIf you search the internet you might find different recipes. They are not wrong. There are more recipes out there with the same name. ✍️Bar Mix&Wiz",
+    "tags": []
+  },
+  {
+    "name": "Eccentric Elmer",
+    "category": "Bourbon",
+    "type": "",
+    "served": "",
+    "standard_drinkware": "",
+    "method": "",
+    "ingredients": [
+      {
+        "ingredient": "Bourbon Whiskey",
+        "quantity": "25",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Cointreau",
+        "quantity": "15",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Cranberry Juice",
+        "quantity": "80",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Lime Wedge",
+        "quantity": "1",
+        "unit": "garnish"
+      },
+      {
+        "ingredient": "Angostura Bitters",
+        "quantity": "1",
+        "unit": "dash"
+      }
+    ],
+    "instructions": "Fill a cocktail shaker halfway with ice. Add the bourbon, Cointreau, bitters, and the cranberry juice to the shaker. Shake well. Put a few ice cubes into an old-fashioned glass. Strain the cocktail into the glass. Garnish with a lime wedge.",
+    "notes": "The Eccentric Elmer is a smooth bourbon-based cocktail, offering a balanced sweetness with a subtle touch of bitterness. For proper flavor, cranberry cocktail should be used rather than pure cranberry juice. If cranberry cocktail is unavailable, cranberry juice may be substituted by adding one tablespoon of superfine sugar to the shaker before mixing to achieve a similar sweetness and balance.",
+    "tags": []
+  },
+  {
+    "name": "Nixon",
+    "category": "Bourbon",
+    "type": "",
+    "served": "",
+    "standard_drinkware": "",
+    "method": "",
+    "ingredients": [
+      {
+        "ingredient": "Bourbon Whiskey",
+        "quantity": "25",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Sloe Gin",
+        "quantity": "25",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Peach Bitters",
+        "quantity": "2",
+        "unit": "dashes"
+      },
+      {
+        "ingredient": "Peach slice",
+        "quantity": "1",
+        "unit": "garnish"
+      }
+    ],
+    "instructions": "Stir and serve on the rocks, garnished with a slice of fresh peach.",
+    "notes": "The Nixon cocktail was created by Joe Gilmore, Head Barman of the American Bar at the Savoy Hotel in London, to commemorate U.S. President Richard Nixon’s visit to Britain in 1969. The drink was prepared at the Savoy’s American Bar and then delivered to Claridge’s, where Nixon was staying.",
+    "tags": []
+  },
+  {
+    "name": "Bronx Cocktail",
+    "category": "Gin cocktails",
+    "type": "",
+    "served": "",
+    "standard_drinkware": "",
+    "method": "",
+    "ingredients": [
+      {
+        "ingredient": "Gin",
+        "quantity": "30",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Sweet Vermouth",
+        "quantity": "15",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Dry Vermouth",
+        "quantity": "10",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Orange Juice",
+        "quantity": "15",
+        "unit": "ml"
+      }
+    ],
+    "instructions": "Pour all ingredients into shaker with ice cubes, shake well. Strain into chilled martini glass.",
+    "notes": "The Bronx Cocktail can be described as a perfect martini enhanced with a touch of orange juice. In 1934, it ranked third among The World’s 10 Most Famous Cocktails (2007), placing it just behind the Martini and the Manhattan, and confirming its status as a major classic of the era.",
+    "tags": []
+  },
+  {
+    "name": "Gin Rickey",
+    "category": "Gin cocktails",
+    "type": "",
+    "served": "",
+    "standard_drinkware": "",
+    "method": "",
+    "ingredients": [
+      {
+        "ingredient": "Gin",
+        "quantity": "50",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime Juice",
+        "quantity": "15",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Soda Water",
+        "quantity": "1",
+        "unit": "top up"
+      }
+    ],
+    "instructions": "Build in a highball glass with ice.",
+    "notes": "The Rickey originated in the 1880s at Shoomaker’s Bar in Washington, D.C. It was named after Colonel Joe Rickey, a Democratic lobbyist who favored his daily drink unsweetened and originally made with bourbon. About a decade later, the gin-based version rose to prominence and was later immortalized in The Great Gatsby by F. Scott Fitzgerald. In 2011, the Rickey was officially recognized as Washington, D.C.’s native cocktail.",
+    "tags": []
+  },
+  {
+    "name": "Lady Killer",
+    "category": "Gin cocktails",
+    "type": "",
+    "served": "",
+    "standard_drinkware": "",
+    "method": "",
+    "ingredients": [
+      {
+        "ingredient": "Gin",
+        "quantity": "45",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Apricot Brandy",
+        "quantity": "15",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Cointreau",
+        "quantity": "15",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Pineapple Juice",
+        "quantity": "20",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Passion Fruit",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "ingredient": "Peach slice",
+        "quantity": "1",
+        "unit": "garnish"
+      }
+    ],
+    "instructions": "Pour all the ingredients into a shaker with ice. Cut the fresh passion fruit in half and add all the seeds and flesh into the shaker. Shake well and fine strain in a chilled old fashioned glass.",
+    "notes": "",
+    "tags": []
+  },
+  {
+    "name": "Saketini",
+    "category": "Gin cocktails",
+    "type": "",
+    "served": "",
+    "standard_drinkware": "",
+    "method": "",
+    "ingredients": [
+      {
+        "ingredient": "Gin",
+        "quantity": "40",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Sake",
+        "quantity": "10",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Green Olive",
+        "quantity": "1",
+        "unit": "garnish"
+      }
+    ],
+    "instructions": "Stir gin, sake and ice in a mixing glass. Strain into a chilled martini glass. Garnish with a green olive.",
+    "notes": "The Cocktail Detective (2015) traces the drink’s origin to chef Matsuda, who is said to have created it in Queens during the 1964 World’s Fair, with the recipe resurfacing decades later in the 1990s. Ahead of the broader martini revival in the early 2000s, sake began to appear more frequently as a cocktail base, alongside an expanding use of the term “martini” to describe a wide range of mixed drinks. While some traditionalists argue that the saketini undermines the classic gin-and-vermouth formula, others have embraced it as a legitimate evolution. Mixologist Lucy Brennan has been a vocal supporter, developing numerous sake-based cocktails, and Benihana founder Hiroaki Aoki has similarly defended the concept, noting that if a sake cocktail is enjoyable, tradition should not hinder innovation. If you search the internet you will find many variations.",
+    "tags": []
+  },
+  {
+    "name": "G Sling",
+    "category": "Sake",
+    "type": "",
+    "served": "",
+    "standard_drinkware": "",
+    "method": "",
+    "ingredients": [
+      {
+        "ingredient": "Banana Rum",
+        "quantity": "25",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Sake",
+        "quantity": "50",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime Juice",
+        "quantity": "25",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Simple Syrup",
+        "quantity": "25",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Lime Slice",
+        "quantity": "1",
+        "unit": "garnish"
+      },
+      {
+        "ingredient": "Edible Flower",
+        "quantity": "1",
+        "unit": "garnish"
+      }
+    ],
+    "instructions": "Shake with ice and server in an old fashioned glass. Garnish with lime slice and a flower.",
+    "notes": "This recipe is a creation of the incredibly talented Lucy Brennan.",
+    "tags": []
+  },
+  {
+    "name": "Pear Flower",
+    "category": "Sake",
+    "type": "",
+    "served": "",
+    "standard_drinkware": "",
+    "method": "",
+    "ingredients": [
+      {
+        "ingredient": "Moonstone Asian Pear Sake",
+        "quantity": "45",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Crater Lake Vodka",
+        "quantity": "25",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime Juice",
+        "quantity": "25",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Jasmine Syrup",
+        "quantity": "25",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Edible Flower",
+        "quantity": "1",
+        "unit": "garnish"
+      }
+    ],
+    "instructions": "Shake ingredients with ice and strain in a highball with ice. Garnish with a flower.",
+    "notes": "This recipe is a creation of the incredibly talented Lucy Brennan.",
+    "tags": []
+  },
+  {
+    "name": "Dragon Milk",
+    "category": "Sake",
+    "type": "",
+    "served": "",
+    "standard_drinkware": "",
+    "method": "",
+    "ingredients": [
+      {
+        "ingredient": "Momokawa Pearl Sake",
+        "quantity": "50",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Fresh Lime Juice",
+        "quantity": "25",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Coconut Syrup",
+        "quantity": "25",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Simple Syrup",
+        "quantity": "25",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Half & Half (Milk & Cream)",
+        "quantity": "15",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Edible Flower",
+        "quantity": "1",
+        "unit": "garnish"
+      }
+    ],
+    "instructions": "Shake ingredients with ice and strain in a highball with ice. Garnish with a flower.",
+    "notes": "This recipe is a creation of the incredibly talented Lucy Brennan. ",
+    "tags": []
+  },
+  {
+    "name": "Three Dollar Shoes",
+    "category": "Gin cocktails",
+    "type": "",
+    "served": "",
+    "standard_drinkware": "",
+    "method": "",
+    "ingredients": [
+      {
+        "ingredient": "Seagram's Gin",
+        "quantity": "35",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Bombay Sapphire Gin",
+        "quantity": "15",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Chilled Margarita Mix",
+        "quantity": "15",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Grenadine Syrup",
+        "quantity": "10",
+        "unit": "ml"
+      }
+    ],
+    "instructions": "Shake all ingredients. Strain in an old fashioned with ice. Garnish as you see fit.",
+    "notes": "The Three Dollar Shoes cocktail was created in Albuquerque, New Mexico, on 21 July 2006 as a strong yet sweet pre-club drink, intended to be enjoyed before a night of salsa dancing. The original version combined Seagram’s with margarita mixer, later enhanced with Bombay Sapphire to increase its alcoholic strength. Inspired by a pair of pink high-heel shoes recently purchased for three dollars by one of the creators, grenadine was added to give the drink its distinctive pink hue.\nTrue to its informal origins, the cocktail was initially served in a plastic water bottle for convenience and portability. In the same spirit, it is best served from a large, inexpensive plastic bottle whenever possible, although a standard drink mixer may also be used.",
+    "tags": []
+  },
+  {
+    "name": "Blue Hawaiian",
+    "category": "Rum Cocktails",
+    "type": "",
+    "served": "",
+    "standard_drinkware": "",
+    "method": "",
+    "ingredients": [
+      {
+        "ingredient": "Rum",
+        "quantity": "20",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Vodka",
+        "quantity": "20",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Blue Curacao",
+        "quantity": "10",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Pineapple Juice",
+        "quantity": "20",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Sweet & Sour mix",
+        "quantity": "10",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Pineapple Wedge",
+        "quantity": "1",
+        "unit": "garnish"
+      }
+    ],
+    "instructions": "On the rocks: Shake all ingredients with ice. Strain in a highball with crushed ice. Garnish with a pineapple wedge.\nFrozen: Blend all ingredients with ice in an electric mixer. Pour it in a hurricane glass. Garnish with a pineapple wedge. ",
+    "notes": "The Blue Hawaii is a vivid blue tropical cocktail created in 1957 by Harry Yee at the Hilton Hawaiian Village in Waikiki. Designed to highlight Blue Curaçao liqueur, the drink quickly became a tiki-bar favorite and later gained wider fame through its association with the 1961 film Blue Hawaii, though its name predates the movie. The original recipe combines light rum, vodka, Blue Curaçao, pineapple juice, and sweet-and-sour mix, delivering a colorful, tropical profile that remains a classic island-style cocktail today.",
+    "tags": []
+  },
+  {
+    "name": "Flat Liner",
+    "category": "Tequila cocktails",
+    "type": "",
+    "served": "",
+    "standard_drinkware": "Shot",
+    "method": "",
+    "ingredients": [
+      {
+        "ingredient": "Sambuca",
+        "quantity": "25",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Tequila",
+        "quantity": "25",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Tabasco",
+        "quantity": "4",
+        "unit": "dashes"
+      }
+    ],
+    "instructions": "Add the Sambuca in a shot glass. Add a few drops of Tabasco. Slowly add the tequila. ",
+    "notes": "The Flat Liner is a layered shooter served in a shot glass, distinguished by a thin line of Tabasco sauce separating two layers of spirits. In Estonia, the drink is also known as Millimalikas, which translates to “Jellyfish” in Estonian.",
+    "tags": []
+  },
+  {
+    "name": "Eucazini",
+    "category": "Vodka cocktails",
+    "type": "",
+    "served": "",
+    "standard_drinkware": "",
+    "method": "",
+    "ingredients": [
+      {
+        "ingredient": "Vodka",
+        "quantity": "25",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Cointreau",
+        "quantity": "25",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Midori",
+        "quantity": "25",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Pimms",
+        "quantity": "25",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Orange Wedge",
+        "quantity": "1",
+        "unit": "garnish"
+      }
+    ],
+    "instructions": "Shake all the ingredients with ice. Strain in a chilled martini glass. Garnish with an orange wedge.",
+    "notes": "The Eukazini cocktail was created on 17 December 2006 by bartender Kaz Santiago in collaboration with customer Euan Morse at Ryan’s Bar.",
+    "tags": []
+  },
+  {
+    "name": "Polish Martini",
+    "category": "Vodka cocktails",
+    "type": "",
+    "served": "",
+    "standard_drinkware": "",
+    "method": "",
+    "ingredients": [
+      {
+        "ingredient": "Zubrowka Vodka",
+        "quantity": "45",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Krupnik Liqueur",
+        "quantity": "45",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Apple juice",
+        "quantity": "35",
+        "unit": "ml"
+      }
+    ],
+    "instructions": "Zubrowka and Krupnik should be in the freezer. Shake all ingredients with crushes ice. Strain in a chilled martini glass. No garnish.",
+    "notes": "The Polish Martini is a sweet, apple-forward cocktail made with bison grass vodka, honey liqueur, and apple juice. Rather than resembling a classic dry martini, it draws inspiration from a traditional Polish pairing of apple juice and Żubrówka (bison grass vodka), commonly known as a Szarlotka or Tatanka.",
+    "tags": []
+  },
+  {
+    "name": "Rob Roy",
+    "category": "Whisky cocktails",
+    "type": "",
+    "served": "",
+    "standard_drinkware": "",
+    "method": "",
+    "ingredients": [
+      {
+        "ingredient": "Scotch Whisky",
+        "quantity": "45",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Sweet Vermouth",
+        "quantity": "25",
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Angostura Bitters",
+        "quantity": "1",
+        "unit": "dash"
+      },
+      {
+        "ingredient": "Maraschino Cherry",
+        "quantity": "1",
+        "unit": "garnish"
+      }
+    ],
+    "instructions": "Add ice in a mixing glass. Add all the ingredients and stir. Strain into a chilled martini glass. Garnish with a maraschino cherry.",
+    "notes": "The Rob Roy is a Scotch whisky–based variation of the Manhattan, believed to have originated around 1894 at the Waldorf Astoria in New York City. The cocktail was named after the popular operetta Rob Roy, which celebrated the Scottish folk hero Rob Roy MacGregor. To reflect the Scottish theme, bartenders replaced American whiskey with Scotch, creating what is often described as a classic “Scotch Manhattan.”",
+    "tags": []
+  }
+]

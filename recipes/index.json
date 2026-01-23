@@ -1,0 +1,14 @@
+{
+  "version": "2026.02.01",
+  "generated_at": "2026-02-01T12:00:00Z",
+  "chunk_size": 500,
+  "total_recipes": 147,
+  "files": [
+    {
+      "from": 1,
+      "to": 500,
+      "file": "chunks/recipes-1-500.json",
+      "count": 147
+    }
+  ]
+}
