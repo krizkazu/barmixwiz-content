@@ -4843,1950 +4843,1518 @@
       "tags": []
     }
   ],
-  "ingredients": [
-    {
-      "name": "100% Agave Tequila",
-      "type": "Liquor",
-      "abv": "40",
-      "image": "",
-      "notes": "100% agave tequila is a premium spirit distilled exclusively from the fermented sugars of the Blue Weber agave plant, containing no added sugar from other sources",
+  "ingredients": {
+    "Gin": {
+      "type": "",
+      "abv": 0,
+      "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "100% Agave Tequila Reposado",
+    "Lillet Blanc": {
       "type": "",
-      "abv": "",
-      "image": "",
-      "notes": "Expect bright, earthy flavors with subtle notes of citrus and fresh herbs. Ideal for sipping neat or elevating cocktails. Reposado tequila, aged for at least two months and up to a year in oak barrels, develops a smooth, mellow character with added depth and warmth.",
+      "abv": 0,
+      "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "7-up",
+    "Fresh Lime Juice": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Absinthe",
+    "Cocoa Powder": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Agave Syrup",
+    "Nutmeg": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Aged Rum",
+    "Whiskey": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Amaretto",
+    "7-up": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Amaro Nonino",
+    "Lemon Wedge": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Amber Jamaican Rum",
+    "Amaretto": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "American Pilsner",
+    "Bailey's": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Angostura Bitters",
+    "Cognac": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Aperol",
+    "Tequila": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Apple juice",
+    "Rum": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Apple Schnapps",
+    "Fresh Pineapple Juice": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Apple Slice",
+    "Fresh Grapefruit Juice": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Apple Wedge",
+    "Simple Syrup": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Apricot Brandy",
+    "Pineapple": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Aromatic Bitters",
+    "Fino Sherry": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Bailey's",
+    "Sweet Vermouth": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Banana Rum",
+    "Orange": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Bass Ale",
+    "Amaro Nonino": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Beer",
+    "Aperol": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Beer (Lager)",
+    "Fresh Orange Juice": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Beer (Light Lager)",
+    "Campari": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Benedictine",
+    "Orange Slice": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Bitter Campari",
+    "Southern Comfort": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Blended Scotch Whisky",
+    "Sloe Gin": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Blue Curacao",
+    "Crème De Cacao": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Bombay Sapphire Gin",
+    "Fresh Cream": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Bourbon or Rye Whiskey",
+    "Peach Schnapps": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Bourbon Whiskey",
+    "Blue Curacao": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Brandy",
+    "Grenadine Syrup": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Brut Champagne or Prosecco",
+    "Bourbon Whiskey": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Cachaça",
+    "Angostura Bitters": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Calvados",
+    "Orange Twist": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Campari",
+    "Bitter Campari": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Canadian Club Whiskey",
+    "Soda Water": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Celery Salt",
+    "Vodka": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Chamomile Cordial",
+    "Fresh Lemon Juice": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Champagne",
+    "Apricot Brandy": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Cherry Brandy",
+    "Calvados": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Cherry Liqueur",
+    "Maraschino Luxardo": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Chilled Champagne",
+    "Crème De Violette": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Chilled Margarita Mix",
+    "Gold Rum": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Chocolate",
+    "Galliano": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Coca Cola",
+    "Prosecco": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Cocoa Powder",
+    "Coca Cola": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Coconut Cream",
+    "Dry Gin": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Coconut Syrup",
+    "Honey Syrup": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Coffee Liqueur",
+    "White Peach Puree": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Cognac",
+    "White Rum": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Cointreau",
+    "Triple Sec": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Cranberry Juice",
+    "Scotch Whisky": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Crater Lake Vodka",
+    "Irish Whiskey": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Crème De Cacao",
+    "Coffee Liqueur": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Crème De Cassis",
+    "Guinness": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Crème De Menthe",
+    "Champagne": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Crème De Mûre",
+    "Tomato Juice": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Crème De Violette",
+    "Worcestershire Sauce": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Cuban Aguardiente",
+    "Tabasco": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Curacao",
+    "Celery Salt": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Dark Crème De Cacao",
+    "Pepper": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Dark Rum",
+    "Bourbon or Rye Whiskey": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Demerara Rum",
+    "Crème De Mûre": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Donn's Mix",
+    "Brandy": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Drambuie",
+    "Dark Crème De Cacao": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Dry Gin",
+    "Curacao": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Dry Vermouth",
+    "Aromatic Bitters": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Dry White Wine",
+    "Cachaça": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Dubonnet",
+    "Lime": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Edible Flower",
+    "White Cane Sugar": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Egg White",
+    "Fresh Lime": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Egg Yolk",
+    "Sugar": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Elderflower Cordial",
+    "Cuban Aguardiente": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Espadin Mezcal",
+    "Honey": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Espresso",
+    "Water": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Falernum",
+    "Old Tom Gin": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Fernet Branca",
+    "Orange Bitters": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Fino Sherry",
+    "Chilled Champagne": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Fresh Cream",
+    "Grand Marnier": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Fresh Ginger",
+    "Sugar Cube": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Fresh Grapefruit Juice",
+    "Pisco": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Fresh Grapefruit Slice",
+    "Ginger Ale": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Fresh Lemon Juice",
+    "Raspberry Syrup": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Fresh Lime",
+    "Egg White": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Fresh Lime Juice",
+    "Cointreau": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Fresh Mint",
+    "Absinthe": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Fresh Orange Juice",
+    "Vodka Citron": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Fresh Passion Fruit",
+    "Cranberry Juice": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Fresh Pineapple Juice",
+    "White Cuban Ron": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Galliano",
+    "Superfine Sugar": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Gin",
+    "Goslings Rum": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Ginger Ale",
+    "Ginger Beer": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Ginger Beer",
+    "Dry Vermouth": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Gold Puerto Rican Rum",
+    "Kahlúa": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Gold Rum",
+    "Espresso": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Goslings Rum",
+    "Fernet Branca": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Grand Marnier",
+    "Raspberry Liqueur": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Grapefruit Juice",
+    "White Crème De Cacao": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Green Chartreuse",
+    "Chocolate": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Green Olive",
+    "Crème De Menthe": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Grenadine Syrup",
+    "London Dry Gin": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Guinness",
+    "Grapefruit Juice": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Guinness Stout",
+    "Espadin Mezcal": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Half & Half (Milk & Cream)",
+    "Jamaica Overproof White Rum": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Honey",
+    "Falernum": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Honey Mix",
+    "Hot Coffee": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Honey Syrup",
+    "Dark Rum": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Hot Coffee",
+    "Dry White Wine": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Hot Sauce",
+    "Crème De Cassis": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Irish Whiskey",
+    "Green Chartreuse": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Jack Daniel's",
+    "Amber Jamaican Rum": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Jamaica Overproof White Rum",
+    "Martinique Molasses Rhum": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Jamaican Dark Rum",
+    "Orange Curacao": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Jamaican Rum",
+    "Orgeat Syrup": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Jameson Irish Whiskey",
+    "Rye Whiskey": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Jasmine Syrup",
+    "100% Agave Tequila": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Kahlúa",
+    "Maraschino Liqueur": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Krupnik Liqueur",
+    "Beer (Light Lager)": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Lagavulin 16 y Whisky",
+    "Hot Sauce": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Lemon",
+    "Salt": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Lemon Peel",
+    "Fresh Mint": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Lemon Wedge",
+    "Sugar Powder": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Lemonade",
+    "Mint": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Light Rum",
+    "Smirnoff Vodka": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Lillet Blanc",
+    "Mezcal": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Lime",
+    "Yellow Chartreuse": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Lime Slice",
+    "Light Rum": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Lime Wedge",
+    "Demerara Rum": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "London Dry Gin",
+    "Red Wine": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Malibu",
+    "Aged Rum": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Maraschino Cherry",
+    "Brut Champagne or Prosecco": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Maraschino Liqueur",
+    "Coconut Cream": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Maraschino Luxardo",
+    "Pink Grapefruit Soda": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Martinique Molasses Rhum",
+    "Blended Scotch Whisky": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Mezcal",
+    "Lagavulin 16 y Whisky": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Midori",
+    "Fresh Ginger": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Mint",
+    "Jamaican Rum": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Molson Canadian beer",
+    "Sugarcane Juice": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Momokawa Pearl Sake",
+    "Red Tawny Port Wine": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Monin Honey Syrup",
+    "Egg Yolk": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Moonstone Asian Pear Sake",
+    "Orange Flower Water": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Nutmeg",
+    "Vanilla Extract": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Old Tom Gin",
+    "Sparkling Wine": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Orange",
+    "Drambuie": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Orange Bitters",
+    "Peychaud's Bitters": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Orange Curacao",
+    "Seasonal Fruit": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Orange Flower Water",
+    "Beer (Lager)": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Orange Peel",
+    "Lemonade": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Orange Slice",
+    "Sherry": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Orange Twist",
+    "Cherry Liqueur": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Orange Wedge",
+    "Benedictine": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Orgeat Syrup",
+    "Vodka Vanilla": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Overproof Rum",
+    "Elderflower Cordial": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Peach Bitters",
+    "Monin Honey Syrup": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Peach Schnapps",
+    "Red Chili Pepper": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Peach slice",
+    "White Crème De Menthe": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Pepper",
+    "Lemon": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Pernod",
+    "100% Agave Tequila Reposado": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Peychaud's Bitters",
+    "Agave Syrup": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Pimms",
+    "White Smooth Grappa": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Pineapple",
+    "Honey Mix": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Pineapple Juice",
+    "Chamomile Cordial": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Pineapple Wedge",
+    "Jamaican Dark Rum": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Pink Grapefruit Soda",
+    "Gold Puerto Rican Rum": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Pisco",
+    "Donn's Mix": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Prosecco",
+    "Pernod": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Raspberry Liqueur",
+    "Fresh Grapefruit Slice": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Raspberry Syrup",
+    "Jack Daniel's": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Red Chili Pepper",
+    "Sambuca": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Red Tawny Port Wine",
+    "Whipped Cream": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Red Wine",
+    "Maraschino Cherry": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Rum",
+    "Apple Wedge": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Rye Whiskey",
+    "Guinness Stout": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Sake",
+    "Bass Ale": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Salt",
+    "American Pilsner": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Sambuca",
+    "Overproof Rum": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Scotch Whisky",
+    "Beer": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Seagram's Gin",
+    "Molson Canadian beer": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Seasonal Fruit",
+    "Canadian Club Whiskey": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Sherry",
+    "Jameson Irish Whiskey": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Simple Syrup",
+    "Sour Cherries": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Sloe Gin",
+    "Lime Wedge": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Smirnoff Vodka",
+    "Peach Bitters": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Soda Water",
+    "Peach slice": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Sour Cherries",
+    "Pineapple Juice": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Southern Comfort",
+    "Fresh Passion Fruit": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Sparkling Wine",
+    "Sake": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Sugar",
+    "Green Olive": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Sugar Cube",
+    "Banana Rum": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Sugar Powder",
+    "Lime Slice": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Sugarcane Juice",
+    "Edible Flower": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Superfine Sugar",
+    "Moonstone Asian Pear Sake": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Sweet & Sour mix",
+    "Crater Lake Vodka": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Sweet Vermouth",
+    "Jasmine Syrup": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Tabasco",
+    "Momokawa Pearl Sake": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Tequila",
+    "Coconut Syrup": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Tomato Juice",
+    "Half & Half (Milk & Cream)": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Triple Sec",
+    "Seagram's Gin": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Vanilla Extract",
+    "Bombay Sapphire Gin": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Vodka",
+    "Chilled Margarita Mix": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Vodka Citron",
+    "Sweet & Sour mix": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Vodka Vanilla",
+    "Pineapple Wedge": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Water",
+    "Midori": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Whipped Cream",
+    "Pimms": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Whiskey",
+    "Orange Wedge": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "White Cane Sugar",
+    "Zubrowka Vodka": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "White Crème De Cacao",
+    "Krupnik Liqueur": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "White Crème De Menthe",
+    "Apple juice": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "White Cuban Ron",
+    "Dubonnet": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "White Peach Puree",
+    "Orange Peel": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "White Rum",
+    "Lemon Peel": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "White Smooth Grappa",
+    "Apple Slice": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Worcestershire Sauce",
+    "Apple Schnapps": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Yellow Chartreuse",
+    "Malibu": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
-    {
-      "name": "Zubrowka Vodka",
+    "Cherry Brandy": {
       "type": "",
-      "abv": "",
-      "image": "",
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     }
-  ]
+  }
 }
