@@ -699,7 +699,7 @@
       "name": "Black Velvet",
       "ingredients": [
         {
-          "ingredient": "Guinness",
+          "ingredient": "Guinness Stout",
           "quantity": "75",
           "unit": "ml"
         },
@@ -1630,43 +1630,46 @@
       "ingredients": [
         {
           "ingredient": "Espadin Mezcal",
-          "quantity": 30,
+          "quantity": "30",
           "unit": "ml"
         },
         {
           "ingredient": "Jamaica Overproof White Rum",
-          "quantity": 15,
+          "quantity": "15",
           "unit": "ml"
         },
         {
-          "ingredient": "Falernum",
-          "quantity": 15,
+          "ingredient": "Falernum Liqueur",
+          "quantity": "15",
           "unit": "ml"
         },
         {
           "ingredient": "Maraschino Luxardo",
-          "quantity": 1,
+          "quantity": "1",
           "unit": "bar spoon"
         },
         {
           "ingredient": "Fresh Lime Juice",
-          "quantity": 22.5,
+          "quantity": "22.5",
           "unit": "ml"
         },
         {
           "ingredient": "Simple Syrup",
-          "quantity": 15,
+          "quantity": "15",
           "unit": "ml"
         },
         {
           "ingredient": "Egg White",
+          "quantity": "",
           "unit": "drops"
         }
       ],
       "category": "IBA - New Era Drinks",
       "instructions": "Pour all ingredients into the shaker. Shake vigorously with ice. Strain into a chilled cocktail glass, or on the rocks in a traditional clay or terracotta mug.",
       "created": 1767343370024,
-      "modified": 1767343370024
+      "modified": 1767343370024,
+      "notes": "",
+      "tags": []
     },
     {
       "name": "Irish Coffee",
@@ -3514,54 +3517,56 @@
       "ingredients": [
         {
           "ingredient": "Jamaican Dark Rum",
-          "quantity": 45,
+          "quantity": "45",
           "unit": "ml"
         },
         {
           "ingredient": "Gold Puerto Rican Rum",
-          "quantity": 45,
+          "quantity": "45",
           "unit": "ml"
         },
         {
           "ingredient": "Demerara Rum",
-          "quantity": 30,
+          "quantity": "30",
           "unit": "ml"
         },
         {
           "ingredient": "Fresh Lime Juice",
-          "quantity": 20,
+          "quantity": "20",
           "unit": "ml"
         },
         {
-          "ingredient": "Falernum",
-          "quantity": 15,
+          "ingredient": "Falernum Liqueur",
+          "quantity": "15",
           "unit": "ml"
         },
         {
           "ingredient": "Donn's Mix",
-          "quantity": 15,
+          "quantity": "15",
           "unit": "ml"
         },
         {
           "ingredient": "Grenadine Syrup",
-          "quantity": 1,
+          "quantity": "1",
           "unit": "teaspoon"
         },
         {
           "ingredient": "Angostura Bitters",
-          "quantity": 1,
+          "quantity": "1",
           "unit": "dash"
         },
         {
           "ingredient": "Pernod",
-          "quantity": 6,
+          "quantity": "6",
           "unit": "drops"
         }
       ],
       "category": "IBA - Contemporary Classics",
       "instructions": "Add all ingredients into an electric blender with 170 grams of cracked ice. With pulse bottom blend for a few seconds. Serve in a tall tumbler glass.  Note: Donn's Mix: 2 parts of fresh yellow grapefruit and 1 part of cinnamon syrup",
       "created": 1767343370024,
-      "modified": 1767343370024
+      "modified": 1767343370024,
+      "notes": "",
+      "tags": []
     },
     {
       "name": "Amaretto Sour",
@@ -4861,11 +4866,11 @@
       "modified": ""
     },
     "Fresh Lime Juice": {
-      "type": "",
+      "type": "Fresh juice / mixer",
       "abv": 0,
-      "notes": "",
+      "notes": "Fresh lime juice is freshly pressed citrus juice with sharp acidity and bright, aromatic citrus character. Essential in many classic and tropical cocktails, it provides balance, freshness, and structure.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Cocoa Powder": {
       "type": "Flavoring / garnish",
@@ -4938,18 +4943,18 @@
       "modified": ""
     },
     "Fresh Pineapple Juice": {
-      "type": "",
+      "type": "Fresh juice / mixer",
       "abv": 0,
-      "notes": "",
+      "notes": "Fresh pineapple juice is freshly pressed tropical juice with bright sweetness and lively acidity. Its rich aroma and natural enzymes add body, foam, and vibrant tropical flavor to cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Fresh Grapefruit Juice": {
-      "type": "",
+      "type": "Fresh juice / mixer",
       "abv": 0,
-      "notes": "",
+      "notes": "Fresh grapefruit juice is freshly pressed citrus juice with bright acidity, light bitterness, and subtle sweetness. Its crisp, slightly bitter profile adds freshness and balance to cocktails, especially with agave spirits and bitters.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Simple Syrup": {
       "type": "",
@@ -4966,11 +4971,11 @@
       "modified": ""
     },
     "Fino Sherry": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Fortified wine (sherry)",
+      "abv": 15,
+      "notes": "Fino Sherry is a dry, pale fortified wine from Spain, aged under a layer of flor yeast that protects it from oxidation. Crisp and delicate, it offers saline, almond, and fresh bread notes, adding dryness, complexity, and brightness to cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Sweet Vermouth": {
       "type": "",
@@ -5001,11 +5006,11 @@
       "modified": "2026-01-28"
     },
     "Fresh Orange Juice": {
-      "type": "",
+      "type": "Fresh juice / mixer",
       "abv": 0,
-      "notes": "",
+      "notes": "Fresh orange juice is freshly squeezed citrus juice with natural sweetness and mild acidity. Smooth and aromatic, it adds body, freshness, and gentle citrus flavor to a wide range of cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Campari": {
       "type": "Bitter aperitif liqueur",
@@ -5043,11 +5048,11 @@
       "modified": "2026-01-29"
     },
     "Fresh Cream": {
-      "type": "",
+      "type": "Dairy / mixer",
       "abv": 0,
-      "notes": "",
+      "notes": "Fresh cream is a dairy product with a rich, smooth texture and mild sweetness, used in cocktails to add body, softness, and a creamy mouthfeel. It balances acidity and alcohol, creating a round, dessert-like character.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Peach Schnapps": {
       "type": "",
@@ -5064,11 +5069,11 @@
       "modified": "2026-01-29"
     },
     "Grenadine Syrup": {
-      "type": "",
+      "type": "Syrup / sweetener (non-alcoholic)",
       "abv": 0,
-      "notes": "",
+      "notes": "Grenadine syrup is a sweet, non-alcoholic syrup traditionally made from pomegranate juice. Bright red in color with a balance of sweetness and light tartness, it is used to add color, fruitiness, and gentle acidity to cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Bourbon Whiskey": {
       "type": "Whiskey (American, bourbon)",
@@ -5106,11 +5111,11 @@
       "modified": ""
     },
     "Fresh Lemon Juice": {
-      "type": "",
+      "type": "Fresh juice / mixer",
       "abv": 0,
-      "notes": "",
+      "notes": "Fresh lemon juice is freshly squeezed citrus juice with bright acidity and clean, sharp flavor. It is a fundamental cocktail ingredient, used to balance sweetness, enhance freshness, and provide structure in a wide range of drinks.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Apricot Brandy": {
       "type": "Fruit liqueur",
@@ -5134,25 +5139,25 @@
       "modified": ""
     },
     "Crème De Violette": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Floral liqueur",
+      "abv": 25,
+      "notes": "Crème de Violette is a floral liqueur made from violet flowers, known for its delicate perfume, light sweetness, and distinctive violet aroma. Used sparingly, it adds floral complexity and a subtle aromatic lift to classic and modern cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Gold Rum": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Rum",
+      "abv": 40,
+      "notes": "Gold rum is a lightly aged sugarcane-based rum that bridges the gap between white and dark rum. Smooth and balanced, it offers notes of vanilla, caramel, and light oak, adding warmth and body to cocktails without overpowering them.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Galliano": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Herbal liqueur",
+      "abv": 42,
+      "notes": "Galliano is a sweet Italian herbal liqueur flavored with a blend of botanicals, prominently vanilla and anise. Smooth and aromatic, it adds warm sweetness and distinctive herbal complexity to classic and modern cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Prosecco": {
       "type": "",
@@ -5169,11 +5174,11 @@
       "modified": "2026-01-29"
     },
     "Dry Gin": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Gin",
+      "abv": 45,
+      "notes": "Dry gin is a clear spirit distilled with juniper and other botanicals, characterized by a crisp, dry profile with pronounced herbal and citrus notes. It is widely used as a base spirit in classic cocktails due to its aromatic structure and clean finish.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Honey Syrup": {
       "type": "",
@@ -5224,7 +5229,7 @@
       "created": "",
       "modified": "2026-01-29"
     },
-    "Guinness": {
+    "Guinness Stout": {
       "type": "",
       "abv": 0,
       "notes": "",
@@ -5281,11 +5286,11 @@
       "modified": "2026-01-29"
     },
     "Crème De Mûre": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Fruit liqueur (blackberry)",
+      "abv": 20,
+      "notes": "Crème de Mûre is a sweet liqueur made from blackberries, offering deep berry aromas with rich, jammy sweetness. It is used to add dark fruit character, color, and softness to cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Brandy": {
       "type": "Spirit (fruit brandy)",
@@ -5295,18 +5300,18 @@
       "modified": "2026-01-29"
     },
     "Dark Crème De Cacao": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Liqueur (chocolate)",
+      "abv": 25,
+      "notes": "Dark Crème de Cacao is a rich chocolate-flavored liqueur made from cacao beans, offering deeper cocoa bitterness and darker chocolate notes than the clear version. It is used to add intensity, color, and dessert-style richness to cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Curacao": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Orange liqueur",
+      "abv": 30,
+      "notes": "Curaçao is an orange-flavored liqueur made from the dried peels of Laraha oranges. It offers sweet citrus notes with light bitterness and is used to add orange flavor, balance, and aroma to a wide range of cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Aromatic Bitters": {
       "type": "Aromtic Bitters",
@@ -5337,11 +5342,11 @@
       "modified": ""
     },
     "Fresh Lime": {
-      "type": "",
+      "type": "Fresh fruit / citrus",
       "abv": 0,
-      "notes": "",
+      "notes": "A fresh lime is a citrus fruit used in cocktails for its bright acidity, fresh aroma, and vibrant citrus oils. Used for juice, wedges, wheels, or zest, it adds freshness, balance, and aromatic lift to a wide range of drinks.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Sugar": {
       "type": "",
@@ -5351,11 +5356,11 @@
       "modified": ""
     },
     "Cuban Aguardiente": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Spirit (sugarcane / rum precursor)",
+      "abv": 40,
+      "notes": "Cuban aguardiente is a sugarcane-based spirit distilled from molasses, traditionally unaged and intensely aromatic. Bold and rustic, it delivers grassy, funky sugarcane notes and is often used to add raw rum character and depth to Cuban-style cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Honey": {
       "type": "",
@@ -5386,11 +5391,11 @@
       "modified": ""
     },
     "Grand Marnier": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Orange liqueur (Cognac-based)",
+      "abv": 40,
+      "notes": "Grand Marnier is a premium French orange liqueur made by blending Cognac with bitter orange essence. Rich and aromatic, it combines deep orange citrus notes with brandy warmth, adding complexity and elegance to classic cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Sugar Cube": {
       "type": "",
@@ -5407,11 +5412,11 @@
       "modified": ""
     },
     "Ginger Ale": {
-      "type": "",
+      "type": "Soft drink / mixer",
       "abv": 0,
-      "notes": "",
+      "notes": "Ginger ale is a carbonated soft drink with light sweetness and mild ginger flavor. Clean and refreshing, it is commonly used as a mixer to add gentle spice and effervescence without overpowering the base spirit.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Raspberry Syrup": {
       "type": "",
@@ -5421,11 +5426,11 @@
       "modified": ""
     },
     "Egg White": {
-      "type": "",
+      "type": "Texturizer / ingredient",
       "abv": 0,
-      "notes": "",
+      "notes": "Egg white is used in cocktails to create a smooth, creamy texture and stable foam without adding flavor. When shaken, it softens acidity and gives drinks a velvety mouthfeel and visually appealing froth.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Cointreau": {
       "type": "Orange liqueur",
@@ -5470,25 +5475,25 @@
       "modified": ""
     },
     "Goslings Rum": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Dark rum",
+      "abv": 40,
+      "notes": "Goslings Rum is a dark, full-bodied rum from Bermuda, known for its rich notes of molasses, caramel, spice, and subtle smoke. Smooth yet robust, it adds depth and structure to classic highballs and tiki-style cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Ginger Beer": {
-      "type": "",
+      "type": "Soft drink / mixer",
       "abv": 0,
-      "notes": "",
+      "notes": "Ginger beer is a carbonated beverage with a bold, spicy ginger profile and deeper flavor intensity than ginger ale. Often non-alcoholic, it adds pronounced ginger heat, sweetness, and effervescence to cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Dry Vermouth": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Fortified wine (vermouth)",
+      "abv": 18,
+      "notes": "Dry vermouth is a fortified and aromatized wine infused with herbs and botanicals, offering a crisp, dry profile with subtle bitterness and herbal complexity. It is used to add structure, aroma, and balance to classic cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Kahlúa": {
       "type": "",
@@ -5498,18 +5503,18 @@
       "modified": ""
     },
     "Espresso": {
-      "type": "",
+      "type": "Coffee / mixer",
       "abv": 0,
-      "notes": "",
+      "notes": "Espresso is a concentrated coffee brewed by forcing hot water through finely ground coffee beans under pressure. Intense, aromatic, and slightly bitter, it is used in cocktails to add bold coffee flavor, richness, and depth.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Fernet Branca": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Amaro (bitter herbal liqueur)",
+      "abv": 39,
+      "notes": "Fernet-Branca is a bold Italian bitter liqueur made from a complex blend of herbs, roots, and spices. Intensely bitter and aromatic with notes of mint, herbs, and spice, it is used sparingly to add depth, bitterness, and medicinal complexity to cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Raspberry Liqueur": {
       "type": "",
@@ -5547,18 +5552,18 @@
       "modified": ""
     },
     "Grapefruit Juice": {
-      "type": "",
+      "type": "Juice / mixer (non-alcoholic)",
       "abv": 0,
-      "notes": "",
+      "notes": "Packaged grapefruit juice is a filtered, pasteurized juice with bright acidity and characteristic light bitterness. Consistent and shelf-stable, it adds freshness, bitterness, and citrus structure to cocktails without the variability of fresh juice.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Espadin Mezcal": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Mezcal (agave spirit)",
+      "abv": 43,
+      "notes": "Espadín mezcal is a traditional Mexican mezcal made from the Espadín agave (Agave angustifolia), known for its balanced smoky profile. Earthy and aromatic, it combines smoke, roasted agave, and subtle herbal notes, making it versatile for both classic and modern mezcal cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Jamaica Overproof White Rum": {
       "type": "",
@@ -5567,12 +5572,12 @@
       "created": "",
       "modified": ""
     },
-    "Falernum": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+    "Falernum Liqueur": {
+      "type": "Spiced liqueur",
+      "abv": 13,
+      "notes": "Falernum liqueur is a Caribbean spiced liqueur flavored with lime, ginger, clove, and almond. Sweet and aromatic with warm spice notes, it adds depth and classic tiki character to tropical and rum-based cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Hot Coffee": {
       "type": "",
@@ -5582,18 +5587,18 @@
       "modified": ""
     },
     "Dark Rum": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Rum",
+      "abv": 40,
+      "notes": "Dark rum is a sugarcane-based spirit made from molasses and aged longer in oak barrels, often with added caramel for color. Rich and full-bodied, it delivers deep notes of caramel, molasses, spice, and dried fruit, adding depth and warmth to cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Dry White Wine": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Wine (white, dry)",
+      "abv": 12,
+      "notes": "Dry white wine is a still wine with low residual sugar, offering crisp acidity and fresh fruit character. Clean and refreshing, it is used in cocktails to add lightness, structure, and subtle fruit notes without added sweetness.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Crème De Cassis": {
       "type": "Fruit liqueur (blackcurrant)",
@@ -5603,11 +5608,11 @@
       "modified": "2026-01-29"
     },
     "Green Chartreuse": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Herbal liqueur",
+      "abv": 55,
+      "notes": "Green Chartreuse is a powerful French herbal liqueur made from a secret blend of numerous botanicals. Intensely aromatic and complex, it delivers bold herbal, spicy, and vegetal notes, used sparingly to add depth and structure to cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Amber Jamaican Rum": {
       "type": "Liquor",
@@ -5680,11 +5685,11 @@
       "modified": ""
     },
     "Fresh Mint": {
-      "type": "",
+      "type": "Fresh herb / garnish",
       "abv": 0,
-      "notes": "",
+      "notes": "Fresh mint is an aromatic herb used in cocktails for its bright, cooling aroma and refreshing herbal flavor. Commonly muddled or used as a garnish, it adds freshness and lift, especially in citrus- and spirit-forward drinks.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Sugar Powder": {
       "type": "",
@@ -5729,11 +5734,11 @@
       "modified": ""
     },
     "Demerara Rum": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Rum",
+      "abv": 40,
+      "notes": "Demerara rum is a rich, full-bodied rum traditionally produced in Guyana from molasses. Known for its deep flavors of brown sugar, molasses, spice, and dark fruit, it adds weight and intensity to classic and tiki-style cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Red Wine": {
       "type": "",
@@ -5785,11 +5790,11 @@
       "modified": ""
     },
     "Fresh Ginger": {
-      "type": "",
+      "type": "Fresh ingredient / spice",
       "abv": 0,
-      "notes": "",
+      "notes": "Fresh ginger is the aromatic root of the ginger plant, valued for its bright, spicy heat and zesty freshness. In cocktails, it adds sharp warmth, lively aroma, and natural spice, commonly used muddled, juiced, or infused.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Jamaican Rum": {
       "type": "",
@@ -5813,11 +5818,11 @@
       "modified": ""
     },
     "Egg Yolk": {
-      "type": "",
+      "type": "Texturizer / ingredient",
       "abv": 0,
-      "notes": "",
+      "notes": "Egg yolk is used in cocktails to add richness, weight, and a creamy mouthfeel. Its fat content softens alcohol and acidity, creating a lush, dessert-like texture in classic rich cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Orange Flower Water": {
       "type": "",
@@ -5841,11 +5846,11 @@
       "modified": ""
     },
     "Drambuie": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Herbal liqueur (whisky-based)",
+      "abv": 40,
+      "notes": "Drambuie is a Scottish liqueur made from Scotch whisky, honey, herbs, and spices. Smooth and gently sweet with warming herbal notes, it adds richness and depth to classic cocktails and spirit-forward serves.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Peychaud's Bitters": {
       "type": "",
@@ -5904,11 +5909,11 @@
       "modified": ""
     },
     "Elderflower Cordial": {
-      "type": "",
+      "type": "Cordial / syrup (non-alcoholic)",
       "abv": 0,
-      "notes": "",
+      "notes": "Elderflower cordial is a floral, lightly sweet syrup made from elderflower blossoms, offering delicate aromas and fresh, perfumed sweetness. It is used to add elegant floral notes and softness to cocktails without overpowering the base spirit.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Monin Honey Syrup": {
       "type": "",
@@ -5981,18 +5986,18 @@
       "modified": ""
     },
     "Gold Puerto Rican Rum": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Rum",
+      "abv": 40,
+      "notes": "Gold Puerto Rican rum is a lightly aged molasses-based rum known for its clean, smooth profile and balanced character. Subtle notes of vanilla, caramel, and light oak complement a dry, approachable style, making it versatile for a wide range of cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Donn's Mix": {
-      "type": "",
+      "type": "Syrup / tiki mixer (non-alcoholic)",
       "abv": 0,
-      "notes": "",
+      "notes": "Donn’s Mix is a classic tiki syrup created by blending grapefruit juice with cinnamon syrup. Bright, spicy, and slightly bitter-sweet, it adds depth, structure, and signature tiki character to tropical cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Pernod": {
       "type": "",
@@ -6002,11 +6007,11 @@
       "modified": ""
     },
     "Fresh Grapefruit Slice": {
-      "type": "",
+      "type": "Fresh juice / mixer",
       "abv": 0,
-      "notes": "",
+      "notes": "Fresh grapefruit juice is freshly pressed citrus juice with bright acidity, light bitterness, and subtle sweetness. Its crisp, slightly bitter profile adds freshness and balance to cocktails, especially with agave spirits and bitters.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Jack Daniel's": {
       "type": "",
@@ -6042,13 +6047,6 @@
       "notes": "An apple wedge is a fresh-cut fruit garnish that adds crisp apple aroma, light sweetness, and visual contrast to cocktails and mixed drinks. It is commonly used as a rim or side garnish, especially with whiskey- or apple-based cocktails.",
       "created": "",
       "modified": "2026-01-29"
-    },
-    "Guinness Stout": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
-      "created": "",
-      "modified": ""
     },
     "Bass Ale": {
       "type": "Beer (English pale ale)",
@@ -6135,11 +6133,11 @@
       "modified": ""
     },
     "Fresh Passion Fruit": {
-      "type": "",
+      "type": "Fresh fruit / tropical ingredient",
       "abv": 0,
-      "notes": "",
+      "notes": "Fresh passion fruit is a tropical fruit with intense aroma, bright acidity, and distinctive sweet-tart flavor. Used for its juice or pulp, it adds vibrant tropical character, freshness, and complexity to cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Sake": {
       "type": "",
@@ -6149,11 +6147,11 @@
       "modified": ""
     },
     "Green Olive": {
-      "type": "",
+      "type": "Garnish (savory)",
       "abv": 0,
-      "notes": "",
+      "notes": "A green olive is a cured olive fruit with a firm texture and savory, briny flavor. Commonly used as a garnish, it adds salinity, aroma, and a savory note to cocktails, especially in martini-style drinks.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Banana Rum": {
       "type": "Flavored rum",
@@ -6170,11 +6168,11 @@
       "modified": ""
     },
     "Edible Flower": {
-      "type": "",
+      "type": "Garnish (floral)",
       "abv": 0,
-      "notes": "",
+      "notes": "Edible flowers are fresh or dried blossoms used as garnishes to add delicate aroma, subtle flavor, and visual elegance to cocktails. They enhance presentation while contributing light floral notes without overpowering the drink.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Moonstone Asian Pear Sake": {
       "type": "",
@@ -6296,11 +6294,11 @@
       "modified": "2026-01-28"
     },
     "Dubonnet": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Aromatized wine / aperitif",
+      "abv": 17,
+      "notes": "Dubonnet is a French aromatized wine aperitif made from fortified wine infused with herbs, spices, and quinine. Smooth and gently bitter-sweet, it adds herbal depth, subtle sweetness, and structure to classic aperitif-style cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Orange Peel": {
       "type": "",
