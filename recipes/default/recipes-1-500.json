@@ -366,7 +366,7 @@
       "name": "Americano",
       "ingredients": [
         {
-          "ingredient": "Bitter Campari",
+          "ingredient": "Campari",
           "quantity": "30",
           "unit": "ml"
         },
@@ -771,7 +771,7 @@
           "unit": "ml"
         },
         {
-          "ingredient": "Bitter Campari",
+          "ingredient": "Campari",
           "quantity": "30",
           "unit": "ml"
         },
@@ -1014,7 +1014,7 @@
       "name": "Champagne Cocktail",
       "ingredients": [
         {
-          "ingredient": "Chilled Champagne",
+          "ingredient": "Champagne",
           "quantity": "90",
           "unit": "ml"
         },
@@ -2278,24 +2278,26 @@
       "ingredients": [
         {
           "ingredient": "Gin",
-          "quantity": 30,
+          "quantity": "30",
           "unit": "ml"
         },
         {
-          "ingredient": "Bitter Campari",
-          "quantity": 30,
+          "ingredient": "Campari",
+          "quantity": "30",
           "unit": "ml"
         },
         {
           "ingredient": "Sweet Vermouth",
-          "quantity": 30,
+          "quantity": "30",
           "unit": "ml"
         }
       ],
       "category": "IBA - The Unforgettables",
       "instructions": "Pour all ingredients directly into a chilled old fashioned glass filled with ice, Stir gently.",
       "created": 1767343370024,
-      "modified": 1767343370024
+      "modified": 1767343370024,
+      "notes": "",
+      "tags": []
     },
     {
       "name": "New York Sour",
@@ -4845,1516 +4847,1502 @@
   ],
   "ingredients": {
     "Gin": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Liquor",
+      "abv": 40,
+      "notes": "Any gin is fine.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-28"
     },
     "Lillet Blanc": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Fresh Lime Juice": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Cocoa Powder": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Flavoring / garnish",
+      "abv": 0,
+      "notes": "Cocoa powder is a finely ground product made from roasted cacao beans after the cocoa butter has been removed. Intensely aromatic and bitter, it is used sparingly in cocktails as a garnish or flavor accent to add depth, richness, and dark chocolate notes.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Nutmeg": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Whiskey": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "7-up": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Soft Carbonated Drink",
+      "abv": 0,
+      "notes": "7-Up is a clear, lemon-lime carbonated soft drink with a light, crisp sweetness and bright citrus acidity. Its clean profile adds freshness and effervescence to mixed drinks without overpowering the base spirit, making it a common highball and long-drink mixer.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-28"
     },
     "Lemon Wedge": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Amaretto": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Liqueur",
+      "abv": 28,
+      "notes": "Amaretto is a sweet Italian liqueur with a pronounced almond flavor, traditionally derived from apricot kernels or almonds. Its rich, nutty sweetness and hints of vanilla and marzipan add depth and dessert-like character to cocktails, often used in small amounts for balance and aroma.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-28"
     },
     "Bailey's": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Cream liqueu",
+      "abv": 17,
+      "notes": "Baileys is a creamy Irish liqueur made from Irish whiskey, fresh dairy cream, and cocoa flavors. Smooth, sweet, and rich, it adds a dessert-like texture and gentle whiskey warmth to cocktails, coffees, and after-dinner drinks.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Cognac": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Spirit (grape brandy)",
+      "abv": 40,
+      "notes": "Cognac is a premium French grape brandy produced in the Cognac region and aged in oak barrels. Smooth and complex, it offers refined notes of dried fruit, vanilla, spice, and oak, and is used both for sipping and in classic, spirit-forward cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Tequila": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Rum": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Fresh Pineapple Juice": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Fresh Grapefruit Juice": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Simple Syrup": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Pineapple": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Fino Sherry": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Sweet Vermouth": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Orange": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Amaro Nonino": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Liqueur",
+      "abv": 35,
+      "notes": "Amaro Nonino is a refined Italian herbal liqueur made from a blend of botanicals, citrus peels, and spices, lightly sweetened and gently bitter. Smoother and more aromatic than many traditional amari, it offers notes of orange, herbs, and soft caramel, making it versatile in both stirred and shaken cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-28"
     },
     "Aperol": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Aperitif liqueur",
+      "abv": 11,
+      "notes": "Aperol is a bright orange Italian aperitif with a gently bitter-sweet profile, flavored with herbs, roots, and citrus. Light, aromatic, and refreshing, it is commonly used in spritzes and low-alcohol cocktails to add color, freshness, and mild bitterness.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-28"
     },
     "Fresh Orange Juice": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Campari": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Bitter aperitif liqueur",
+      "abv": 25,
+      "notes": "Campari is a bright red Italian bitter aperitif known for its bold bitterness balanced by herbal, citrus, and subtly sweet notes. Intense and aromatic, it is used to add structure, bitterness, and color to classic and modern cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Orange Slice": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Southern Comfort": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Sloe Gin": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Crème De Cacao": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Liqueur (chocolate)",
+      "abv": 25,
+      "notes": "Crème de Cacao is a sweet chocolate-flavored liqueur made from cacao beans, offering rich cocoa aromas with smooth sweetness. Used to add chocolate depth and dessert-like character, it appears in both classic and modern cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Fresh Cream": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Peach Schnapps": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Blue Curacao": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Citrus liqueur",
+      "abv": 25,
+      "notes": "Blue Curaçao is a citrus-flavored liqueur made from the dried peels of Laraha oranges, colored bright blue for visual impact. Sweet with a light bitter-orange note, it is used primarily to add citrus flavor and vibrant color to cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Grenadine Syrup": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Bourbon Whiskey": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Whiskey (American, bourbon)",
+      "abv": 45,
+      "notes": "Bourbon whiskey is an American whiskey made primarily from corn and aged in new charred oak barrels. Known for its smooth, rich profile, it delivers flavors of vanilla, caramel, oak, and gentle spice, making it a staple in both classic and modern cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Angostura Bitters": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Aromatic bitters",
+      "abv": 45,
+      "notes": "Angostura Bitters is a concentrated aromatic bitters made from a proprietary blend of herbs, spices, roots, and bark. Intensely bitter with warm spice notes, it is used in small dashes to enhance aroma, balance sweetness, and add depth to classic and modern cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-28"
     },
     "Orange Twist": {
       "type": "",
-      "abv": null,
-      "notes": "",
-      "created": "",
-      "modified": ""
-    },
-    "Bitter Campari": {
-      "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Soda Water": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Vodka": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Fresh Lemon Juice": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Apricot Brandy": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Fruit liqueur",
+      "abv": 25,
+      "notes": "Apricot brandy is a sweet, fruit-flavored liqueur made by infusing or blending brandy with apricot flavor. It delivers rich stone-fruit sweetness with light almond and vanilla notes, commonly used to add depth and fruit character to classic and dessert-style cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Calvados": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Spirit (apple brandy)",
+      "abv": 40,
+      "notes": "Calvados is a French apple brandy distilled from fermented apple cider and aged in oak barrels. Complex and aromatic, it offers flavors of baked apple, dried fruit, spice, and subtle oak, and is used both for sipping and in classic cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Maraschino Luxardo": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Crème De Violette": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Gold Rum": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Galliano": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Prosecco": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Coca Cola": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Soft drink / mixer",
+      "abv": 0,
+      "notes": "Coca-Cola is a carbonated soft drink with a balanced profile of sweetness, acidity, and subtle spice notes. Its bold flavor and high carbonation make it a classic mixer, especially with dark spirits, adding sweetness, effervescence, and structure to long drinks.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Dry Gin": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Honey Syrup": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "White Peach Puree": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "White Rum": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Triple Sec": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Scotch Whisky": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Irish Whiskey": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Coffee Liqueur": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Liqueur (coffee)",
+      "abv": 20,
+      "notes": "Coffee liqueur is a sweet, coffee-flavored liqueur made from coffee extract combined with alcohol and sugar. Rich and aromatic, it adds roasted coffee notes, sweetness, and depth to cocktails, especially dessert-style and after-dinner drinks.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Guinness": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Champagne": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Sparkling wine",
+      "abv": 12,
+      "notes": "Champagne is a sparkling wine produced in the Champagne region of France using traditional bottle fermentation. Known for its fine bubbles, high acidity, and elegant structure, it adds dryness, freshness, and refined effervescence to cocktails and celebratory drinks",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Tomato Juice": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Worcestershire Sauce": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Tabasco": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Celery Salt": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Seasoning / garnish",
+      "abv": 0,
+      "notes": "Celery salt is a seasoning made from ground celery seed blended with salt, offering a savory, herbal, and slightly bitter flavor. Commonly used as a rim or seasoning in cocktails, it enhances savory profiles and adds aromatic depth, especially in vegetable- or spice-driven drinks.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Pepper": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Bourbon or Rye Whiskey": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Whiskey (American)",
+      "abv": 45,
+      "notes": "Bourbon and rye whiskey are American whiskeys made from grain-based mash bills and aged in new charred oak barrels. Both offer warm notes of vanilla, caramel, and oak, with a bold, structured character that works well in classic stirred and spirit-forward cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Crème De Mûre": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Brandy": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Spirit (fruit brandy)",
+      "abv": 37,
+      "notes": "Brandy is a spirit distilled from fermented fruit, most commonly grapes, and often aged in oak barrels. Smooth and aromatic, it offers notes of dried fruit, vanilla, and spice, and is used both as a sipping spirit and as a base or modifier in classic cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Dark Crème De Cacao": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Curacao": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Aromatic Bitters": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Aromtic Bitters",
+      "abv": 40,
+      "notes": "Aromatic bitters are highly concentrated bitters made from a blend of herbs, spices, roots, bark, and botanicals. Intensely bitter and fragrant, they are used in small dashes to enhance aroma, balance sweetness, and add complexity to cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Cachaça": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Spirit (sugarcane)",
+      "abv": 42,
+      "notes": "Cachaça is a Brazilian spirit distilled from fresh sugarcane juice, offering a vibrant, grassy, and lightly fruity character. Its fresh sugarcane profile makes it a distinctive base for tropical and citrus-forward cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Lime": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "White Cane Sugar": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Fresh Lime": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Sugar": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Cuban Aguardiente": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Honey": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Water": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Old Tom Gin": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Orange Bitters": {
       "type": "",
-      "abv": null,
-      "notes": "",
-      "created": "",
-      "modified": ""
-    },
-    "Chilled Champagne": {
-      "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Grand Marnier": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Sugar Cube": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Pisco": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Ginger Ale": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Raspberry Syrup": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Egg White": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Cointreau": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Orange liqueur",
+      "abv": 40,
+      "notes": "Cointreau is a clear, premium orange liqueur made from sweet and bitter orange peels. Dry yet intensely aromatic, it delivers bright citrus flavor and balance, making it a key ingredient in many classic cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Absinthe": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "High-proof Spirit",
+      "abv": 45,
+      "notes": "Absinthe is a high-proof anise-flavored spirit traditionally distilled from wormwood (Artemisia absinthium), anise, and fennel. Known for its intense herbal aroma and signature louche effect when diluted with water, it is used sparingly in cocktails to add depth, complexity, and a distinctive aromatic lift. It's ABV can be between 45% to 74%.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-28"
     },
     "Vodka Citron": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Cranberry Juice": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Juice / mixer (non-alcoholic)",
+      "abv": 0,
+      "notes": "Packaged cranberry juice is a filtered, pasteurized juice with pronounced tartness and light sweetness. Its sharp acidity makes it a popular mixer, adding freshness, color, and balance to a wide range of cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "White Cuban Ron": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Superfine Sugar": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Goslings Rum": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Ginger Beer": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Dry Vermouth": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Kahlúa": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Espresso": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Fernet Branca": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Raspberry Liqueur": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "White Crème De Cacao": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Chocolate": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Garnish / flavoring",
+      "abv": 0,
+      "notes": "Chocolate is a cocoa-based confection made from cacao solids and cocoa butter, offering rich cocoa bitterness with varying levels of sweetness. In cocktails, it is used as a garnish or flavor accent to add depth, aroma, and dessert-style character.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Crème De Menthe": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Liqueur (mint)",
+      "abv": 25,
+      "notes": "Crème de Menthe is a sweet, mint-flavored liqueur known for its cooling, refreshing mint aroma and pronounced sweetness. It is used to add fresh mint character and a clean, dessert-style finish to cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "London Dry Gin": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Grapefruit Juice": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Espadin Mezcal": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Jamaica Overproof White Rum": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Falernum": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Hot Coffee": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Dark Rum": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Dry White Wine": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Crème De Cassis": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Fruit liqueur (blackcurrant)",
+      "abv": 20,
+      "notes": "Crème de Cassis is a sweet, dark liqueur made from blackcurrants, known for its deep berry aroma and rich, fruity sweetness. It is commonly used to add color, sweetness, and blackcurrant character to cocktails and sparkling wine drinks.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Green Chartreuse": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Amber Jamaican Rum": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Liquor",
+      "abv": 40,
+      "notes": "Amber Jamaican rum is a molasses-based rum lightly aged in oak, known for its bold, aromatic profile driven by high-ester fermentation. It delivers notes of ripe tropical fruit, spice, and subtle oak, adding intensity and character to cocktails while retaining a lively, expressive rum backbone.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-28"
     },
     "Martinique Molasses Rhum": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Orange Curacao": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Orgeat Syrup": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Rye Whiskey": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "100% Agave Tequila": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Liquor",
+      "abv": 40,
+      "notes": "100% agave tequila is made solely from the fermented sugars of Blue Weber agave (Agave tequilana Weber), with no added cane sugar or corn syrup. Bottled only within Mexico’s designated tequila regions, it delivers a cleaner, richer, and more authentic agave flavor than mixto tequilas.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-28"
     },
     "Maraschino Liqueur": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Beer (Light Lager)": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Beer (light lager)",
+      "abv": 4,
+      "notes": "Light lager is a pale, highly carbonated lager beer with low bitterness, mild malt character, and a clean, refreshing finish. Designed to be easy-drinking and low in intensity, it is often used as a neutral beer base in mixed drinks or beer cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Hot Sauce": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Salt": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Fresh Mint": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Sugar Powder": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Mint": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Smirnoff Vodka": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Mezcal": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Yellow Chartreuse": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Light Rum": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Demerara Rum": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Red Wine": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Aged Rum": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Liquor",
+      "abv": 40,
+      "notes": "Aged rum is distilled from sugarcane byproducts and matured in oak barrels, developing deeper flavors of vanilla, caramel, spice, and dried fruit. The aging process adds smoothness and complexity, making aged rum well suited for sipping and for cocktails that call for richer, more rounded character.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-28"
     },
     "Brut Champagne or Prosecco": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Sparkling wine",
+      "abv": 12,
+      "notes": "Brut Champagne and Prosecco are dry sparkling wines known for their bright acidity, fine bubbles, and crisp, refreshing character. Both add effervescence, light fruit notes, and structure to cocktails, making them ideal for spritzes and sparkling wine–based drinks.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Coconut Cream": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Sweetened coconut cream / mixer",
+      "abv": 0,
+      "notes": "Coconut cream (Coco López) is a thick, sweetened cream made from coconut milk and sugar. Rich and silky with pronounced coconut flavor, it adds body, sweetness, and tropical character to cocktails, especially blended and tiki-style drinks.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Pink Grapefruit Soda": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Blended Scotch Whisky": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Whisky (Scotch, blended)",
+      "abv": 40,
+      "notes": "Blended Scotch whisky is a whisky made by combining malt and grain whiskies from different distilleries in Scotland. Designed for balance and consistency, it offers smooth malt sweetness, light smoke, and gentle grain character, making it versatile for both sipping and mixing.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Lagavulin 16 y Whisky": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Fresh Ginger": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Jamaican Rum": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Sugarcane Juice": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Red Tawny Port Wine": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Egg Yolk": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Orange Flower Water": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Vanilla Extract": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Sparkling Wine": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Drambuie": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Peychaud's Bitters": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Seasonal Fruit": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Beer (Lager)": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Beer",
+      "abv": 5,
+      "notes": "Lager is a style of beer fermented with bottom-fermenting yeast at cooler temperatures, resulting in a clean, crisp flavor and smooth finish. It is typically light-bodied, moderately carbonated, and widely used both as a refreshing standalone beer and in beer-based cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Lemonade": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Sherry": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Cherry Liqueur": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Fruit liqueur",
+      "abv": 25,
+      "notes": "Cherry liqueur is a sweet, fruit-based liqueur made from cherries or cherry flavorings, offering rich red-fruit notes with varying levels of sweetness and subtle almond undertones. It is used to add depth, color, and fruity complexity to cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Benedictine": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Herbal liqueur",
+      "abv": 40,
+      "notes": "Bénédictine is a French herbal liqueur made from a complex blend of herbs, spices, and honey. Rich, aromatic, and gently sweet, it adds depth, warmth, and layered herbal complexity to classic cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Vodka Vanilla": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Elderflower Cordial": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Monin Honey Syrup": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Red Chili Pepper": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "White Crème De Menthe": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Lemon": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "100% Agave Tequila Reposado": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Liquor",
+      "abv": 40,
+      "notes": "100% agave Reposado tequila is made exclusively from Blue Weber agave (Agave tequilana Weber) and aged in oak barrels for at least two months. This resting period softens the spirit and adds subtle notes of vanilla, caramel, and light spice, while preserving the core agave character—making it smoother and more rounded than Blanco tequila.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-28"
     },
     "Agave Syrup": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Syrup",
+      "abv": 0,
+      "notes": "Agave syrup is a natural sweetener made from the concentrated sap of the agave plant. Sweeter than sugar and easily soluble in cold liquids, it provides clean, mild sweetness with subtle caramel notes, making it ideal for balancing citrus-forward cocktails without masking the base spirit.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-28"
     },
     "White Smooth Grappa": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Honey Mix": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Chamomile Cordial": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Cordial / syrup (non-alcoholic)",
+      "abv": 0,
+      "notes": "Chamomile cordial is a floral, lightly sweet syrup made by infusing chamomile flowers, offering soft herbal notes with gentle honey-like and apple nuances. It is used to add delicate aromatics and subtle sweetness to cocktails without overpowering the base spirit.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Jamaican Dark Rum": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Gold Puerto Rican Rum": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Donn's Mix": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Pernod": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Fresh Grapefruit Slice": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Jack Daniel's": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Sambuca": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Whipped Cream": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Maraschino Cherry": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Apple Wedge": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Garnish (fruit)",
+      "abv": 0,
+      "notes": "An apple wedge is a fresh-cut fruit garnish that adds crisp apple aroma, light sweetness, and visual contrast to cocktails and mixed drinks. It is commonly used as a rim or side garnish, especially with whiskey- or apple-based cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Guinness Stout": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Bass Ale": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Beer (English pale ale)",
+      "abv": 5,
+      "notes": "Bass Ale is a classic English pale ale known for its balanced malt sweetness, gentle hop bitterness, and dry, clean finish. Smooth and lightly carbonated, it offers subtle fruity and biscuity notes typical of traditional British ales.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "American Pilsner": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Beer Lager",
+      "abv": 5,
+      "notes": "American Pilsner is a light, crisp lager beer with clean malt character, mild hop bitterness, and a dry, refreshing finish. Its high carbonation and neutral profile make it refreshing on its own and suitable for beer-based cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-28"
     },
     "Overproof Rum": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Beer": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Beer",
+      "abv": 5,
+      "notes": "Beer is a fermented alcoholic beverage made from water, malted grains, hops, and yeast. Its flavor ranges from light and crisp to dark and malty, depending on style, and it is used both as a standalone drink and as a base or modifier in beer cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Molson Canadian beer": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Canadian Club Whiskey": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Whisky (Canadian)",
+      "abv": 40,
+      "notes": "Canadian Club is a smooth Canadian whisky known for its light body and balanced profile. It offers gentle notes of caramel, vanilla, and soft grain, with minimal harshness, making it approachable for both sipping and mixing in cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Jameson Irish Whiskey": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Sour Cherries": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Lime Wedge": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Peach Bitters": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Peach slice": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Pineapple Juice": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Fresh Passion Fruit": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Sake": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Green Olive": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Banana Rum": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Flavored rum",
+      "abv": 25,
+      "notes": "Banana rum is a sweet, fruit-flavored rum infused or blended with banana flavor, offering ripe tropical fruit notes and soft sweetness. It is commonly used to add playful, dessert-like character to tropical cocktails and sweet mixed drinks.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Lime Slice": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Edible Flower": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Moonstone Asian Pear Sake": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Crater Lake Vodka": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Vodka",
+      "abv": 40,
+      "notes": "Crater Lake Vodka is a premium American vodka distilled for purity and smoothness, with a clean, neutral profile and subtle sweetness. Its balanced character makes it suitable both for sipping and for cocktails where clarity and softness are essential.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Jasmine Syrup": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Momokawa Pearl Sake": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Coconut Syrup": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Syrup / sweetener (non-alcoholic)",
+      "abv": 0,
+      "notes": "Coconut syrup is a sweet, non-alcoholic syrup flavored with coconut, offering smooth tropical sweetness without the richness of coconut cream. It is used to add coconut flavor and sweetness to cocktails and mixed drinks while keeping a lighter texture.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Half & Half (Milk & Cream)": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Seagram's Gin": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Bombay Sapphire Gin": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Gin (London Dry)",
+      "abv": 40,
+      "notes": "Bombay Sapphire is a premium London Dry–style gin distilled with a balanced blend of botanicals, including juniper, citrus peel, coriander, and spices. Clean and aromatic with a smooth finish, it is widely used in classic gin cocktails and long drinks.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Chilled Margarita Mix": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Mixer (non-alcoholic)",
+      "abv": 0,
+      "notes": "Chilled margarita mix is a pre-made blend of citrus juice and sweeteners designed to replicate the classic sweet-sour balance of a Margarita. Consistent and ready to use, it provides acidity and sweetness without the need for fresh citrus preparation.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Sweet & Sour mix": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Pineapple Wedge": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Midori": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Pimms": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Orange Wedge": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Zubrowka Vodka": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Krupnik Liqueur": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Apple juice": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Juice / mixer (non-alcoholic)",
+      "abv": 0,
+      "notes": "Packaged apple juice is a filtered, pasteurized juice made from pressed apples, offering clean sweetness with mild acidity and a consistent flavor profile. Its smooth, non-fibrous texture makes it easy to mix and a common non-alcoholic sweetener or base in cocktails and long drinks.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-28"
     },
     "Dubonnet": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Orange Peel": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Lemon Peel": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Apple Slice": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Garnish (fruit)",
+      "abv": 0,
+      "notes": "An apple slice is a fresh fruit garnish used to add subtle sweetness, crisp aroma, and visual freshness to cocktails and drinks. It complements spirits like whiskey, rum, and apple-flavored liqueurs, and is often used as a rim or floating garnish.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Apple Schnapps": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Fruit Liqueur",
+      "abv": 20,
+      "notes": "Apple schnapps is a sweet, apple-flavored liqueur with a bright, fruity profile and light alcohol warmth. Typically used to add fresh apple character and sweetness, it works well in shooters, highballs, and dessert-style cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     },
     "Malibu": {
       "type": "",
-      "abv": null,
+      "abv": 0,
       "notes": "",
       "created": "",
       "modified": ""
     },
     "Cherry Brandy": {
-      "type": "",
-      "abv": null,
-      "notes": "",
+      "type": "Fruit liqueur",
+      "abv": 25,
+      "notes": "Cherry brandy is a sweet, cherry-flavored liqueur made by infusing or blending brandy with cherry fruit or flavor. Rich and fruity with light almond undertones, it is used to add depth, sweetness, and stone-fruit character to classic and modern cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-29"
     }
   }
 }
