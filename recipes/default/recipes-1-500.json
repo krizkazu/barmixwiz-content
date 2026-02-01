@@ -323,7 +323,7 @@
       "instructions": "Pour 30ml of peach schnapps into a shooter glass. Add 15ml of Baileys on top and a dash of blue curaçao. Add a few drops of grenadine and drink quickly!",
       "created": 1767385054121,
       "modified": 1767386301698,
-      "notes": "The Alien Brain Hemorrhage is a layered novelty shot that developed from the earlier Brain Hemorrhage shot, emerging in the early to mid-2000s. It became popular for its eerie, “alien” appearance, created by adding Blue Curaçao to the classic combination of peach schnapps, Baileys, and grenadine, resulting in a green-tinted, curdled brain effect. Rooted more in modern bar trends and viral cocktail culture than in a single place of origin, the drink plays on science-fiction imagery while remaining, at its core, a sweet, fruity, and creamy dessert-style shot.\nVariation named \"Atomic Bomb\":\nChristos Katsoudas’ Atomic Bomb dates back to the late 1980s in Loutraki, Greece, where it was prepared at the Hotel Kontis Studio 44 bar. While the exact origin of the idea is uncertain, one detail is firmly remembered: the drink was finished with a layer of Cointreau, chosen specifically so it could be ignited. The name Atomic Bomb reflected both its visual impact and its dramatic finish.\nFor preparation, peach liqueur was kept in the freezer to achieve greater thickness and density. This was followed by a thin layer of blue curaçao and then Baileys Irish Cream. Using a straw, a few drops of grenadine syrup were added from height, creating a distinct vertical red line through the peach layer. The shot was then topped with Cointreau and carefully set alight.\nThe drink was intended to be consumed quickly through a straw. Caution was essential, as the suction could draw the flame downward along with the liquid.✍️Chris Katsoudas (Lead Developer)",
+      "notes": "The Alien Brain Hemorrhage is a layered novelty shot that developed from the earlier Brain Hemorrhage shot, emerging in the early to mid-2000s. It became popular for its eerie, “alien” appearance, created by adding Blue Curaçao to the classic combination of peach schnapps, Baileys, and grenadine, resulting in a green-tinted, curdled brain effect. Rooted more in modern bar trends and viral cocktail culture than in a single place of origin, the drink plays on science-fiction imagery while remaining, at its core, a sweet, fruity, and creamy dessert-style shot.",
       "tags": []
     },
     {
@@ -4861,60 +4861,60 @@
   ],
   "ingredients": {
     "Gin": {
-      "type": "Liquor",
+      "type": "Spirit",
       "abv": 40,
       "notes": "Any gin is fine.",
       "created": "",
-      "modified": "2026-01-28"
+      "modified": "2026-02-01"
     },
     "Lillet Blanc": {
-      "type": "Aromatized wine / aperitif",
+      "type": "Aperitif",
       "abv": 17,
       "notes": "Lillet Blanc is a French aromatized wine aperitif made from fortified white wine blended with citrus liqueurs. Lightly sweet and floral with notes of orange, honey, and herbs, it adds softness, freshness, and subtle complexity to cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Fresh Lime Juice": {
-      "type": "Fresh juice / mixer",
+      "type": "Fruit - Mixer",
       "abv": 0,
       "notes": "Fresh lime juice is freshly pressed citrus juice with sharp acidity and bright, aromatic citrus character. Essential in many classic and tropical cocktails, it provides balance, freshness, and structure.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-01-31"
     },
     "Cocoa Powder": {
-      "type": "Flavoring / garnish",
+      "type": "Garnish",
       "abv": 0,
       "notes": "Cocoa powder is a finely ground product made from roasted cacao beans after the cocoa butter has been removed. Intensely aromatic and bitter, it is used sparingly in cocktails as a garnish or flavor accent to add depth, richness, and dark chocolate notes.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Nutmeg": {
-      "type": "Spice (Seed)",
+      "type": "Spice",
       "abv": 0,
       "notes": "Nutmeg is a warm, aromatic spice derived from the seed of the nutmeg tree (Myristica fragrans). It delivers sweet, earthy, and slightly nutty flavors with subtle notes of clove and pepper. In cocktails, nutmeg is most commonly used freshly grated as a garnish to enhance aroma rather than sweetness, adding depth and warmth to creamy, egg-based, or spiced drinks such as flips, nogs, and hot cocktails.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Whiskey": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Spirit",
+      "abv": 45,
+      "notes": "Whiskey is a distilled spirit made from fermented grain mash and aged in wooden barrels. It includes a wide range of styles and origins, each offering different flavor profiles, commonly featuring notes of oak, caramel, spice, grain, and smoke. In cocktails, whiskey is a foundational base spirit, central to many classic and modern recipes where structure, warmth, and depth are essential.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "7-up": {
-      "type": "Soft Carbonated Drink",
+      "type": "Soft Drink - Carbonated",
       "abv": 0,
       "notes": "7-Up is a clear, lemon-lime carbonated soft drink with a light, crisp sweetness and bright citrus acidity. Its clean profile adds freshness and effervescence to mixed drinks without overpowering the base spirit, making it a common highball and long-drink mixer.",
       "created": "",
-      "modified": "2026-01-28"
+      "modified": "2026-02-01"
     },
     "Lemon Wedge": {
-      "type": "Garnish (citrus)",
+      "type": "Fruit - Garnish",
       "abv": 0,
       "notes": "A lemon wedge is a fresh-cut citrus garnish that provides bright acidity, fresh aroma, and visual appeal. It can be squeezed into the drink or used as a garnish to enhance freshness and balance.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Amaretto": {
       "type": "Liqueur",
@@ -4924,452 +4924,452 @@
       "modified": "2026-01-28"
     },
     "Bailey's": {
-      "type": "Cream liqueu",
+      "type": "Liqueur",
       "abv": 17,
       "notes": "Baileys is a creamy Irish liqueur made from Irish whiskey, fresh dairy cream, and cocoa flavors. Smooth, sweet, and rich, it adds a dessert-like texture and gentle whiskey warmth to cocktails, coffees, and after-dinner drinks.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Cognac": {
-      "type": "Spirit (grape brandy)",
+      "type": "Spirit",
       "abv": 40,
       "notes": "Cognac is a premium French grape brandy produced in the Cognac region and aged in oak barrels. Smooth and complex, it offers refined notes of dried fruit, vanilla, spice, and oak, and is used both for sipping and in classic, spirit-forward cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Tequila": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Spirit",
+      "abv": 40,
+      "notes": "Tequila is a distilled spirit produced in Mexico from the blue agave plant (Agave tequilana), primarily in the region of Jalisco. It ranges from unaged to aged styles, offering profiles that include vegetal, citrus, peppery, and earthy notes depending on production and aging. In cocktails, tequila is used as a base spirit, most famously in the Margarita, where its agave character provides structure and distinctive flavor.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Rum": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Spirit",
+      "abv": 45,
+      "notes": "Rum is a distilled spirit made from sugarcane byproducts such as molasses or fresh sugarcane juice. Produced in various styles and regions, it can range from light and clean to rich, funky, and heavily aged, depending on fermentation, distillation, and aging methods. In cocktails, rum serves as a versatile base spirit, central to classic, tropical, and modern recipes, contributing sweetness, depth, and distinctive sugarcane character.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Fresh Pineapple Juice": {
-      "type": "Fresh juice / mixer",
+      "type": "Fruit - Mixer",
       "abv": 0,
       "notes": "Fresh pineapple juice is freshly pressed tropical juice with bright sweetness and lively acidity. Its rich aroma and natural enzymes add body, foam, and vibrant tropical flavor to cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-01-31"
     },
     "Fresh Grapefruit Juice": {
-      "type": "Fresh juice / mixer",
+      "type": "Fruit - Mixer",
       "abv": 0,
       "notes": "Fresh grapefruit juice is freshly pressed citrus juice with bright acidity, light bitterness, and subtle sweetness. Its crisp, slightly bitter profile adds freshness and balance to cocktails, especially with agave spirits and bitters.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-01-31"
     },
     "Simple Syrup": {
-      "type": "",
+      "type": "Syrup",
       "abv": 0,
-      "notes": "",
+      "notes": "Simple syrup is a basic non-alcoholic sweetener made by dissolving sugar in water, typically in equal parts by weight or volume. It provides clean, neutral sweetness that integrates easily into cold and hot beverages without affecting flavor. In cocktails, simple syrup is used to balance acidity and bitterness, offering precise sweetness control and consistency across a wide range of classic and modern recipes.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Pineapple": {
-      "type": "Fruit (Tropical)",
+      "type": "Fruit - Tropical",
       "abv": 0,
       "notes": "Pineapple is a tropical fruit widely used in cocktails for its bright acidity, natural sweetness, and bold aroma. It is commonly used as fresh juice, chunks, wedges, or leaves, each contributing different levels of flavor and visual appeal. Pineapple juice adds body and balance to cocktails, particularly in tropical and tiki drinks, while fresh pineapple elements enhance aroma, texture, and presentation.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Fino Sherry": {
-      "type": "Fortified wine (sherry)",
+      "type": "Aperitif",
       "abv": 15,
       "notes": "Fino Sherry is a dry, pale fortified wine from Spain, aged under a layer of flor yeast that protects it from oxidation. Crisp and delicate, it offers saline, almond, and fresh bread notes, adding dryness, complexity, and brightness to cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Sweet Vermouth": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Aperitif",
+      "abv": 16,
+      "notes": "Sweet vermouth is an aromatized fortified wine flavored with herbs, spices, and botanicals, characterized by a rich, bittersweet profile and dark color. It is sometimes referred to as red vermouth, though the color comes from caramel coloring rather than red grapes. In cocktails, sweet vermouth is a foundational modifier in classic recipes such as the Manhattan and Negroni, adding depth, sweetness, and herbal complexity.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Orange": {
-      "type": "Fruit (Citrus)",
+      "type": "Fruit",
       "abv": 0,
       "notes": "Orange is a citrus fruit widely used in cocktails for its bright aroma, balanced sweetness, and mild acidity. Depending on the variety, it can contribute fresh juice, zest, peel, or slices, each providing different flavor and aromatic qualities. Orange juice adds soft citrus sweetness, while orange peel and zest are commonly used as garnishes or for expressing essential oils, enhancing aroma and complexity in both classic and modern cocktails.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Amaro Nonino": {
       "type": "Liqueur",
       "abv": 35,
       "notes": "Amaro Nonino is a refined Italian herbal liqueur made from a blend of botanicals, citrus peels, and spices, lightly sweetened and gently bitter. Smoother and more aromatic than many traditional amari, it offers notes of orange, herbs, and soft caramel, making it versatile in both stirred and shaken cocktails.",
       "created": "",
-      "modified": "2026-01-28"
+      "modified": "2026-02-01"
     },
     "Aperol": {
-      "type": "Aperitif liqueur",
+      "type": "Liqueur",
       "abv": 11,
       "notes": "Aperol is a bright orange Italian aperitif with a gently bitter-sweet profile, flavored with herbs, roots, and citrus. Light, aromatic, and refreshing, it is commonly used in spritzes and low-alcohol cocktails to add color, freshness, and mild bitterness.",
       "created": "",
-      "modified": "2026-01-28"
+      "modified": "2026-02-01"
     },
     "Fresh Orange Juice": {
-      "type": "Fresh juice / mixer",
+      "type": "Fruit - Mixer",
       "abv": 0,
       "notes": "Fresh orange juice is freshly squeezed citrus juice with natural sweetness and mild acidity. Smooth and aromatic, it adds body, freshness, and gentle citrus flavor to a wide range of cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-01-31"
     },
     "Campari": {
-      "type": "Bitter aperitif liqueur",
+      "type": "Liqueur",
       "abv": 25,
       "notes": "Campari is a bright red Italian bitter aperitif known for its bold bitterness balanced by herbal, citrus, and subtly sweet notes. Intense and aromatic, it is used to add structure, bitterness, and color to classic and modern cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Orange Slice": {
-      "type": "Fruit Garnish (Citrus)",
+      "type": "Fruit - Garnish",
       "abv": 0,
       "notes": "An orange slice is a fresh cut portion of orange fruit used primarily as a garnish in cocktails. It adds mild citrus aroma, visual appeal, and a subtle hint of sweetness and acidity without significantly altering the drink’s balance. Orange slices are commonly used in long drinks, spritzes, and classic cocktails, where they enhance presentation and reinforce citrus character.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Southern Comfort": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Liqueur",
+      "abv": 35,
+      "notes": "Southern Comfort is an American whiskey-based liqueur flavored with fruit, spices, and sweeteners. It offers a smooth, sweet profile with notes of peach, citrus, vanilla, and warm spice, with a softer character than straight whiskey. In cocktails, Southern Comfort is used as a modifier or base in easy-drinking mixed drinks, adding sweetness and flavored complexity rather than whiskey intensity.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Sloe Gin": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Liqueur",
+      "abv": 24,
+      "notes": "Sloe gin is a traditional British liqueur made by infusing sloe berries (the fruit of the blackthorn bush) in gin, then sweetening the infusion. It delivers deep red color with flavors of dark fruit, almond-like notes from the sloe pits, and gentle tartness balanced by sweetness. In cocktails, sloe gin is used as a modifier or base in low- to mid-ABV drinks, adding richness, fruit depth, and soft spice.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Crème De Cacao": {
-      "type": "Liqueur (chocolate)",
+      "type": "Liqueur",
       "abv": 25,
       "notes": "Crème de Cacao is a sweet chocolate-flavored liqueur made from cacao beans, offering rich cocoa aromas with smooth sweetness. Used to add chocolate depth and dessert-like character, it appears in both classic and modern cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Fresh Cream": {
-      "type": "Dairy / mixer",
+      "type": "Dairy",
       "abv": 0,
       "notes": "Fresh cream is a dairy product with a rich, smooth texture and mild sweetness, used in cocktails to add body, softness, and a creamy mouthfeel. It balances acidity and alcohol, creating a round, dessert-like character.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Peach Schnapps": {
-      "type": "Liqueur (Fruit)",
+      "type": "Liqueur",
       "abv": 20,
       "notes": "Peach schnapps is a sweet, fruit-flavored liqueur with pronounced ripe peach character and a light, approachable profile. Typically lower in alcohol than distilled spirits, it is designed for easy mixing rather than sipping. In cocktails, peach schnapps adds bright stone-fruit sweetness and aroma, commonly used in highballs, party drinks, and classic recipes such as the Sex on the Beach.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Blue Curacao": {
-      "type": "Citrus liqueur",
+      "type": "Liqueur",
       "abv": 25,
       "notes": "Blue Curaçao is a citrus-flavored liqueur made from the dried peels of Laraha oranges, colored bright blue for visual impact. Sweet with a light bitter-orange note, it is used primarily to add citrus flavor and vibrant color to cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Grenadine Syrup": {
-      "type": "Syrup / sweetener (non-alcoholic)",
+      "type": "Syrup",
       "abv": 0,
       "notes": "Grenadine syrup is a sweet, non-alcoholic syrup traditionally made from pomegranate juice. Bright red in color with a balance of sweetness and light tartness, it is used to add color, fruitiness, and gentle acidity to cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Bourbon Whiskey": {
-      "type": "Whiskey (American, bourbon)",
+      "type": "Spirit",
       "abv": 45,
       "notes": "Bourbon whiskey is an American whiskey made primarily from corn and aged in new charred oak barrels. Known for its smooth, rich profile, it delivers flavors of vanilla, caramel, oak, and gentle spice, making it a staple in both classic and modern cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Angostura Bitters": {
-      "type": "Aromatic bitters",
+      "type": "Bitters - Aromatic",
       "abv": 45,
       "notes": "Angostura Bitters is a concentrated aromatic bitters made from a proprietary blend of herbs, spices, roots, and bark. Intensely bitter with warm spice notes, it is used in small dashes to enhance aroma, balance sweetness, and add depth to classic and modern cocktails.",
       "created": "",
-      "modified": "2026-01-28"
+      "modified": "2026-01-31"
     },
     "Orange Twist": {
-      "type": "Citrus Peel (Garnish / Expressed Zest)",
+      "type": "Fruit - Garnish",
       "abv": 0,
       "notes": "An orange twist is a narrow strip of orange peel, typically twisted over a cocktail to express essential oils across the surface of the drink. This technique releases bright citrus aromatics that enhance aroma and perception of flavor without adding sweetness or acidity. Orange twists are a classic garnish in spirit-forward cocktails such as the Old Fashioned, Martini variations, and Negroni, contributing elegance, aroma, and a clean citrus finish.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Soda Water": {
-      "type": "",
+      "type": "Soft Drink- Carbonated",
       "abv": 0,
-      "notes": "",
+      "notes": "Soda water is water infused with carbon dioxide, often with added minerals to enhance mouthfeel and sharpness. It is neutral in flavor and used as a mixer to add effervescence, dilution, and freshness to cocktails. In mixed drinks, soda water lifts aromas, lightens body, and balances strong flavors without adding sweetness.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Vodka": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Spirit",
+      "abv": 38,
+      "notes": "Vodka is a clear distilled spirit made from fermented grains, potatoes, or other agricultural products, designed to be neutral in aroma and flavor. Its clean profile allows other ingredients to remain dominant, making it one of the most versatile base spirits in cocktails. Vodka is commonly used in a wide range of mixed drinks, from simple highballs to complex shaken cocktails, where it provides alcohol structure without strong character.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Fresh Lemon Juice": {
-      "type": "Fresh juice / mixer",
+      "type": "Fruit - Mixer",
       "abv": 0,
       "notes": "Fresh lemon juice is freshly squeezed citrus juice with bright acidity and clean, sharp flavor. It is a fundamental cocktail ingredient, used to balance sweetness, enhance freshness, and provide structure in a wide range of drinks.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-01-31"
     },
     "Apricot Brandy": {
-      "type": "Fruit liqueur",
+      "type": "Liqueur",
       "abv": 25,
       "notes": "Apricot brandy is a sweet, fruit-flavored liqueur made by infusing or blending brandy with apricot flavor. It delivers rich stone-fruit sweetness with light almond and vanilla notes, commonly used to add depth and fruit character to classic and dessert-style cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Calvados": {
-      "type": "Spirit (apple brandy)",
+      "type": "Spirit",
       "abv": 40,
       "notes": "Calvados is a French apple brandy distilled from fermented apple cider and aged in oak barrels. Complex and aromatic, it offers flavors of baked apple, dried fruit, spice, and subtle oak, and is used both for sipping and in classic cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Maraschino Luxardo": {
-      "type": "Fruit liqueur (cherry)",
+      "type": "Liqueur",
       "abv": 32,
       "notes": "Luxardo Maraschino is a classic Italian maraschino liqueur distilled from Marasca cherries, including the pits, which give it a dry, subtly sweet profile with distinctive almond-like and floral notes. Elegant and aromatic, it is used sparingly to add depth and balance to classic cocktails.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Crème De Violette": {
-      "type": "Floral liqueur",
+      "type": "Liqueur",
       "abv": 25,
       "notes": "Crème de Violette is a floral liqueur made from violet flowers, known for its delicate perfume, light sweetness, and distinctive violet aroma. Used sparingly, it adds floral complexity and a subtle aromatic lift to classic and modern cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Gold Rum": {
-      "type": "Rum",
+      "type": "Spirit",
       "abv": 40,
       "notes": "Gold rum is a lightly aged sugarcane-based rum that bridges the gap between white and dark rum. Smooth and balanced, it offers notes of vanilla, caramel, and light oak, adding warmth and body to cocktails without overpowering them.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Galliano": {
-      "type": "Herbal liqueur",
+      "type": "Liqueur",
       "abv": 42,
       "notes": "Galliano is a sweet Italian herbal liqueur flavored with a blend of botanicals, prominently vanilla and anise. Smooth and aromatic, it adds warm sweetness and distinctive herbal complexity to classic and modern cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Prosecco": {
-      "type": "Sparkling Wine",
+      "type": "Wine - Sparkling",
       "abv": 11,
       "notes": "Prosecco is an Italian sparkling wine made primarily from the Glera grape, produced using the Charmat method, where secondary fermentation occurs in stainless steel tanks. It is known for its fresh, fruit-forward profile with notes of green apple, pear, citrus, and light floral aromas. In cocktails, Prosecco is commonly used in spritzes and aperitif-style drinks, providing effervescence, brightness, and lower alcohol compared to traditional Champagne-based cocktails.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-01-31"
     },
     "Coca Cola": {
-      "type": "Soft drink / mixer",
+      "type": "Soft Drink - Carbonated",
       "abv": 0,
       "notes": "Coca-Cola is a carbonated soft drink with a balanced profile of sweetness, acidity, and subtle spice notes. Its bold flavor and high carbonation make it a classic mixer, especially with dark spirits, adding sweetness, effervescence, and structure to long drinks.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Dry Gin": {
-      "type": "Gin",
+      "type": "Spirit",
       "abv": 45,
       "notes": "Dry gin is a clear spirit distilled with juniper and other botanicals, characterized by a crisp, dry profile with pronounced herbal and citrus notes. It is widely used as a base spirit in classic cocktails due to its aromatic structure and clean finish.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Honey Syrup": {
-      "type": "Syrup / sweetener",
+      "type": "Syrup",
       "abv": 0,
       "notes": "Honey syrup is a liquid sweetener prepared by dissolving honey in warm water, creating a smooth, easily mixable syrup. It preserves honey’s floral sweetness while allowing better integration into cocktails, especially shaken drinks.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "White Peach Puree": {
-      "type": "",
+      "type": "Puree",
       "abv": 0,
-      "notes": "",
+      "notes": "White peach purée is a smooth, non-alcoholic fruit preparation made from ripe white peaches. It offers delicate floral aroma, gentle sweetness, and low acidity compared to yellow peach varieties. In cocktails, it is commonly used to add body, softness, and fresh fruit character, most notably in sparkling and brunch-style drinks such as the Bellini.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "White Rum": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Spirit",
+      "abv": 40,
+      "notes": "White rum is a light-bodied rum typically distilled from molasses or sugarcane juice and filtered to remove color after aging or bottled unaged. It features a clean, mild profile with subtle sweetness and minimal oak influence. In cocktails, white rum is a foundational base spirit, widely used in classic and tropical drinks such as the Daiquiri, Mojito, and Piña Colada.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Triple Sec": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Liqueur",
+      "abv": 30,
+      "notes": "Triple sec is a clear, orange-flavored liqueur made from dried orange peels and neutral spirit. It delivers bright citrus aroma with clean sweetness and light bitterness. In cocktails, triple sec is a core modifier used to add orange character and balance acidity, most notably in classic drinks such as the Margarita, Sidecar, and Cosmopolitan.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Scotch Whisky": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Spirit",
+      "abv": 43,
+      "notes": "Scotch whisky is a distilled spirit produced in Scotland from malted barley and/or other grains, aged in oak casks for a minimum of three years. It encompasses a wide range of styles, from light and floral to rich, smoky, and heavily peated, depending on region and production methods. In cocktails, Scotch whisky is used selectively due to its strong character, contributing depth, malt complexity, and, in peated styles, distinctive smoky notes.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Irish Whiskey": {
-      "type": "Whiskey (Irish)",
+      "type": "Spirit",
       "abv": 40,
       "notes": "Irish whiskey is a smooth, approachable whiskey traditionally triple-distilled and made from malted and unmalted barley. Known for its soft texture and gentle flavors of grain, honey, vanilla, and light fruit, it is versatile for both sipping and mixing.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Coffee Liqueur": {
-      "type": "Liqueur (coffee)",
+      "type": "Liqueur",
       "abv": 20,
       "notes": "Coffee liqueur is a sweet, coffee-flavored liqueur made from coffee extract combined with alcohol and sugar. Rich and aromatic, it adds roasted coffee notes, sweetness, and depth to cocktails, especially dessert-style and after-dinner drinks.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-01-31"
     },
     "Guinness Stout": {
-      "type": "Beer (stout)",
+      "type": "Beer",
       "abv": 4,
       "notes": "Guinness Stout is a dark Irish stout characterized by its smooth, creamy mouthfeel and roasted malt profile, with notes of coffee, cocoa, and a dry finish. Low in carbonation and balanced in bitterness, it adds depth and richness when used in beer-based cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Champagne": {
-      "type": "Sparkling wine",
+      "type": "Wine - Sparkling",
       "abv": 12,
       "notes": "Champagne is a sparkling wine produced in the Champagne region of France using traditional bottle fermentation. Known for its fine bubbles, high acidity, and elegant structure, it adds dryness, freshness, and refined effervescence to cocktails and celebratory drinks",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-01-31"
     },
     "Tomato Juice": {
-      "type": "",
+      "type": "Fruit - Mixer",
       "abv": 0,
-      "notes": "",
+      "notes": "Tomato juice is a non-alcoholic vegetable juice with a savory, slightly acidic profile. In cocktails, it is primarily used as the base of savory drinks such as the Bloody Mary, where it provides body, umami, and balance for spices, citrus, and spirits. It serves as a foundation for layered seasoning rather than sweetness or aroma.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Worcestershire Sauce": {
-      "type": "",
+      "type": "Condiment",
       "abv": 0,
-      "notes": "",
+      "notes": "Worcestershire sauce is a fermented savory condiment made from ingredients such as vinegar, molasses, anchovies, tamarind, and spices. It delivers complex umami, acidity, and subtle sweetness. In cocktails, it is used in very small amounts to add depth, savoriness, and seasoning, most notably in Bloody Mary–style drinks and other savory cocktail preparations.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Tabasco": {
-      "type": "",
+      "type": "Condiment",
       "abv": 0,
-      "notes": "",
+      "notes": "Tabasco is a fermented chili pepper sauce made from tabasco peppers, vinegar, and salt. It delivers sharp acidity, bright heat, and a clean, vinegary finish. In cocktails, Tabasco is used in very small quantities to add spice, lift, and savory complexity, most commonly in drinks such as the Bloody Mary and other savory or spicy cocktail styles.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Celery Salt": {
-      "type": "Seasoning / garnish",
+      "type": "Spice",
       "abv": 0,
       "notes": "Celery salt is a seasoning made from ground celery seed blended with salt, offering a savory, herbal, and slightly bitter flavor. Commonly used as a rim or seasoning in cocktails, it enhances savory profiles and adds aromatic depth, especially in vegetable- or spice-driven drinks.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Pepper": {
-      "type": "Spice (Dried Berry)",
+      "type": "Spice",
       "abv": 0,
       "notes": "Pepper, most commonly black pepper, is a pungent spice made from dried peppercorns of the Piper nigrum plant. It delivers sharp, woody heat with subtle citrus and earthy notes. In cocktails, pepper is used sparingly—often freshly ground or infused—to add aromatic warmth, gentle spice, and complexity, particularly in savory drinks, spirit-forward recipes, and modern craft cocktails.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Bourbon or Rye Whiskey": {
-      "type": "Whiskey (American)",
+      "type": "Spirit",
       "abv": 45,
       "notes": "Bourbon and rye whiskey are American whiskeys made from grain-based mash bills and aged in new charred oak barrels. Both offer warm notes of vanilla, caramel, and oak, with a bold, structured character that works well in classic stirred and spirit-forward cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Crème De Mûre": {
-      "type": "Fruit liqueur (blackberry)",
+      "type": "Liqueur",
       "abv": 20,
       "notes": "Crème de Mûre is a sweet liqueur made from blackberries, offering deep berry aromas with rich, jammy sweetness. It is used to add dark fruit character, color, and softness to cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Brandy": {
-      "type": "Spirit (fruit brandy)",
+      "type": "Spirit",
       "abv": 37,
       "notes": "Brandy is a spirit distilled from fermented fruit, most commonly grapes, and often aged in oak barrels. Smooth and aromatic, it offers notes of dried fruit, vanilla, and spice, and is used both as a sipping spirit and as a base or modifier in classic cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Dark Crème De Cacao": {
-      "type": "Liqueur (chocolate)",
+      "type": "Liqueur",
       "abv": 25,
       "notes": "Dark Crème de Cacao is a rich chocolate-flavored liqueur made from cacao beans, offering deeper cocoa bitterness and darker chocolate notes than the clear version. It is used to add intensity, color, and dessert-style richness to cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Curacao": {
-      "type": "Orange liqueur",
+      "type": "Liqueur",
       "abv": 30,
       "notes": "Curaçao is an orange-flavored liqueur made from the dried peels of Laraha oranges. It offers sweet citrus notes with light bitterness and is used to add orange flavor, balance, and aroma to a wide range of cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Aromatic Bitters": {
-      "type": "Aromtic Bitters",
+      "type": "Bitters",
       "abv": 40,
       "notes": "Aromatic bitters are highly concentrated bitters made from a blend of herbs, spices, roots, bark, and botanicals. Intensely bitter and fragrant, they are used in small dashes to enhance aroma, balance sweetness, and add complexity to cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-01-31"
     },
     "Cachaça": {
-      "type": "Spirit (sugarcane)",
+      "type": "Spirit",
       "abv": 42,
       "notes": "Cachaça is a Brazilian spirit distilled from fresh sugarcane juice, offering a vibrant, grassy, and lightly fruity character. Its fresh sugarcane profile makes it a distinctive base for tropical and citrus-forward cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Lime": {
-      "type": "Fresh fruit / citrus",
+      "type": "Fruit",
       "abv": 0,
       "notes": "Lime is a citrus fruit widely used in cocktails for its sharp acidity, fresh aroma, and vibrant citrus flavor. It provides balance, brightness, and structure, whether used as juice, zest, or garnish.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-01-31"
     },
     "White Cane Sugar": {
-      "type": "",
+      "type": "Sweetener",
       "abv": 0,
-      "notes": "",
+      "notes": "White cane sugar is refined sugar produced from sugarcane, characterized by its clean, neutral sweetness and uniform crystal size. In cocktails, it is commonly used to create syrups or added directly when precise, flavor-neutral sweetness is required. It provides balance without contributing aroma or color, allowing other ingredients to remain prominent.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Fresh Lime": {
-      "type": "Fresh fruit / citrus",
+      "type": "Fruit",
       "abv": 0,
       "notes": "A fresh lime is a citrus fruit used in cocktails for its bright acidity, fresh aroma, and vibrant citrus oils. Used for juice, wedges, wheels, or zest, it adds freshness, balance, and aromatic lift to a wide range of drinks.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-01-31"
     },
     "Sugar": {
-      "type": "",
+      "type": "Sweetener",
       "abv": 0,
-      "notes": "",
+      "notes": "Sugar is a natural sweetening agent commonly derived from sugarcane or sugar beets. In cocktails, it is used to balance acidity and bitterness, either directly or dissolved into syrups for easier integration. Sugar provides clean sweetness without adding aroma, allowing other flavors in a drink to remain prominent.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-30"
     },
     "Cuban Aguardiente": {
-      "type": "Spirit (sugarcane / rum precursor)",
+      "type": "Spirit",
       "abv": 40,
       "notes": "Cuban aguardiente is a sugarcane-based spirit distilled from molasses, traditionally unaged and intensely aromatic. Bold and rustic, it delivers grassy, funky sugarcane notes and is often used to add raw rum character and depth to Cuban-style cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Honey": {
       "type": "Sweetener",
@@ -5379,578 +5379,578 @@
       "modified": "2026-01-29"
     },
     "Water": {
-      "type": "",
+      "type": "Mineral",
       "abv": 0,
-      "notes": "",
+      "notes": "Water is a neutral, non-alcoholic ingredient used in cocktails for dilution, balance, and texture. It plays a critical role in controlling alcohol intensity, integrating flavors, and opening aromas, whether added intentionally or introduced through ice melt. Water is essential to the structure and drinkability of all mixed drinks.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Old Tom Gin": {
-      "type": "Gin (Sweetened / Historic Style)",
+      "type": "Spirit",
       "abv": 45,
       "notes": "Old Tom Gin is a lightly sweetened style of gin that originated in England during the 18th and 19th centuries, bridging the gap between genever and modern London Dry gin. It retains juniper-forward character while featuring softer botanical balance and subtle sweetness, sometimes enhanced by aging or natural sugars. Old Tom Gin is commonly used in classic cocktails such as the Tom Collins and Martinez, where its rounded profile provides structure without the sharp dryness of London Dry gin.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Orange Bitters": {
-      "type": "Bitters (Aromatic)",
+      "type": "Bitters - Aromatic",
       "abv": 36,
       "notes": "Orange bitters are an alcoholic bittering agent made by infusing orange peels with herbs, spices, and roots in high-proof alcohol. They deliver concentrated citrus aroma balanced by bitterness and warm spice notes, used in small amounts to enhance structure and complexity rather than sweetness. Orange bitters are a classic seasoning ingredient in cocktails, commonly used in drinks such as the Martini, Old Fashioned variations, and many pre-Prohibition recipes.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-01-31"
     },
     "Grand Marnier": {
-      "type": "Orange liqueur (Cognac-based)",
+      "type": "Liqueur",
       "abv": 40,
       "notes": "Grand Marnier is a premium French orange liqueur made by blending Cognac with bitter orange essence. Rich and aromatic, it combines deep orange citrus notes with brandy warmth, adding complexity and elegance to classic cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Sugar Cube": {
-      "type": "",
+      "type": "Sweetener",
       "abv": 0,
-      "notes": "",
+      "notes": "A sugar cube is a compacted form of granulated sugar used as a measured sweetening unit. In cocktails, it is traditionally muddled or saturated with bitters before dilution, most notably in classic recipes such as the Old Fashioned. Sugar cubes provide controlled sweetness and a slower integration compared to liquid syrups, contributing to both flavor balance and ritual presentation.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Pisco": {
-      "type": "Brandy (Grape Spirit)",
+      "type": "Spirit",
       "abv": 43,
       "notes": "Pisco is a clear grape brandy produced primarily in Peru and Chile, distilled from fermented grape juice rather than pomace. It retains strong aromatic grape character, with floral, fruity, and sometimes herbaceous notes depending on grape variety and production style. Unaged and typically bottled straight from distillation, pisco is a key base spirit in classic cocktails such as the Pisco Sour, where its expressive aromatics and clean structure are central to the drink’s identity.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Ginger Ale": {
-      "type": "Soft drink / mixer",
+      "type": "Soft Drink - Carbonated",
       "abv": 0,
       "notes": "Ginger ale is a carbonated soft drink with light sweetness and mild ginger flavor. Clean and refreshing, it is commonly used as a mixer to add gentle spice and effervescence without overpowering the base spirit.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Raspberry Syrup": {
-      "type": "Syrup (Fruit Sweetener)",
+      "type": "Syrup",
       "abv": 0,
       "notes": "Raspberry syrup is a non-alcoholic sweetening syrup made from raspberries or raspberry flavoring combined with sugar. It provides bright berry aroma, vibrant color, and balanced sweetness without alcohol. In cocktails, it is used to add fruit character and sweetness in lemonades, spritzes, and mixed drinks, offering consistent flavor and ease of use compared to fresh fruit.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Egg White": {
-      "type": "Texturizer / ingredient",
+      "type": "Mixer",
       "abv": 0,
       "notes": "Egg white is used in cocktails to create a smooth, creamy texture and stable foam without adding flavor. When shaken, it softens acidity and gives drinks a velvety mouthfeel and visually appealing froth.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Cointreau": {
-      "type": "Orange liqueur",
+      "type": "Liqueur",
       "abv": 40,
       "notes": "Cointreau is a clear, premium orange liqueur made from sweet and bitter orange peels. Dry yet intensely aromatic, it delivers bright citrus flavor and balance, making it a key ingredient in many classic cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Absinthe": {
-      "type": "High-proof Spirit",
+      "type": "Spirit",
       "abv": 45,
       "notes": "Absinthe is a high-proof anise-flavored spirit traditionally distilled from wormwood (Artemisia absinthium), anise, and fennel. Known for its intense herbal aroma and signature louche effect when diluted with water, it is used sparingly in cocktails to add depth, complexity, and a distinctive aromatic lift. It's ABV can be between 45% to 74%.",
       "created": "",
-      "modified": "2026-01-28"
+      "modified": "2026-02-01"
     },
     "Vodka Citron": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Spirit",
+      "abv": 38,
+      "notes": "Vodka Citron is a citrus-flavored vodka infused or flavored with lemon and other citrus peels. It retains the clean, neutral base of vodka while adding bright, zesty citrus aroma and a crisp, dry finish. In cocktails, it is used as a base spirit to introduce citrus character without additional sweetness, most notably in drinks such as the Cosmopolitan.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Cranberry Juice": {
-      "type": "Juice / mixer (non-alcoholic)",
+      "type": "Fruit - Mixer",
       "abv": 0,
       "notes": "Packaged cranberry juice is a filtered, pasteurized juice with pronounced tartness and light sweetness. Its sharp acidity makes it a popular mixer, adding freshness, color, and balance to a wide range of cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "White Cuban Ron": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Spirit",
+      "abv": 40,
+      "notes": "White Cuban ron is a light-bodied rum produced in the Cuban style, typically distilled from molasses and charcoal-filtered after brief aging to remove color. It features a clean, dry profile with subtle sugarcane sweetness and soft vanilla notes. In cocktails, it is used as a base spirit in classic drinks such as the Mojito and Daiquiri, where its smooth, restrained character allows fresh ingredients to shine.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Superfine Sugar": {
-      "type": "",
+      "type": "Sweetener",
       "abv": 0,
-      "notes": "",
+      "notes": "Superfine sugar is granulated sugar milled to a finer crystal size than standard table sugar, allowing it to dissolve more quickly in liquids. In cocktails, it is used when direct sugar addition is preferred over syrups, providing faster integration and smoother texture, especially in stirred or lightly shaken drinks. It delivers clean sweetness without altering flavor or aroma.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Goslings Rum": {
-      "type": "Dark rum",
+      "type": "Spirit",
       "abv": 40,
       "notes": "Goslings Rum is a dark, full-bodied rum from Bermuda, known for its rich notes of molasses, caramel, spice, and subtle smoke. Smooth yet robust, it adds depth and structure to classic highballs and tiki-style cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Ginger Beer": {
-      "type": "Soft drink / mixer",
+      "type": "Soft Drink - Carbonated",
       "abv": 0,
       "notes": "Ginger beer is a carbonated beverage with a bold, spicy ginger profile and deeper flavor intensity than ginger ale. Often non-alcoholic, it adds pronounced ginger heat, sweetness, and effervescence to cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Dry Vermouth": {
-      "type": "Fortified wine (vermouth)",
+      "type": "Aperitif",
       "abv": 18,
       "notes": "Dry vermouth is a fortified and aromatized wine infused with herbs and botanicals, offering a crisp, dry profile with subtle bitterness and herbal complexity. It is used to add structure, aroma, and balance to classic cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Kahlúa": {
-      "type": "Coffee liqueur",
+      "type": "Liqueur",
       "abv": 20,
       "notes": "Kahlúa is a Mexican coffee liqueur made with coffee, rum, and sugar, offering rich roasted coffee notes with smooth sweetness. It adds depth, warmth, and dessert-like character to classic and modern cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Espresso": {
-      "type": "Coffee / mixer",
+      "type": "Beverage - Hot",
       "abv": 0,
       "notes": "Espresso is a concentrated coffee brewed by forcing hot water through finely ground coffee beans under pressure. Intense, aromatic, and slightly bitter, it is used in cocktails to add bold coffee flavor, richness, and depth.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Fernet Branca": {
-      "type": "Amaro (bitter herbal liqueur)",
+      "type": "Liqueur",
       "abv": 39,
       "notes": "Fernet-Branca is a bold Italian bitter liqueur made from a complex blend of herbs, roots, and spices. Intensely bitter and aromatic with notes of mint, herbs, and spice, it is used sparingly to add depth, bitterness, and medicinal complexity to cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Raspberry Liqueur": {
-      "type": "Liqueur (Fruit)",
+      "type": "Liqueur",
       "abv": 20,
       "notes": "Raspberry liqueur is a sweet, fruit-based liqueur made by infusing or flavoring alcohol with raspberries. It delivers vibrant red-berry aroma, bright acidity, and pronounced sweetness, with flavor intensity varying by producer. In cocktails, it is used as a modifier to add fruit depth, color, and sweetness, commonly appearing in champagne cocktails, sours, and modern fruit-forward recipes.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "White Crème De Cacao": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Liqueur",
+      "abv": 23,
+      "notes": "White crème de cacao is a clear, sweet chocolate-flavored liqueur made from cacao beans, offering cocoa aroma without dark color. It delivers smooth chocolate and vanilla notes while remaining visually neutral in cocktails. In mixed drinks, it is used as a modifier to add sweetness and chocolate depth without altering the drink’s appearance, commonly found in classic and dessert-style cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Chocolate": {
-      "type": "Garnish / flavoring",
+      "type": "Garnish",
       "abv": 0,
       "notes": "Chocolate is a cocoa-based confection made from cacao solids and cocoa butter, offering rich cocoa bitterness with varying levels of sweetness. In cocktails, it is used as a garnish or flavor accent to add depth, aroma, and dessert-style character.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Crème De Menthe": {
-      "type": "Liqueur (mint)",
+      "type": "Liqueur",
       "abv": 25,
       "notes": "Crème de Menthe is a sweet, mint-flavored liqueur known for its cooling, refreshing mint aroma and pronounced sweetness. It is used to add fresh mint character and a clean, dessert-style finish to cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "London Dry Gin": {
-      "type": "Gin (London Dry)",
+      "type": "Spirit",
       "abv": 45,
       "notes": "London Dry Gin is a style of gin defined by its production method rather than origin, characterized by a crisp, dry profile with pronounced juniper and balanced botanical notes. No artificial flavors or sweeteners are added after distillation, making it a clean, structured base for classic gin cocktails.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Grapefruit Juice": {
-      "type": "Juice / mixer (non-alcoholic)",
+      "type": "Fruit - Mixer",
       "abv": 0,
       "notes": "Packaged grapefruit juice is a filtered, pasteurized juice with bright acidity and characteristic light bitterness. Consistent and shelf-stable, it adds freshness, bitterness, and citrus structure to cocktails without the variability of fresh juice.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Espadin Mezcal": {
-      "type": "Mezcal (agave spirit)",
+      "type": "Spirit",
       "abv": 43,
       "notes": "Espadín mezcal is a traditional Mexican mezcal made from the Espadín agave (Agave angustifolia), known for its balanced smoky profile. Earthy and aromatic, it combines smoke, roasted agave, and subtle herbal notes, making it versatile for both classic and modern mezcal cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Jamaica Overproof White Rum": {
-      "type": "Rum (overproof, white)",
+      "type": "Spirit",
       "abv": 60,
       "notes": "Jamaican overproof white rum is a high-strength, unaged rum known for its intense ester-driven aroma and bold, funky character. Explosive notes of tropical fruit, banana, and spice make it a powerful accent in cocktails, typically used in small amounts for impact.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Falernum Liqueur": {
-      "type": "Spiced liqueur",
+      "type": "Liqueur",
       "abv": 13,
       "notes": "Falernum liqueur is a Caribbean spiced liqueur flavored with lime, ginger, clove, and almond. Sweet and aromatic with warm spice notes, it adds depth and classic tiki character to tropical and rum-based cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Hot Coffee": {
-      "type": "Coffee / hot beverage",
+      "type": "Beverage - Hot",
       "abv": 0,
       "notes": "Hot coffee is a freshly brewed hot beverage made from roasted coffee beans, offering bold aroma, bitterness, and roasted depth. In cocktails, it provides warmth, intensity, and rich coffee character, especially in hot or after-dinner drinks.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Dark Rum": {
-      "type": "Rum",
+      "type": "Spirit",
       "abv": 40,
       "notes": "Dark rum is a sugarcane-based spirit made from molasses and aged longer in oak barrels, often with added caramel for color. Rich and full-bodied, it delivers deep notes of caramel, molasses, spice, and dried fruit, adding depth and warmth to cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Dry White Wine": {
-      "type": "Wine (white, dry)",
+      "type": "Wine",
       "abv": 12,
       "notes": "Dry white wine is a still wine with low residual sugar, offering crisp acidity and fresh fruit character. Clean and refreshing, it is used in cocktails to add lightness, structure, and subtle fruit notes without added sweetness.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Crème De Cassis": {
-      "type": "Fruit liqueur (blackcurrant)",
+      "type": "Liqueur",
       "abv": 20,
       "notes": "Crème de Cassis is a sweet, dark liqueur made from blackcurrants, known for its deep berry aroma and rich, fruity sweetness. It is commonly used to add color, sweetness, and blackcurrant character to cocktails and sparkling wine drinks.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Green Chartreuse": {
-      "type": "Herbal liqueur",
+      "type": "Liqueur",
       "abv": 55,
       "notes": "Green Chartreuse is a powerful French herbal liqueur made from a secret blend of numerous botanicals. Intensely aromatic and complex, it delivers bold herbal, spicy, and vegetal notes, used sparingly to add depth and structure to cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Amber Jamaican Rum": {
-      "type": "Liquor",
+      "type": "Spirit",
       "abv": 40,
       "notes": "Amber Jamaican rum is a molasses-based rum lightly aged in oak, known for its bold, aromatic profile driven by high-ester fermentation. It delivers notes of ripe tropical fruit, spice, and subtle oak, adding intensity and character to cocktails while retaining a lively, expressive rum backbone.",
       "created": "",
-      "modified": "2026-01-28"
+      "modified": "2026-02-01"
     },
     "Martinique Molasses Rhum": {
-      "type": "Rum (molasses-based)",
+      "type": "Spirit",
       "abv": 45,
       "notes": "Martinique molasses rhum is a rum produced in Martinique from sugarcane molasses, offering a richer and rounder profile than agricole styles made from fresh cane juice. It delivers notes of caramel, dried fruit, spice, and subtle funk, adding depth and structure to classic and tropical cocktails.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Orange Curacao": {
-      "type": "Liqueur (Orange)",
+      "type": "Liqueur",
       "abv": 30,
       "notes": "Orange Curaçao is an orange-flavored liqueur traditionally made from the dried peels of bitter Laraha oranges, originally from the island of Curaçao. It offers a balanced profile of citrus sweetness, gentle bitterness, and subtle spice, depending on the producer and style. Commonly used as a core flavoring agent rather than a modifier, Orange Curaçao plays a key role in many classic cocktails such as the Margarita, Mai Tai, and Sidecar, contributing depth and structured orange character.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Orgeat Syrup": {
-      "type": "Syrup (Nut-Based Sweetener)",
+      "type": "Syrup",
       "abv": 0,
       "notes": "Orgeat syrup is a sweet, non-alcoholic syrup traditionally made from almonds, sugar, and orange flower water or rose water. It delivers a rich, nutty flavor with soft floral notes and a creamy mouthfeel. Orgeat is a key ingredient in classic and tiki cocktails such as the Mai Tai, where it adds depth, texture, and balanced sweetness without overpowering other flavors.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Rye Whiskey": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Spirit",
+      "abv": 45,
+      "notes": "Rye whiskey is a distilled grain spirit made primarily from rye grain, known for its dry, spicy, and assertive character. It typically features notes of black pepper, baking spices, herbal tones, and subtle sweetness, with a leaner profile compared to bourbon. Rye whiskey is a cornerstone of classic cocktails such as the Manhattan and Sazerac, where its spice and structure provide balance and definition.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "100% Agave Tequila": {
-      "type": "Liquor",
+      "type": "Spirit",
       "abv": 40,
       "notes": "100% agave tequila is made solely from the fermented sugars of Blue Weber agave (Agave tequilana Weber), with no added cane sugar or corn syrup. Bottled only within Mexico’s designated tequila regions, it delivers a cleaner, richer, and more authentic agave flavor than mixto tequilas.",
       "created": "",
-      "modified": "2026-01-28"
+      "modified": "2026-02-01"
     },
     "Maraschino Liqueur": {
-      "type": "Fruit liqueur (cherry)",
+      "type": "Liqueur",
       "abv": 32,
       "notes": "Maraschino liqueur is a clear, lightly sweet liqueur distilled from Marasca cherries, including the pits, which give it a distinctive dry, almond-like character. Aromatic and subtly complex, it is used in small amounts to add depth and balance to classic cocktails.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Beer (Light Lager)": {
-      "type": "Beer (light lager)",
+      "type": "Beer",
       "abv": 4,
       "notes": "Light lager is a pale, highly carbonated lager beer with low bitterness, mild malt character, and a clean, refreshing finish. Designed to be easy-drinking and low in intensity, it is often used as a neutral beer base in mixed drinks or beer cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Hot Sauce": {
-      "type": "Seasoning / condiment",
+      "type": "Condiment",
       "abv": 0,
       "notes": "Hot sauce is a spicy condiment made from chili peppers, vinegar, and seasonings. Used in small amounts in cocktails, it adds heat, acidity, and savory depth, commonly enhancing savory and spice-forward drinks.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Salt": {
-      "type": "",
+      "type": "Mineral",
       "abv": 0,
-      "notes": "",
+      "notes": "Salt is a mineral seasoning used in cocktails to enhance flavor perception and balance sweetness, acidity, and bitterness. Applied as a rim, dissolved solution, or minor accent, it heightens aroma and suppresses harshness without adding flavor of its own when used correctly. Salt is commonly used in drinks such as the Margarita and in modern cocktail techniques to improve overall structure and drinkability.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Fresh Mint": {
-      "type": "Fresh herb / garnish",
+      "type": "Herb",
       "abv": 0,
       "notes": "Fresh mint is an aromatic herb used in cocktails for its bright, cooling aroma and refreshing herbal flavor. Commonly muddled or used as a garnish, it adds freshness and lift, especially in citrus- and spirit-forward drinks.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-01-31"
     },
     "Sugar Powder": {
-      "type": "",
+      "type": "Sweetener",
       "abv": 0,
-      "notes": "",
+      "notes": "Sugar powder, also known as powdered or icing sugar, is finely ground sugar with a very small particle size that dissolves quickly in liquids. In cocktails, it is used to achieve rapid sweetness integration, particularly in shaken drinks, froths, and classic preparations where smooth texture is desired. It provides clean sweetness without additional flavor.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Smirnoff Vodka": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Spirit",
+      "abv": 40,
+      "notes": "Smirnoff Vodka is a widely known, triple-distilled vodka originally established in Russia and now produced internationally. It is characterized by a clean, neutral profile with minimal aroma and a smooth, light mouthfeel. Designed for versatility, it is commonly used as a base spirit in a wide range of cocktails, where it provides alcohol structure without influencing the drink’s flavor profile.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Mezcal": {
-      "type": "Agave spirit (mezcal)",
+      "type": "Spirit",
       "abv": 45,
       "notes": "Mezcal is a Mexican agave spirit traditionally produced using roasted agave hearts, which give it its distinctive smoky character. Complex and aromatic, it offers earthy, herbal, and mineral notes, adding depth and boldness to cocktails.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Yellow Chartreuse": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Liqueur",
+      "abv": 40,
+      "notes": "Yellow Chartreuse is a French herbal liqueur made by Carthusian monks using a secret blend of botanicals. It is softer, sweeter, and lower in alcohol than Green Chartreuse, with a round profile featuring honeyed sweetness, floral notes, gentle spice, and mild herbal complexity. In cocktails, Yellow Chartreuse is used as a modifier to add warmth, sweetness, and layered herbal character without overpowering other ingredients.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Light Rum": {
-      "type": "Rum (light / white)",
+      "type": "Spirit",
       "abv": 40,
       "notes": "Light rum is a clear or lightly aged rum distilled from sugarcane byproducts, typically filtered to remove color. Clean, mild, and subtly sweet, it provides a neutral rum base that blends easily in cocktails without dominating other flavors.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Demerara Rum": {
-      "type": "Rum",
+      "type": "Spirit",
       "abv": 40,
       "notes": "Demerara rum is a rich, full-bodied rum traditionally produced in Guyana from molasses. Known for its deep flavors of brown sugar, molasses, spice, and dark fruit, it adds weight and intensity to classic and tiki-style cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Red Wine": {
-      "type": "Fortified Wine (Tawny Port)",
-      "abv": 20,
-      "notes": "Red Tawny Port is a Portuguese fortified wine aged oxidatively in wooden barrels, giving it a lighter color and a complex, nutty flavor profile compared to ruby styles. It features notes of dried fruit, caramel, nuts, and gentle spice, with a smooth, mellow sweetness. In cocktails, tawny port is used as a low-ABV modifier or base, adding depth, richness, and oxidative complexity to both classic and modern recipes.",
+      "type": "Wine",
+      "abv": 14,
+      "notes": "Red wine is a fermented alcoholic beverage made from dark-skinned grape varieties, with color, tannins, and flavor extracted from grape skins during fermentation. It offers a wide range of profiles depending on grape, region, and style, commonly featuring notes of red or dark fruit, spice, and varying levels of acidity and tannin. In cocktails, red wine is used selectively as a modifier or float, adding body, color, and vinous depth in drinks such as sangria and wine-based cocktails.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Aged Rum": {
-      "type": "Liquor",
+      "type": "Spirit",
       "abv": 40,
       "notes": "Aged rum is distilled from sugarcane byproducts and matured in oak barrels, developing deeper flavors of vanilla, caramel, spice, and dried fruit. The aging process adds smoothness and complexity, making aged rum well suited for sipping and for cocktails that call for richer, more rounded character.",
       "created": "",
-      "modified": "2026-01-28"
+      "modified": "2026-02-01"
     },
     "Brut Champagne or Prosecco": {
-      "type": "Sparkling wine",
+      "type": "Wine - Sparkling",
       "abv": 12,
       "notes": "Brut Champagne and Prosecco are dry sparkling wines known for their bright acidity, fine bubbles, and crisp, refreshing character. Both add effervescence, light fruit notes, and structure to cocktails, making them ideal for spritzes and sparkling wine–based drinks.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-01-31"
     },
     "Coconut Cream": {
-      "type": "Sweetened coconut cream / mixer",
+      "type": "Mixer",
       "abv": 0,
       "notes": "Coconut cream (Coco López) is a thick, sweetened cream made from coconut milk and sugar. Rich and silky with pronounced coconut flavor, it adds body, sweetness, and tropical character to cocktails, especially blended and tiki-style drinks.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Pink Grapefruit Soda": {
-      "type": "Carbonated Soft Drink (Citrus)",
+      "type": "Soft Drink - Carbonated",
       "abv": 0,
       "notes": "Pink grapefruit soda is a non-alcoholic, carbonated beverage flavored with pink grapefruit, offering a balance of bright citrus acidity, light bitterness, and gentle sweetness. It provides freshness and effervescence while softening grapefruit’s sharper edges. In cocktails, it is commonly used as a mixer in highballs and spritz-style drinks, adding lift, citrus complexity, and a refreshing finish without increasing alcohol strength.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Blended Scotch Whisky": {
-      "type": "Whisky (Scotch, blended)",
+      "type": "Spirit",
       "abv": 40,
       "notes": "Blended Scotch whisky is a whisky made by combining malt and grain whiskies from different distilleries in Scotland. Designed for balance and consistency, it offers smooth malt sweetness, light smoke, and gentle grain character, making it versatile for both sipping and mixing.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Lagavulin 16 y Whisky": {
-      "type": "Whisky (Scotch, single malt)",
+      "type": "Spirit",
       "abv": 43,
       "notes": "Lagavulin 16 Year Old is a heavily peated Islay single malt Scotch whisky aged for sixteen years in oak barrels. Deeply smoky and complex, it delivers intense peat smoke, maritime notes, dried fruit, and rich oak, often used sparingly or as a bold base in spirit-forward cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Fresh Ginger": {
-      "type": "Fresh ingredient / spice",
+      "type": "Root",
       "abv": 0,
       "notes": "Fresh ginger is the aromatic root of the ginger plant, valued for its bright, spicy heat and zesty freshness. In cocktails, it adds sharp warmth, lively aroma, and natural spice, commonly used muddled, juiced, or infused.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-01-31"
     },
     "Jamaican Rum": {
-      "type": "Rum",
+      "type": "Spirit",
       "abv": 45,
-      "notes": "Rum",
+      "notes": "Jamaican rum is a molasses-based rum known for its bold, aromatic profile driven by traditional fermentation methods that produce high ester levels. Characterized by ripe tropical fruit, banana, spice, and funky complexity, it adds intensity and distinctive character to cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Sugarcane Juice": {
-      "type": "",
+      "type": "Mixer",
       "abv": 0,
-      "notes": "",
+      "notes": "Sugarcane juice is the fresh, pressed juice extracted from sugarcane stalks. It has a naturally sweet, grassy, and vegetal flavor with high sugar content. In cocktails, it is used primarily in fresh preparations or regional styles, contributing authentic sugarcane character and serving as a base or sweetening element, particularly in drinks inspired by agricole rum traditions.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Red Tawny Port Wine": {
-      "type": "Fortified Wine (Tawny Port)",
+      "type": "Aperitif",
       "abv": 20,
       "notes": "Red Tawny Port is a Portuguese fortified wine aged oxidatively in wooden barrels, giving it a lighter color and a complex, nutty flavor profile compared to ruby styles. It features notes of dried fruit, caramel, nuts, and gentle spice, with a smooth, mellow sweetness. In cocktails, tawny port is used as a low-ABV modifier or base, adding depth, richness, and oxidative complexity to both classic and modern recipes.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Egg Yolk": {
-      "type": "Texturizer / ingredient",
+      "type": "Mixer",
       "abv": 0,
       "notes": "Egg yolk is used in cocktails to add richness, weight, and a creamy mouthfeel. Its fat content softens alcohol and acidity, creating a lush, dessert-like texture in classic rich cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Orange Flower Water": {
-      "type": "Aromatic Water (Floral Extract)",
+      "type": "Extract",
       "abv": 0,
       "notes": "Orange flower water is a non-alcoholic aromatic distillate made from the blossoms of bitter orange trees. It delivers an intense floral aroma with light citrus and herbal nuances, used in very small quantities due to its potency. In cocktails, it functions as a perfume-like accent rather than a flavor base, commonly found in classic and historical recipes to add elegance, lift, and aromatic complexity without sweetness or alcohol.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Vanilla Extract": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Extract",
+      "abv": 35,
+      "notes": "Vanilla extract is a concentrated flavoring made by macerating vanilla beans in alcohol. It delivers intense vanilla aroma with warm, sweet, and slightly woody notes. In cocktails, it is used in very small quantities to add depth and dessert-like character, commonly in creamy, coffee, or spiced drinks, where it enhances sweetness perception without adding sugar.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Sparkling Wine": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Wine - Sparkling",
+      "abv": 12,
+      "notes": "Sparkling wine is a wine that contains dissolved carbon dioxide, creating natural effervescence. It can be produced using various methods and grape varieties, resulting in styles that range from dry to sweet and from light to complex. In cocktails, sparkling wine is commonly used to add freshness, lift, and elegance, serving as a base or topper in spritzes and classic sparkling cocktails.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-31"
     },
     "Drambuie": {
-      "type": "Herbal liqueur (whisky-based)",
+      "type": "Liqueur",
       "abv": 40,
       "notes": "Drambuie is a Scottish liqueur made from Scotch whisky, honey, herbs, and spices. Smooth and gently sweet with warming herbal notes, it adds richness and depth to classic cocktails and spirit-forward serves.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Peychaud's Bitters": {
-      "type": "Bitters (Aromatic)",
+      "type": "Bitters - Aromatic",
       "abv": 35,
       "notes": "Peychaud’s Bitters are a classic New Orleans–style aromatic bitters originally created in the 19th century. They feature a distinctive profile of gentian bitterness combined with bright anise, cherry, and subtle floral notes. Used in small dashes, Peychaud’s Bitters are essential in classic cocktails such as the Sazerac, where they provide color, aroma, and a lightly sweet-spiced bitterness that differs from Angostura-style bitters.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-01-31"
     },
     "Seasonal Fruit": {
-      "type": "",
+      "type": "Fruit",
       "abv": 0,
-      "notes": "",
+      "notes": "Seasonal fruit refers to fresh fruits used at their peak ripeness and availability throughout the year, varying by region and season. They offer optimal flavor, aroma, and natural sweetness compared to out-of-season produce. In cocktails, seasonal fruits are used for fresh juice, muddling, garnishes, or infusions, enhancing drinks with natural character, freshness, and a sense of seasonality while supporting sustainable and cost-effective bar practices.",
       "created": "",
-      "modified": ""
+      "modified": "2026-01-31"
     },
     "Beer (Lager)": {
       "type": "Beer",
       "abv": 5,
       "notes": "Lager is a style of beer fermented with bottom-fermenting yeast at cooler temperatures, resulting in a clean, crisp flavor and smooth finish. It is typically light-bodied, moderately carbonated, and widely used both as a refreshing standalone beer and in beer-based cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Lemonade": {
-      "type": "Soft drink / mixer",
+      "type": "Soft Drink - Carbonated",
       "abv": 0,
       "notes": "Lemonade is a sweetened lemon-based beverage with balanced acidity and refreshing citrus flavor. Used as a mixer, it adds sweetness, freshness, and light effervescence (if carbonated) to long drinks and casual cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Sherry": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Aperitif",
+      "abv": 17,
+      "notes": "Sherry is a fortified wine produced in southern Spain, primarily from Palomino grapes, with styles ranging from dry to sweet. Dry styles such as Fino and Manzanilla are light, crisp, and saline, while aged styles like Amontillado and Oloroso offer nutty, oxidative complexity, and sweeter styles provide richness and depth. In cocktails, sherry is used as a low-ABV base or modifier, adding structure, umami, and layered flavor without excessive alcohol strength.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Cherry Liqueur": {
-      "type": "Fruit liqueur",
+      "type": "Liqueur",
       "abv": 25,
       "notes": "Cherry liqueur is a sweet, fruit-based liqueur made from cherries or cherry flavorings, offering rich red-fruit notes with varying levels of sweetness and subtle almond undertones. It is used to add depth, color, and fruity complexity to cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Benedictine": {
-      "type": "Herbal liqueur",
+      "type": "Liqueur",
       "abv": 40,
       "notes": "Bénédictine is a French herbal liqueur made from a complex blend of herbs, spices, and honey. Rich, aromatic, and gently sweet, it adds depth, warmth, and layered herbal complexity to classic cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Vodka Vanilla": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Spirit",
+      "abv": 38,
+      "notes": "Vodka Vanilla is a flavored vodka infused or blended with vanilla flavoring, combining a neutral vodka base with warm, sweet aromatic notes. It offers a smooth, dessert-like character while remaining relatively dry compared to liqueurs. In cocktails, it is used as a base spirit to add vanilla aroma and roundness, commonly appearing in creamy, coffee, or dessert-style drinks.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Elderflower Cordial": {
-      "type": "Cordial / syrup (non-alcoholic)",
+      "type": "Syrup",
       "abv": 0,
       "notes": "Elderflower cordial is a floral, lightly sweet syrup made from elderflower blossoms, offering delicate aromas and fresh, perfumed sweetness. It is used to add elegant floral notes and softness to cocktails without overpowering the base spirit.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Monin Honey Syrup": {
-      "type": "Syrup (Flavored Sweetener)",
+      "type": "Syrup",
       "abv": 0,
       "notes": "Monin Honey Syrup is a non-alcoholic sweetening syrup designed to replicate the flavor and aroma of natural honey in a consistent, easy-to-use liquid form. It offers smooth floral sweetness with light caramel and nectar notes, without the viscosity or crystallization of real honey. Commonly used in cocktails, coffee, tea, and lemonades, it integrates easily into cold or hot beverages, providing honey character while maintaining precise sweetness control and stable mixing performance.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Red Chili Pepper": {
-      "type": "Spice (Fresh or Dried Chili)",
+      "type": "Spice",
       "abv": 0,
       "notes": "Red chili pepper is a pungent spice used to introduce heat and sharp vegetal character into cocktails. It delivers varying levels of capsaicin-driven spiciness depending on variety and preparation, with subtle fruity and smoky notes when dried. In cocktails, red chili pepper is used sparingly—infused, muddled, or as a garnish—to add controlled heat, contrast, and complexity, particularly in savory, agave-based, or modern spicy drinks.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-01-31"
     },
     "White Crème De Menthe": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Liqueur",
+      "abv": 23,
+      "notes": "White crème de menthe is a clear, sweet mint-flavored liqueur with a bright, cooling peppermint profile. Unlike green crème de menthe, it adds mint flavor without color. In cocktails, it is used as a modifier to introduce sweetness and refreshing mint notes, commonly appearing in classic and dessert-style drinks where visual clarity is important.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Lemon": {
-      "type": "Fresh fruit / citrus",
+      "type": "Fruit",
       "abv": 0,
       "notes": "Lemon is a citrus fruit valued in cocktails for its bright acidity, fresh aroma, and clean, sharp flavor. Used as juice, peel, or garnish, it provides balance, freshness, and aromatic lift in a wide range of drinks.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-01-31"
     },
     "100% Agave Tequila Reposado": {
-      "type": "Liquor",
+      "type": "Spirit",
       "abv": 40,
       "notes": "100% agave Reposado tequila is made exclusively from Blue Weber agave (Agave tequilana Weber) and aged in oak barrels for at least two months. This resting period softens the spirit and adds subtle notes of vanilla, caramel, and light spice, while preserving the core agave character—making it smoother and more rounded than Blanco tequila.",
       "created": "",
-      "modified": "2026-01-28"
+      "modified": "2026-02-01"
     },
     "Agave Syrup": {
       "type": "Syrup",
@@ -5960,116 +5960,116 @@
       "modified": "2026-01-28"
     },
     "White Smooth Grappa": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Spirit",
+      "abv": 43,
+      "notes": "White smooth grappa is an unaged Italian grape pomace spirit distilled from the skins, seeds, and stems left after winemaking. Being unaged, it remains clear in color and emphasizes fresh grape, floral, and light herbal notes with a clean, refined character. In cocktails, smooth-style grappa is used sparingly as a base or modifier, adding distinctive grape aromatics and dry structure without the heavy intensity of more rustic grappa styles.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Honey Mix": {
-      "type": "Sweetener / syrup",
+      "type": "Syrup",
       "abv": 0,
       "notes": "Honey mix is a liquid sweetener made by diluting honey with water to improve pourability and solubility. It retains honey’s floral sweetness while blending easily into cold cocktails, commonly used as a balanced alternative to simple syrup.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Chamomile Cordial": {
-      "type": "Cordial / syrup (non-alcoholic)",
+      "type": "Syrup",
       "abv": 0,
       "notes": "Chamomile cordial is a floral, lightly sweet syrup made by infusing chamomile flowers, offering soft herbal notes with gentle honey-like and apple nuances. It is used to add delicate aromatics and subtle sweetness to cocktails without overpowering the base spirit.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Jamaican Dark Rum": {
-      "type": "Rum (dark)",
+      "type": "Spirit",
       "abv": 43,
       "notes": "Jamaican dark rum is a richly flavored rum made from molasses and aged in oak, known for its high-ester fermentation and bold, funky character. Deep notes of ripe tropical fruit, molasses, spice, and oak add intensity and depth to cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Gold Puerto Rican Rum": {
-      "type": "Rum",
+      "type": "Spirit",
       "abv": 40,
       "notes": "Gold Puerto Rican rum is a lightly aged molasses-based rum known for its clean, smooth profile and balanced character. Subtle notes of vanilla, caramel, and light oak complement a dry, approachable style, making it versatile for a wide range of cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Donn's Mix": {
-      "type": "Syrup / tiki mixer (non-alcoholic)",
+      "type": "Syrup",
       "abv": 0,
       "notes": "Donn’s Mix is a classic tiki syrup created by blending grapefruit juice with cinnamon syrup. Bright, spicy, and slightly bitter-sweet, it adds depth, structure, and signature tiki character to tropical cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Pernod": {
-      "type": "Anise-Flavored Spirit (Pastis)",
+      "type": "Spirit",
       "abv": 40,
       "notes": "Pernod is a French anise-flavored spirit classified as a pastis, made with star anise and a blend of aromatic herbs and botanicals. It delivers a pronounced licorice character with herbal complexity and a dry, aromatic finish. Traditionally served diluted with cold water, Pernod turns cloudy (louche effect) when mixed. In cocktails, it is used sparingly as a modifier or rinse to add anise depth and aromatic intensity rather than sweetness.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Fresh Grapefruit Slice": {
-      "type": "Fresh juice / mixer",
+      "type": "Fruit - Garnish",
       "abv": 0,
       "notes": "Fresh grapefruit juice is freshly pressed citrus juice with bright acidity, light bitterness, and subtle sweetness. Its crisp, slightly bitter profile adds freshness and balance to cocktails, especially with agave spirits and bitters.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Jack Daniel's": {
-      "type": "Whiskey (Tennessee)",
+      "type": "Spirit",
       "abv": 0,
       "notes": "Jack Daniel’s is a Tennessee whiskey known for its smooth character, achieved through charcoal mellowing before aging in new charred oak barrels. It offers notes of vanilla, caramel, toasted oak, and gentle sweetness, making it widely used for sipping and classic whiskey cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Sambuca": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Liqueur",
+      "abv": 40,
+      "notes": "Sambuca is a sweet Italian anise-flavored liqueur made with star anise and other botanicals. It delivers a pronounced licorice aroma, rich sweetness, and a smooth, viscous mouthfeel. Traditionally served neat, with coffee beans, or diluted with water, sambuca is also used in cocktails as a strong flavor modifier, adding intense anise character and sweetness in small quantities.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Whipped Cream": {
-      "type": "",
+      "type": "Dairy",
       "abv": 0,
-      "notes": "",
+      "notes": "Whipped cream is aerated heavy cream with a light, fluffy texture and mild sweetness. In cocktails, it is used primarily as a topping or garnish, adding richness, softness, and visual contrast. It is commonly found in dessert-style, coffee, and layered drinks, where it enhances mouthfeel and rounds sharp or bitter flavors.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Maraschino Cherry": {
-      "type": "Garnish (fruit)",
+      "type": "Garnish",
       "abv": 0,
       "notes": "A maraschino cherry is a preserved, sweetened cherry commonly used as a cocktail garnish. It adds bright color, subtle sweetness, and a hint of almond-like aroma, especially in classic and dessert-style cocktails.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Apple Wedge": {
-      "type": "Garnish (fruit)",
+      "type": "Fruit - Garnish",
       "abv": 0,
       "notes": "An apple wedge is a fresh-cut fruit garnish that adds crisp apple aroma, light sweetness, and visual contrast to cocktails and mixed drinks. It is commonly used as a rim or side garnish, especially with whiskey- or apple-based cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Bass Ale": {
-      "type": "Beer (English pale ale)",
+      "type": "Beer",
       "abv": 5,
       "notes": "Bass Ale is a classic English pale ale known for its balanced malt sweetness, gentle hop bitterness, and dry, clean finish. Smooth and lightly carbonated, it offers subtle fruity and biscuity notes typical of traditional British ales.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "American Pilsner": {
-      "type": "Beer Lager",
+      "type": "Beer",
       "abv": 5,
       "notes": "American Pilsner is a light, crisp lager beer with clean malt character, mild hop bitterness, and a dry, refreshing finish. Its high carbonation and neutral profile make it refreshing on its own and suitable for beer-based cocktails.",
       "created": "",
-      "modified": "2026-01-28"
+      "modified": "2026-02-01"
     },
     "Overproof Rum": {
-      "type": "Rum (High-Proof)",
+      "type": "Spirit",
       "abv": 65,
       "notes": "Overproof rum is a category of rum bottled at a significantly higher alcohol content than standard rum, typically above 57% ABV. It is produced in various styles and origins, offering intense alcohol strength alongside concentrated sugarcane, molasses, and ester-driven flavors. In cocktails, overproof rum is used sparingly to add power, aroma, and structure, or as a float for aromatic impact, particularly in tiki and tropical drinks.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Beer": {
       "type": "Beer",
@@ -6079,270 +6079,270 @@
       "modified": "2026-01-29"
     },
     "Molson Canadian beer": {
-      "type": "Beer (lager)",
+      "type": "Beer",
       "abv": 5,
       "notes": "Molson Canadian is a classic Canadian lager known for its clean, crisp profile and light malt character. Smooth and highly drinkable, it offers mild bitterness and a refreshing finish, making it suitable both as a standalone beer and as a light base in beer cocktails.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Canadian Club Whiskey": {
-      "type": "Whisky (Canadian)",
+      "type": "Spirit",
       "abv": 40,
       "notes": "Canadian Club is a smooth Canadian whisky known for its light body and balanced profile. It offers gentle notes of caramel, vanilla, and soft grain, with minimal harshness, making it approachable for both sipping and mixing in cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Jameson Irish Whiskey": {
-      "type": "Whiskey (Irish)",
+      "type": "Spirit",
       "abv": 40,
       "notes": "Jameson Irish Whiskey is a smooth, approachable Irish whiskey known for its triple distillation and balanced character. It offers soft notes of vanilla, honey, light spice, and toasted wood, making it versatile for sipping and mixing.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Sour Cherries": {
-      "type": "",
+      "type": "Fruit",
       "abv": 0,
-      "notes": "",
+      "notes": "Sour cherries are a tart variety of cherry characterized by high acidity and sharp, bright flavor. In cocktails, they are commonly used fresh, preserved, or as garnishes, contributing vibrant fruit notes and balancing sweetness in mixed drinks. Sour cherries are also a traditional base for syrups and infusions, adding depth, color, and pronounced acidity.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Lime Wedge": {
-      "type": "Garnish (citrus)",
+      "type": "Fruit - Garnish",
       "abv": 0,
       "notes": "A lime wedge is a fresh-cut citrus garnish used to add bright acidity, fresh aroma, and visual appeal. It can be squeezed into the drink or served on the rim to enhance freshness and balance.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Peach Bitters": {
-      "type": "Bitters (Fruit / Aromatic)",
+      "type": "Bitters - Aromatic",
       "abv": 40,
       "notes": "Peach bitters are an alcoholic bittering agent made by infusing peach or peach stone character with herbs, spices, and botanicals in high-proof alcohol. They deliver delicate stone-fruit aroma balanced by gentle bitterness and subtle spice. Used in small quantities, peach bitters add nuance and depth to cocktails, especially in whiskey- and brandy-based drinks, enhancing fruit notes without adding sweetness.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-01-31"
     },
     "Peach slice": {
-      "type": "Fruit Garnish (Stone Fruit)",
+      "type": "Fruit - Garnish",
       "abv": 0,
       "notes": "A peach slice is a fresh cut portion of peach used primarily as a garnish in cocktails and mixed drinks. It provides soft stone-fruit aroma, gentle sweetness, and visual appeal without significantly affecting the drink’s balance. Peach slices are commonly used in summer cocktails, spritzes, and fruit-forward serves to reinforce flavor and enhance presentation.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Pineapple Juice": {
-      "type": "Juice (Packaged / Processed)",
+      "type": "Fruit - Mixer",
       "abv": 0,
       "notes": "Packaged pineapple juice is a commercially processed juice made from pineapple, typically pasteurized for shelf stability. Compared to fresh juice, it has a more consistent sweetness and acidity but reduced brightness and aromatic complexity. In cocktails, it is valued for reliability, ease of use, and stable flavor, commonly used in tropical and high-volume bar drinks where consistency and speed are prioritized over fresh fruit expression.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Fresh Passion Fruit": {
-      "type": "Fresh fruit / tropical ingredient",
+      "type": "Fruit",
       "abv": 0,
       "notes": "Fresh passion fruit is a tropical fruit with intense aroma, bright acidity, and distinctive sweet-tart flavor. Used for its juice or pulp, it adds vibrant tropical character, freshness, and complexity to cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-01-31"
     },
     "Sake": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Wine - Rice",
+      "abv": 15,
+      "notes": "Sake is a traditional Japanese alcoholic beverage produced by brewing polished rice, using a fermentation process similar to beer rather than wine. It offers a wide range of styles, from dry to sweet and from light to full-bodied, with flavor notes that may include rice, melon, pear, floral, and umami characteristics. In cocktails, sake is used as a low- to mid-ABV base or modifier, adding softness, texture, and subtle complexity without dominating other ingredients.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Green Olive": {
-      "type": "Garnish (savory)",
+      "type": "Fruit - Garnish",
       "abv": 0,
       "notes": "A green olive is a cured olive fruit with a firm texture and savory, briny flavor. Commonly used as a garnish, it adds salinity, aroma, and a savory note to cocktails, especially in martini-style drinks.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Banana Rum": {
-      "type": "Flavored rum",
+      "type": "Spirit",
       "abv": 25,
       "notes": "Banana rum is a sweet, fruit-flavored rum infused or blended with banana flavor, offering ripe tropical fruit notes and soft sweetness. It is commonly used to add playful, dessert-like character to tropical cocktails and sweet mixed drinks.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Lime Slice": {
-      "type": "Garnish (citrus)",
+      "type": "Fruit - Garnish",
       "abv": 0,
       "notes": "A lime slice is a thin-cut piece of fresh lime used as a garnish to add subtle citrus aroma, light acidity, and visual freshness. It enhances presentation and can gently influence flavor when placed on or in the drink.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Edible Flower": {
-      "type": "Garnish (floral)",
+      "type": "Garnish",
       "abv": 0,
       "notes": "Edible flowers are fresh or dried blossoms used as garnishes to add delicate aroma, subtle flavor, and visual elegance to cocktails. They enhance presentation while contributing light floral notes without overpowering the drink.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Moonstone Asian Pear Sake": {
-      "type": "Sake (Flavored / Fruit-Infused)",
+      "type": "Wine - Rice",
       "abv": 12,
       "notes": "Moonstone Asian Pear Sake is a lightly sweet, fruit-infused sake made with premium rice and natural Asian pear flavor. It has a soft, aromatic profile with crisp pear notes, gentle rice sweetness, and a smooth, clean finish. Lower in alcohol than traditional sake, it is designed to be approachable and versatile, suitable for sipping chilled or incorporating into light, refreshing cocktails where delicate fruit character and subtle sweetness are desired.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Crater Lake Vodka": {
-      "type": "Vodka",
+      "type": "Spirit",
       "abv": 40,
       "notes": "Crater Lake Vodka is a premium American vodka distilled for purity and smoothness, with a clean, neutral profile and subtle sweetness. Its balanced character makes it suitable both for sipping and for cocktails where clarity and softness are essential.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Jasmine Syrup": {
-      "type": "Syrup / sweetener (floral, non-alcoholic)",
+      "type": "Syrup",
       "abv": 0,
       "notes": "Jasmine syrup is a floral syrup infused with jasmine flowers or jasmine tea, offering delicate aromatic sweetness and soft floral notes. Used sparingly, it adds elegance and a perfumed lift to cocktails without overpowering the base spirit.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Momokawa Pearl Sake": {
-      "type": "Sake (Nigori / Genshu-style)",
+      "type": "Wine - Rice",
       "abv": 18,
       "notes": "Momokawa Pearl is an unfiltered Japanese sake (nigori), characterized by its cloudy appearance and rich, creamy texture. It is brewed in a genshu style, meaning it is undiluted after fermentation, resulting in a higher alcohol content and fuller body. The flavor profile is smooth and softly sweet, with notes of coconut, vanilla rice, and subtle tropical fruit. Its natural rice sediment gives it a silky mouthfeel, making it suitable for sipping chilled or for use in modern cocktails where body and mild sweetness are desired.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Coconut Syrup": {
-      "type": "Syrup / sweetener (non-alcoholic)",
+      "type": "Syrup",
       "abv": 0,
       "notes": "Coconut syrup is a sweet, non-alcoholic syrup flavored with coconut, offering smooth tropical sweetness without the richness of coconut cream. It is used to add coconut flavor and sweetness to cocktails and mixed drinks while keeping a lighter texture.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Half & Half (Milk & Cream)": {
-      "type": "Dairy / mixer",
+      "type": "Dairy",
       "abv": 0,
       "notes": "Half & Half is a dairy product made from equal parts milk and cream, offering light richness with a smooth, pourable texture. In cocktails, it adds softness and body without the heaviness of full cream, commonly used in creamy or dessert-style drinks.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Seagram's Gin": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Spirit",
+      "abv": 40,
+      "notes": "Seagram’s Gin is an American-produced gin made in a classic London Dry–inspired style, featuring a clean juniper-forward profile with subtle citrus and spice botanicals. It is known for its smooth, approachable character and balanced dryness, making it versatile for mixing. Commonly used as a reliable base spirit in highballs and classic gin cocktails, it provides structure and clarity without overpowering other ingredients.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Bombay Sapphire Gin": {
-      "type": "Gin (London Dry)",
+      "type": "Spirit",
       "abv": 40,
       "notes": "Bombay Sapphire is a premium London Dry–style gin distilled with a balanced blend of botanicals, including juniper, citrus peel, coriander, and spices. Clean and aromatic with a smooth finish, it is widely used in classic gin cocktails and long drinks.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Chilled Margarita Mix": {
-      "type": "Mixer (non-alcoholic)",
+      "type": "Mixer",
       "abv": 0,
       "notes": "Chilled margarita mix is a pre-made blend of citrus juice and sweeteners designed to replicate the classic sweet-sour balance of a Margarita. Consistent and ready to use, it provides acidity and sweetness without the need for fresh citrus preparation.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Sweet & Sour mix": {
-      "type": "",
+      "type": "Mixer",
       "abv": 0,
-      "notes": "",
+      "notes": "Sweet & Sour mix is a non-alcoholic mixer made from a combination of sweet and sour components, typically sugar and citrus juice. It provides balanced acidity and sweetness in a single ingredient, designed for speed and consistency in high-volume cocktail preparation. In cocktails, it is commonly used as a shortcut replacement for fresh citrus and sweetener, offering convenience at the expense of fresh flavor complexity.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Pineapple Wedge": {
-      "type": "Fruit Garnish (Tropical)",
+      "type": "Fruit - Garnish",
       "abv": 0,
       "notes": "A pineapple wedge is a thick cut portion of pineapple fruit used as a garnish in cocktails and long drinks. It provides fresh tropical aroma, mild sweetness, and visual impact, and may release a small amount of juice when squeezed or muddled. Pineapple wedges are commonly used in tiki, tropical, and summer cocktails to reinforce flavor and enhance presentation.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Midori": {
-      "type": "Fruit liqueur (melon)",
+      "type": "Liqueur",
       "abv": 20,
       "notes": "Midori is a bright green melon-flavored liqueur known for its intense sweetness and fresh, candy-like melon aroma. Light and approachable, it is used to add vivid color, sweetness, and fruity character to cocktails.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Pimms": {
-      "type": "Liqueur (Herbal / Aperitif)",
+      "type": "Liqueur",
       "abv": 25,
       "notes": "Pimm’s is a British herbal liqueur traditionally based on gin and infused with a proprietary blend of herbs, spices, and citrus. It offers a light, refreshing profile with notes of orange, gentle spice, and subtle bitterness, designed for long drinks rather than sipping neat. Most commonly served as Pimm’s Cup with mixers and fresh fruit, it is used in cocktails to add low-alcohol complexity, freshness, and aperitif-style character.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Orange Wedge": {
-      "type": "Fruit Garnish (Citrus)",
+      "type": "Fruit - Garnish",
       "abv": 0,
       "notes": "An orange wedge is a thicker cut segment of orange fruit, commonly used as a garnish in cocktails and long drinks. It provides light citrus aroma and a small amount of fresh juice when squeezed or muddled, adding gentle sweetness and acidity. Orange wedges are frequently used in casual serves, highballs, and classic bar drinks where visual presence and optional interaction with the drink are desired.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Zubrowka Vodka": {
-      "type": "",
-      "abv": 0,
-      "notes": "",
+      "type": "Spirit",
+      "abv": 40,
+      "notes": "Żubrówka is a Polish flavored vodka infused with bison grass (Hierochloë odorata), traditionally featuring a single blade of grass in the bottle. It has a distinctive aromatic profile with notes of vanilla, almond, fresh grass, and light herbal sweetness. In cocktails, Żubrówka is used as a base spirit or modifier to add subtle herbal and vanilla-like character, pairing especially well with apple and citrus flavors.",
       "created": "",
-      "modified": ""
+      "modified": "2026-02-01"
     },
     "Krupnik Liqueur": {
-      "type": "Herbal liqueur (honey-based)",
+      "type": "Liqueur",
       "abv": 40,
       "notes": "Krupnik is a traditional Polish honey liqueur flavored with herbs and spices. Smooth, warming, and gently sweet, it combines honey richness with subtle spice notes, making it suitable for sipping or adding depth to spirit-forward cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Apple juice": {
-      "type": "Juice / mixer (non-alcoholic)",
+      "type": "Fruit - Mixer",
       "abv": 0,
       "notes": "Packaged apple juice is a filtered, pasteurized juice made from pressed apples, offering clean sweetness with mild acidity and a consistent flavor profile. Its smooth, non-fibrous texture makes it easy to mix and a common non-alcoholic sweetener or base in cocktails and long drinks.",
       "created": "",
-      "modified": "2026-01-28"
+      "modified": "2026-02-01"
     },
     "Dubonnet": {
-      "type": "Aromatized wine / aperitif",
+      "type": "Aperitif",
       "abv": 17,
       "notes": "Dubonnet is a French aromatized wine aperitif made from fortified wine infused with herbs, spices, and quinine. Smooth and gently bitter-sweet, it adds herbal depth, subtle sweetness, and structure to classic aperitif-style cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Orange Peel": {
-      "type": "Citrus Peel (Garnish / Aromatic)",
+      "type": "Fruit - Garnish",
       "abv": 0,
       "notes": "Orange peel refers to the outer zest of the orange fruit, rich in essential oils that provide bright citrus aroma and mild bitterness. In cocktails, it is commonly used as a garnish, either expressed over the drink to release aromatic oils or used as a twist for visual and aromatic enhancement. Orange peel contributes aroma rather than sweetness or acidity, playing a key role in the balance and presentation of many classic cocktails such as the Old Fashioned and Negroni.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Lemon Peel": {
-      "type": "Garnish / citrus zest",
+      "type": "Fruit - Garnish",
       "abv": 0,
       "notes": "Lemon peel is the outer zest of the lemon, rich in aromatic citrus oils. Used as a garnish or expressed over drinks, it adds bright lemon aroma and a subtle bitter-citrus note without added acidity.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Apple Slice": {
-      "type": "Garnish (fruit)",
+      "type": "Fruit - Garnish",
       "abv": 0,
       "notes": "An apple slice is a fresh fruit garnish used to add subtle sweetness, crisp aroma, and visual freshness to cocktails and drinks. It complements spirits like whiskey, rum, and apple-flavored liqueurs, and is often used as a rim or floating garnish.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Apple Schnapps": {
-      "type": "Fruit Liqueur",
+      "type": "Liqueur",
       "abv": 20,
       "notes": "Apple schnapps is a sweet, apple-flavored liqueur with a bright, fruity profile and light alcohol warmth. Typically used to add fresh apple character and sweetness, it works well in shooters, highballs, and dessert-style cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     },
     "Malibu": {
-      "type": "Flavored rum liqueur",
+      "type": "Liqueur",
       "abv": 21,
       "notes": "Malibu is a coconut-flavored rum liqueur with a light, sweet tropical profile. Smooth and approachable, it adds coconut aroma and sweetness to cocktails, commonly used in easy-drinking and tropical-style mixes.",
       "created": "",
-      "modified": "2026-01-30"
+      "modified": "2026-02-01"
     },
     "Cherry Brandy": {
-      "type": "Fruit liqueur",
+      "type": "Liqueur",
       "abv": 25,
       "notes": "Cherry brandy is a sweet, cherry-flavored liqueur made by infusing or blending brandy with cherry fruit or flavor. Rich and fruity with light almond undertones, it is used to add depth, sweetness, and stone-fruit character to classic and modern cocktails.",
       "created": "",
-      "modified": "2026-01-29"
+      "modified": "2026-02-01"
     }
   }
 }
