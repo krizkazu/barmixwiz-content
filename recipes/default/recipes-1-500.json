@@ -1577,29 +1577,31 @@
       "ingredients": [
         {
           "ingredient": "Rum",
-          "quantity": 60,
+          "quantity": "60",
           "unit": "ml"
         },
         {
-          "ingredient": "Grapefruit Juice",
-          "quantity": 40,
+          "ingredient": "Fresh Grapefruit Juice",
+          "quantity": "40",
           "unit": "ml"
         },
         {
           "ingredient": "Maraschino Luxardo",
-          "quantity": 15,
+          "quantity": "15",
           "unit": "ml"
         },
         {
           "ingredient": "Fresh Lime",
-          "quantity": 15,
+          "quantity": "15",
           "unit": "ml"
         }
       ],
       "category": "IBA - Contemporary Classics",
       "instructions": "Pour all ingredients into a shaker with ice. Shake well and strain into a large cocktail glass.",
       "created": 1767343370024,
-      "modified": 1767343370024
+      "modified": 1767343370024,
+      "notes": "",
+      "tags": []
     },
     {
       "name": "Horse's Neck",
@@ -2258,7 +2260,7 @@
           "unit": "ml"
         },
         {
-          "ingredient": "Grapefruit Juice",
+          "ingredient": "Fresh Grapefruit Juice",
           "quantity": "22.5",
           "unit": "ml"
         },
@@ -5560,13 +5562,6 @@
       "created": "",
       "modified": "2026-02-01"
     },
-    "Grapefruit Juice": {
-      "type": "Fruit - Mixer",
-      "abv": 0,
-      "notes": "Packaged grapefruit juice is a filtered, pasteurized juice with bright acidity and characteristic light bitterness. Consistent and shelf-stable, it adds freshness, bitterness, and citrus structure to cocktails without the variability of fresh juice.",
-      "created": "",
-      "modified": "2026-02-01"
-    },
     "Espadin Mezcal": {
       "type": "Spirit",
       "abv": 43,
@@ -5575,11 +5570,11 @@
       "modified": "2026-02-01"
     },
     "Jamaica Overproof White Rum": {
-      "type": "Spirit",
-      "abv": 60,
-      "notes": "Jamaican overproof white rum is a high-strength, unaged rum known for its intense ester-driven aroma and bold, funky character. Explosive notes of tropical fruit, banana, and spice make it a powerful accent in cocktails, typically used in small amounts for impact.",
+      "type": "",
+      "abv": null,
+      "notes": "",
       "created": "",
-      "modified": "2026-02-01"
+      "modified": ""
     },
     "Falernum Liqueur": {
       "type": "Liqueur",
@@ -5803,7 +5798,7 @@
       "abv": 45,
       "notes": "Jamaican rum is a molasses-based rum known for its bold, aromatic profile driven by traditional fermentation methods that produce high ester levels. Characterized by ripe tropical fruit, banana, spice, and funky complexity, it adds intensity and distinctive character to cocktails.",
       "created": "",
-      "modified": "2026-02-01"
+      "modified": "2026-02-08"
     },
     "Sugarcane Juice": {
       "type": "Mixer",
@@ -5867,6 +5862,13 @@
       "notes": "Seasonal fruit refers to fresh fruits used at their peak ripeness and availability throughout the year, varying by region and season. They offer optimal flavor, aroma, and natural sweetness compared to out-of-season produce. In cocktails, seasonal fruits are used for fresh juice, muddling, garnishes, or infusions, enhancing drinks with natural character, freshness, and a sense of seasonality while supporting sustainable and cost-effective bar practices.",
       "created": "",
       "modified": "2026-01-31"
+    },
+    "Grapefruit Juice": {
+      "type": "Fruit - Mixer",
+      "abv": 0,
+      "notes": "Packaged grapefruit juice is a filtered, pasteurized juice with bright acidity and characteristic light bitterness. Consistent and shelf-stable, it adds freshness, bitterness, and citrus structure to cocktails without the variability of fresh juice.",
+      "created": "",
+      "modified": "2026-02-01"
     },
     "Beer (Lager)": {
       "type": "Beer",
@@ -5985,7 +5987,7 @@
       "abv": 43,
       "notes": "Jamaican dark rum is a richly flavored rum made from molasses and aged in oak, known for its high-ester fermentation and bold, funky character. Deep notes of ripe tropical fruit, molasses, spice, and oak add intensity and depth to cocktails.",
       "created": "",
-      "modified": "2026-02-01"
+      "modified": "2026-02-08"
     },
     "Gold Puerto Rican Rum": {
       "type": "Spirit",
@@ -6079,11 +6081,11 @@
       "modified": "2026-01-29"
     },
     "Molson Canadian beer": {
-      "type": "Beer",
-      "abv": 5,
-      "notes": "Molson Canadian is a classic Canadian lager known for its clean, crisp profile and light malt character. Smooth and highly drinkable, it offers mild bitterness and a refreshing finish, making it suitable both as a standalone beer and as a light base in beer cocktails.",
+      "type": "",
+      "abv": null,
+      "notes": "",
       "created": "",
-      "modified": "2026-02-01"
+      "modified": ""
     },
     "Canadian Club Whiskey": {
       "type": "Spirit",
